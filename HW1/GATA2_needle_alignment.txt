@@ -1,0 +1,1205 @@
+########################################
+# Program: needle
+# Rundate: Sat  1 Apr 2023 14:36:24
+# Commandline: needle
+#    -auto
+#    -stdout
+#    -asequence emboss_needle-I20230401-143613-0035-48731411-p1m.asequence
+#    -bsequence emboss_needle-I20230401-143613-0035-48731411-p1m.bsequence
+#    -datafile EBLOSUM62
+#    -gapopen 10.0
+#    -gapextend 0.5
+#    -endopen 10.0
+#    -endextend 0.5
+#    -aformat3 pair
+#    -sprotein1
+#    -sprotein2
+# Align_format: pair
+# Report_file: stdout
+########################################
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: Human_GATA2
+# 2: MusMusculus_GATA2
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 14539
+# Identity:    9477/14539 (65.2%)
+# Similarity:  9477/14539 (65.2%)
+# Gaps:        2156/14539 (14.8%)
+# Score: 51994.0
+# 
+#
+#=======================================
+
+Human_GATA2        1 GAGAGAGAGGCAGCGTGAGCGCCAGGAAGGTAGCGAGGCCAGCGTCGCCC     50
+                                                                       
+MusMusculus_G      1 --------------------------------------------------      0
+
+Human_GATA2       51 CGGGACTCGCTGCTCAAGTCTGTCTATTGCCTGCCGCCACATCCATCCTA    100
+                                                                       
+MusMusculus_G      1 --------------------------------------------------      0
+
+Human_GATA2      101 GCAGGGCCCCGTCGCCCACCAGGCGGACAAAAGCGGTCCGCTGAACACCA    150
+                                                                       
+MusMusculus_G      1 --------------------------------------------------      0
+
+Human_GATA2      151 TGCGGCCGCTCGGCGTGCCGCCCAGGCTCTGCTGGTGAGCGCCGCCACCC    200
+                      ||||||||                     ||||            ||  
+MusMusculus_G      1 -GCGGCCGC---------------------GCTG------------AC--     14
+
+Human_GATA2      201 CGCGCCCAGGTCCCGCGAGCCCGCCTGCCGCGCACCTCGCCCTG----CT    246
+                               |||||||.|||..||.|||.|||..|||.|.|.|    ||
+MusMusculus_G     15 ----------TCCCGCGGGCCGACCAGCCACGCCGCTCACACCGCTGCCT     54
+
+Human_GATA2      247 CCCAGCTCTACTCCAGGCCCCGTCCGCCCGGGGGCGCCGCCCACCGCGCC    296
+                     |||.|||...| ||.||||..|.|||||||.|||||||||||||||||||
+MusMusculus_G     55 CCCTGCTGAGC-CCTGGCCGTGGCCGCCCGAGGGCGCCGCCCACCGCGCC    103
+
+Human_GATA2      297 TCGCTCGGTGAGTTTCTTCCACTTCCACCTTC-CCTGGGCCCGGCCCTTC    345
+                     .|..|||||.||||.||. ||| ||..||..| ||  |.||||..|||.|
+MusMusculus_G    104 GCAGTCGGTAAGTTCCTG-CAC-TCGGCCCGCGCC--GTCCCGAGCCTCC    149
+
+Human_GATA2      346 CCGCCCCCGGCCCGGCCCGCCTGGCACCCGAATCGCTTGGTCCGTTTGCC    395
+                     |.|.|.|.|||..||||..||....||||| |||||..|.|||.|    |
+MusMusculus_G    150 CGGTCTCAGGCTGGGCCTCCCAAAAACCCG-ATCGCACGATCCTT----C    194
+
+Human_GATA2      396 CTGTGGCCCCTACCTTTGGGGCTCGCCTTGGCCCTGCCAGAGACCGGAAA    445
+                     ..|||||.|..||                  ||..|.||   .|||||||
+MusMusculus_G    195 TAGTGGCTCAAAC------------------CCAGGTCA---TCCGGAAA    223
+
+Human_GATA2      446 CCCTGGTTATAGGGACTTTAACCAGAGGGAGTATTTGGTTACCTGGGCAC    495
+                     |||                                               
+MusMusculus_G    224 CCC-----------------------------------------------    226
+
+Human_GATA2      496 AGCAGGCCCGCCTCGGGCCTCTTGTCTTCCCATTTCTCGGAGCCACAGGC    545
+                      ..||||||||||.|||.|||.||.|||||..|||..||||||....|.|
+MusMusculus_G    227 -AAAGGCCCGCCTGGGGGCTCCTGCCTTCCGTTTTTCCGGAGCTCTGGAC    275
+
+Human_GATA2      546 CACGAGACCCTGGCATTCCCAGAGCCTCGCAAAGCACCCCCGCCTCCCGG    595
+                     |..||||||| |||.|| |||||||.|.||.|.||.||||  |||||| .
+MusMusculus_G    276 CTGGAGACCC-GGCTTT-CCAGAGCTTTGCGACGCGCCCC--CCTCCC-A    320
+
+Human_GATA2      596 CCCCCGAACTGGGGCCTTTGTCTCGGCCGCCCCCAATCCCCAGGCCACCG    645
+                     ||||.||.||||||||||||||||.||.|..|||.|.||.|.||...|.|
+MusMusculus_G    321 CCCCAGAGCTGGGGCCTTTGTCTCCGCGGTTCCCCACCCGCGGGTAGCGG    370
+
+Human_GATA2      646 CGGCGGATGCGTCCGAGCCGGGCCGCCGAGCGGC---GGCTGCACCTGCC    692
+                     |.|||||||||.||.||||||||.|||.|  |||   |||||||||||||
+MusMusculus_G    371 CAGCGGATGCGCCCAAGCCGGGCTGCCCA--GGCTCTGGCTGCACCTGCC    418
+
+Human_GATA2      693 GGCTGGTCCCGTGCGCCGGCTTTTCGCGGCTTAACCCAGCTCGCTCCTGC    742
+                     ||||.|||||||||.||||||||.|||||||||||||.||||||||||||
+MusMusculus_G    419 GGCTAGTCCCGTGCACCGGCTTTGCGCGGCTTAACCCGGCTCGCTCCTGC    468
+
+Human_GATA2      743 TTGCG-CCCCCGCGCGCTGCGCCCCGCAGCCCTTTATCCTGTGTGACTGG    791
+                     |||.| |||||||.||..|.|||||||.|||||||||||||||||.|..|
+MusMusculus_G    469 TTGTGCCCCCCGCTCGAAGAGCCCCGCGGCCCTTTATCCTGTGTGGCGAG    518
+
+Human_GATA2      792 GGTGCGTGTGGGGGAGAGCGCCGGGTCTGGAAGTCTCCCCCCGCCCCAAG    841
+                     |||||..|||||||||||||..||||.|||||||||..||..| ||||||
+MusMusculus_G    519 GGTGCAGGTGGGGGAGAGCGTAGGGTATGGAAGTCTTTCCATG-CCCAAG    567
+
+Human_GATA2      842 CCGGAGTCGGAATCCGTTTAGTGGGATTTCAATAAGAATGGGGCCGCCGC    891
+                     .|||||||||||||..||.|||||||||||||||||||.|.|||||.|||
+MusMusculus_G    568 TCGGAGTCGGAATCTTTTCAGTGGGATTTCAATAAGAACGAGGCCGACGC    617
+
+Human_GATA2      892 GGGCTTGAAGATCTGCCGCCGGTAGGCGTAGACGGCGTTCTGGATCTGTC    941
+                     .||||.|..||||.||||....|||||||||||||||.|||||..|||||
+MusMusculus_G    618 AGGCTAGGGGATCCGCCGTGCATAGGCGTAGACGGCGCTCTGGGCCTGTC    667
+
+Human_GATA2      942 TGAAAACGGGGCATTTAAAATTATTCTGTGGCGGCCAGGCTTGAACTC-C    990
+                     ||.|..|.|||||||  .||..||||.|||||||||.||||.|||.|. .
+MusMusculus_G    668 TGGACGCTGGGCATT--GAACCATTCGGTGGCGGCCGGGCTCGAATTTGA    715
+
+Human_GATA2      991 GCGTTGCTCCAACCACGAGGGGAAAGGCCCCGCGTTCAG--GGACCCCGT   1038
+                     ||.|..| |||.|...|||||||||||.|..|..|||||  |||||.|..
+MusMusculus_G    716 GCTTATC-CCAGCGGTGAGGGGAAAGGTCTTGTATTCAGAAGGACCTCCC    764
+
+Human_GATA2     1039 GTGTGGCGAACGCTCCTTTACCGGAAAACAAGGAAGGAAATTCG-TTGTT   1087
+                     |.|||||.....||||||||||.|||||||.||||.|||||||| |||||
+MusMusculus_G    765 GAGTGGCATCTTCTCCTTTACCAGAAAACAGGGAAAGAAATTCGTTTGTT    814
+
+Human_GATA2     1088 TTGGAAAAAGCCTCCTCTCCCGAGGTCGGGAACATCT-GGTGGTGAGCTC   1136
+                     ||.||||||..||...|||||.|||||||||||||.| ||.||||||.||
+MusMusculus_G    815 TTTGAAAAAAACTTGCCTCCCAAGGTCGGGAACATTTGGGGGGTGAGTTC    864
+
+Human_GATA2     1137 CAGGTCTACGCAG----GCACCCCGTGCTAGGATTCGTTTATGAGCAGGC   1182
+                     ..|||||||.|.|    .||...||     .||||||||.||.|||||||
+MusMusculus_G    865 TGGGTCTACACTGTGGTTCAAATCG-----AGATTCGTTGATAAGCAGGC    909
+
+Human_GATA2     1183 AGGATTCGAGAACCAGGTAGGGCCCGTGCGGCAGCCGAGGCGTCTGGGGA   1232
+                     |||||.|..|||||||||||.|||...|.|.|.||| ||||||||||.||
+MusMusculus_G    910 AGGATCCAGGAACCAGGTAGAGCCAAAGTGTCTGCC-AGGCGTCTGGAGA    958
+
+Human_GATA2     1233 GCGTTTCCCAGCCGGGCTGACAAATTGCAGACAAATTGTGCCTAACGAAA   1282
+                     |||||.||||||||||.||||||||||||..|||||||...|||||||||
+MusMusculus_G    959 GCGTTCCCCAGCCGGGTTGACAAATTGCAAGCAAATTGCATCTAACGAAA   1008
+
+Human_GATA2     1283 CGGATTTACCAGTTGTCAGGCCGCCGGCCCC--GGCCGCTCCAAATAAAC   1330
+                     .|.|||||.|||||||||.|.|||.|.||||  |||  |||..|.||||.
+MusMusculus_G   1009 TGCATTTAGCAGTTGTCAAGTCGCTGACCCCCAGGC--CTCTGAGTAAAG   1056
+
+Human_GATA2     1331 CGTGGCTGTTCGTGGAGGAGGGAGAAGCACGGCCCGATTGTCTCCGGGTC   1380
+                     |.|.||||||.|. .|||||||| .|||.|  |||      |.|||    
+MusMusculus_G   1057 CATAGCTGTTGGC-AAGGAGGGA-CAGCCC--CCC------CCCCG----   1092
+
+Human_GATA2     1381 TCAGCAGGGTTCCGCGGGGAGCCTGCCAGGCTTGAAGGTAGGGGTCAGAA   1430
+                     ||.||.|        ..||.|..|| .|||||.||||.||   ..|||||
+MusMusculus_G   1093 TCTGCTG--------ATGGGGTATG-GAGGCTAGAAGTTA---ACCAGAA   1130
+
+Human_GATA2     1431 GCGATATAGAATCTCGGAGGCGCCTGGGTCCAGGGTGCCGAGACACCTAG   1480
+                        ||.....|.|.| .||||.|||||..||||.|.||| ||||||||.|
+MusMusculus_G   1131 ---ATTGCAGAGCCC-TAGGCACCTGGCACCAGCGGGCC-AGACACCTGG   1175
+
+Human_GATA2     1481 GACGTGGGGGCCACAGACTCTACGATTCCCAAAGACACAGAACAGTAATG   1530
+                     |||.|.|||.|| |||.|..|....||||.||||||.|||      |||.
+MusMusculus_G   1176 GACATTGGGTCC-CAGTCCGTGGATTTCCAAAAGACTCAG------AATA   1218
+
+Human_GATA2     1531 AGGTGGGAGAGCCTGCACTGATGCCGAGGGAGGGAGCCTTCTGC-TTTAA   1579
+                     |..|||           |.|||||.        .|||||||||. |||.|
+MusMusculus_G   1219 AAATGG-----------CAGATGCT--------AAGCCTTCTGATTTTGA   1249
+
+Human_GATA2     1580 GGGGCTGGAATTGAACCTCAAGGAGCAGGAGGGGCCGTTATAGCAGTAGT   1629
+                     ||.|||||||..|||...|||.|||||.|..|..||||| |||..|    
+MusMusculus_G   1250 GGCGCTGGAAGCGAATTCCAAAGAGCAAGGAGCACCGTT-TAGAGG----   1294
+
+Human_GATA2     1630 CCCCCCCTTGGGAACCCCCCCGGAGGGATGGCTGCTGGCCTGAG----AT   1675
+                                    |||.|.|.|..|||||.|||| .||.|.|    ||
+MusMusculus_G   1295 ---------------CCCTCTGAATTGATGGGTGCT-TCCAGGGACATAT   1328
+
+Human_GATA2     1676 CTAATGCCCCGGCTTTAAGGGAACTTCTGAACCCATCT--GCTAAGGCAC   1723
+                     ||.|..||....|.|..|||..|| .||| |||..|..  |..||.||.|
+MusMusculus_G   1329 CTGAGTCCTTCACCTAGAGGAGAC-CCTG-ACCAGTAATGGACAAAGCTC   1376
+
+Human_GATA2     1724 C-CCAC-TTCCTCCCCGTACCCCTCAAGGTTTATTGCCA---GTGTGGGG   1768
+                     | |||| |||.||||.||..|||||||...||.|..|||   .|||.|||
+MusMusculus_G   1377 CTCCACTTTCTTCCCAGTGTCCCTCAAACCTTGTGACCACGGATGTTGGG   1426
+
+Human_GATA2     1769 CTGGGAGGCCGCTGGGTTGCGAATTAAATTTCTCTATGGAAGGTAGTCCC   1818
+                     || |||||||.|.||||||.|||  ..|.||||.|.|||||||.|| |||
+MusMusculus_G   1427 CT-GGAGGCCTCCGGGTTGTGAA--CGACTTCTTTTTGGAAGGCAG-CCC   1472
+
+Human_GATA2     1819 TTAGCAAATGGGTTTCCTTGACACCCCACCCCCAGCCCCACACCGCGGGC   1868
+                     |.|||.                           ||||          |.|
+MusMusculus_G   1473 TAAGCT---------------------------AGCC----------GAC   1485
+
+Human_GATA2     1869 CAATTAGCTGCCCATAAGGAAAAGGCGAGAAGAATTAGGTTACAAAGGGA   1918
+                     ||.||||||||||.||.|.||||||.|   ||||||||..|.|||.|.||
+MusMusculus_G   1486 CACTTAGCTGCCCTTAGGAAAAAGGAG---AGAATTAGTGTGCAAGGAGA   1532
+
+Human_GATA2     1919 GGGCAAACTTATGGTCCCAAAGGGGCCGCCTCGGATGAGCTAACTTTAAA   1968
+                     |||.||.|.|.||.|||  .||.||..|.||.|||.||||.||.||||||
+MusMusculus_G   1533 GGGTAACCCTGTGATCC--TAGAGGATGGCTTGGAGGAGCGAAGTTTAAA   1580
+
+Human_GATA2     1969 CAAAGGGCTCAGAGGGGGGGGGGGGCTGGACGGCCGGGGAGACCT--GGG   2016
+                     |||||||| .||.||||||||||    ||||.||    |.||.||  |||
+MusMusculus_G   1581 CAAAGGGC-AAGTGGGGGGGGGG----GGACAGC----GTGAACTGGGGG   1621
+
+Human_GATA2     2017 CATCTCTGTG--TCCCCACCTGGCACCCGCG-GCTTAGTAGAGGCCTGAG   2063
+                     | ||.|..|.  |||.|.|||  ..||.|.. |.||.|.||..||| |.|
+MusMusculus_G   1622 C-TCCCAATAATTCCACCCCT--TTCCAGAATGGTTTGCAGGAGCC-GGG   1667
+
+Human_GATA2     2064 AAGCACTCTAGAACCGGGCACCAGATCTGCTACC--TCCCCAGCTCCCAG   2111
+                     ...||| |.|||||.|||| |..||||     ||  ..|||||||||||.
+MusMusculus_G   1668 CCACAC-CCAGAACAGGGC-CTGGATC-----CCAGAACCCAGCTCCCAC   1710
+
+Human_GATA2     2112 GCAGAAGCACCCAGGTCAAATGGTGGCGATCGCCGCTGTG----------   2151
+                     .|||.|||||||....||        |..||.||.||.||          
+MusMusculus_G   1711 ACAGGAGCACCCCTTGCA--------CTGTCCCCTCTCTGTAAACACTTC   1752
+
+Human_GATA2     2152 -AGTTCT----------------------CGGGCCAAAAGGGTCCTTCGA   2178
+                      ||||||                      |.|||..|||.|||..||.||
+MusMusculus_G   1753 CAGTTCTCTCTCTCTCACACACACACAGACAGGCACAAATGGTGGTTAGA   1802
+
+Human_GATA2     2179 AAATTCTGCTTCCTGGCTGACCTTCTCCAGTCCTCAGAGAAATCTTGTTC   2228
+                     ||.||..|.|   |||..|.|...|||    ||||.|    .|||     
+MusMusculus_G   1803 AATTTTCGTT---TGGGAGCCAAGCTC----CCTCTG----GTCT-----   1836
+
+Human_GATA2     2229 CCAAGTAAGGAAAGTGACAGCTTCTT-----AATGTGATCAAAGGCAGCG   2273
+                     ||..|.|||||||..||||..||..|     .|.|.|.||...|...||.
+MusMusculus_G   1837 CCGTGGAAGGAAAAGGACAATTTAGTTCAGAGAAGAGCTCTGGGTATGCT   1886
+
+Human_GATA2     2274 CCAGCATTTCCAACTATACTCCCGAACGAACAAAGTACTGAAAAAGGGAA   2323
+                     |||..||...||||  .||..|...|..||||||  ||....|||.||.|
+MusMusculus_G   1887 CCAAAATGAACAAC--AACAACAACAACAACAAA--ACATTTAAAAGGCA   1932
+
+Human_GATA2     2324 CGCGTCCCTCTAAAGGTGTTTTGGGGACCCCAAAGTTCCAGCCCATAAAT   2373
+                     .|.||||..||.|||||.|.||.||.|||.||.|||....|....|||.|
+MusMusculus_G   1933 AGTGTCCACCTGAAGGTATCTTAGGAACCTCAGAGTGGGCGTTTGTAAGT   1982
+
+Human_GATA2     2374 TGGAGTAAATCTGCTCTCACC------AGGC---------CTGGAACAGC   2408
+                     ||.|.||||||||||.||...      .|||         ..||||.|.|
+MusMusculus_G   1983 TGAAATAAATCTGCTTTCGTTGGGGGGGGGCGGTGGGGTTGGGGAAAATC   2032
+
+Human_GATA2     2409 GCCTCAAGACCCCAGCAGATTCTGGGGGCTGCGTTGACCCTCCCCGGGAG   2458
+                     |..||.|..||       ||..||||..|||..|.|..||||||. |..|
+MusMusculus_G   2033 GAATCTAAGCC-------ATCTTGGGAACTGACTCGGACCTCCCT-GTTG   2074
+
+Human_GATA2     2459 TTTGTTTGGGGCCCAAGGTGGGAGGACCATGTCTTCGGCCTAATGGGGAG   2508
+                     |||||||||........|| ||.||..||  |.||.||||||.|    ||
+MusMusculus_G   2075 TTTGTTTGGACTTTTTAGT-GGTGGTTCA--TTTTTGGCCTAGT----AG   2117
+
+Human_GATA2     2509 GGGC--CCGG--TTGGTGTCCCTCGGTCTGCCTGG--CACACACAGACAT   2552
+                     .|||  |..|  ||.|||      |.|||.||||.  |||||||...|||
+MusMusculus_G   2118 TGGCTTCTTGGCTTTGTG------GATCTACCTGATTCACACACGTTCAT   2161
+
+Human_GATA2     2553 TGTCG--AGCGCGGGTCCCTCTTTATTGGCCAGCTGGGCGCCCTGCTA-C   2599
+                     ...|.  |||.|.||..||.||.||||.||||.||..|.||.|||||| |
+MusMusculus_G   2162 CAGCATCAGCACAGGCTCCCCTCTATTCGCCAACTCAGTGCTCTGCTATC   2211
+
+Human_GATA2     2600 TTGGCGTCGCATTTCTCTCTCCCAGGCGGGTTCGTTTCCGCCAGAGAATG   2649
+                     .|.||.| |||.||.||.||..|||.||||||.|||.|.||..||.||..
+MusMusculus_G   2212 CTAGCCT-GCAATTTTCCCTTTCAGACGGGTTAGTTCCTGCTGGAAAACC   2260
+
+Human_GATA2     2650 CAGCAGTCCCGCATCCTACGCAGGACCTGCAACCGAGGTGGAGGCTTCGG   2699
+                     ||||||.||||||||..|||||||..||.|||||...|..|.||| ||||
+MusMusculus_G   2261 CAGCAGACCCGCATCAGACGCAGGGACTCCAACCTCAGCAGGGGC-TCGG   2309
+
+Human_GATA2     2700 TCAAGCCGGCT-CCTGCCTGCGTTGTCGAGGAAGGCAACCCCAAGGCCTG   2748
+                     .|.|||.|||| ..|||.|||..|.||.| ||||||||||....|.|||.
+MusMusculus_G   2310 CCCAGCTGGCTGGTTGCTTGCAGTTTCCA-GAAGGCAACCTTGGGTCCTC   2358
+
+Human_GATA2     2749 AAAGGACCTGGCA-GAACTCCTGTTTCCTTTTTTTCCTCTAC----ACCG   2793
+                     ||||||||||||| ||.|.||   .|||      ||||||.|    .||.
+MusMusculus_G   2359 AAAGGACCTGGCAGGACCACC---CTCC------TCCTCTCCCATGCCCA   2399
+
+Human_GATA2     2794 GATTGCGGGCAAG-GAGGCTGGTTCGGGTCTCCCGAGGCCCCTGCTCAAG   2842
+                     |..||.|||||.| .||||||.|.|||||||||.|||||||..|||||||
+MusMusculus_G   2400 GTCTGTGGGCAGGCTAGGCTGTTGCGGGTCTCCTGAGGCCCAGGCTCAAG   2449
+
+Human_GATA2     2843 CACTCCTTAACCGTCCTGCTAAGCCCCTCTGTGC--GGCGATTTTCTGAG   2890
+                     ||...|||||||..||.|.|||||||.|.| |||  ||||||||||||||
+MusMusculus_G   2450 CATAGCTTAACCACCCGGTTAAGCCCTTGT-TGCATGGCGATTTTCTGAG   2498
+
+Human_GATA2     2891 CTGCCGAGCGGGGTAATTAAATCCCCTCCCTCGCTCCGCTCTGCGTCAG-   2939
+                     |||||||.|||.||||||||||||||..|....||||||||||||.||| 
+MusMusculus_G   2499 CTGCCGAACGGAGTAATTAAATCCCCCTCTGTACTCCGCTCTGCGCCAGC   2548
+
+Human_GATA2     2940 GCAGGCGGCAGCACAGGGCTGACGTTTGGGCAGGGGACTCAGCCAGGC-T   2988
+                     .|.|...|.|.|.|.|||||..|||||.|...|||.||.|| |||.|| |
+MusMusculus_G   2549 ACCGTGAGAAACCCCGGGCTCTCGTTTCGAGTGGGAACCCA-CCAAGCTT   2597
+
+Human_GATA2     2989 GGCCACCTCCACTACCGCAGTGGC---CGGGACCCTGCCGCGGAGGGGTT   3035
+                     |||||..|.|   |||.|..||.|   |.||||.||||| |||.      
+MusMusculus_G   2598 GGCCATTTTC---ACCTCTATGACAGGCAGGACGCTGCC-CGGT------   2637
+
+Human_GATA2     3036 AGACGCCGAGCTCGCTGCGCTGAAACTGGGAATACACACG----GAACGG   3081
+                          |||...| |..||...||||   .||..||.|.|.    |..|..
+MusMusculus_G   2638 -----CCGCAAT-GTGGCATGGAAA---AGACAACCCCCATCTCGTTCAA   2678
+
+Human_GATA2     3082 GGAGGGGGAGGGTAATTTTTACCGCGCCGGTGGGAGAAAA-AGGCGAATT   3130
+                     ..||||.||   |||||||.|..|||.|..|||||||||| |||..||||
+MusMusculus_G   2679 ACAGGGAGA---TAATTTTAATTGCGACTTTGGGAGAAAAGAGGGAAATT   2725
+
+Human_GATA2     3131 ACCTGCTTTCC---CGAGGG--------AC-GCGCGTAG-CCACTTCCCT   3167
+                     ||||||  |||   ||||||        .| ||.||.|| ||.|..||.|
+MusMusculus_G   2726 ACCTGC--TCCGGGCGAGGGGGAGGGTATCTGCTCGGAGACCCCCGCCTT   2773
+
+Human_GATA2     3168 GAGAGCCGCGGCACCGATCGCGGCCGGGCGGGAAGCTTCCGCT-CGGTCC   3216
+                     ||.||||||.||.|||| |.|||.|   .|||.||.||||.|| ||..||
+MusMusculus_G   2774 GACAGCCGCCGCGCCGA-CTCGGTC---AGGGCAGTTTCCTCTGCGCACC   2819
+
+Human_GATA2     3217 TGGCGTTCACAGCCCAGCGGCCAGCTGCTGGTCTGCCTCCCGCGCTGGGT   3266
+                       ||||||.|..||.||     |.|| ||              ||.|||.
+MusMusculus_G   2820 --GCGTTCTCCTCCTAG-----AACT-CT--------------GCAGGGC   2847
+
+Human_GATA2     3267 CCCAGGGTTCGCGCTCGAGCGGGGCAGCTTTGCCGGACACGGGGGATTAT   3316
+                     |...|..|||| || ||...||||.|.|.|||.||.|.|.||||  ||||
+MusMusculus_G   2848 CATGGAATTCG-GC-CGCATGGGGTACCGTTGTCGAAAATGGGG--TTAT   2893
+
+Human_GATA2     3317 CCCTGGGGACGCGGTGTCTTTCAGAGGGTCTTGCTAGTCTCCGGAGACGC   3366
+                     |.|.||....|.|..|.|||| |||...||.||||||..|||.|.|||..
+MusMusculus_G   2894 CGCCGGCTTTGAGAGGCCTTT-AGAATCTCCTGCTAGGTTCCAGGGACAT   2942
+
+Human_GATA2     3367 CAAATAGGCTCG-AGCTCCGCGGCGATCTCATTTTACGAGTTGATGAAGA   3415
+                     ..||.|..||.| |.||||.||.||||.||...||.|..|||.|||.|||
+MusMusculus_G   2943 AGAACAATCTGGAAACTCCACGACGATTTCGCCTTGCTCGTTAATGGAGA   2992
+
+Human_GATA2     3416 ATCGTAAGCTAAAGGATGGGAAAAGTTGAGAGACAGACGGACGGAGAGAC   3465
+                     |||.|..||||||||.|||||.|||.  .||||.||.|...|    .||.
+MusMusculus_G   2993 ATCATGGGCTAAAGGCTGGGAGAAGC--CGAGAAAGCCTTCC----CGAA   3036
+
+Human_GATA2     3466 AGTGGGCCCCGGCGGGACCGCACGCGTTGAGGGGAACGCCAACCGGG-AG   3514
+                     ||.|||.||.....|.|||||.| .||    ||||.|||.||.|.|| .|
+MusMusculus_G   3037 AGCGGGTCCTAAGTGAACCGCGC-AGT----GGGAGCGCGAATCTGGCTG   3081
+
+Human_GATA2     3515 GCACGGAGACTGCTCACCTGCCCGGCCTGGCCGCGGAGGCCCGGCGCCAA   3564
+                     ||||.|||||..|.|||||||||.||| |.|| |.|||||.|.||     
+MusMusculus_G   3082 GCACTGAGACCACCCACCTGCCCAGCC-GACC-CCGAGGCACTGC-----   3124
+
+Human_GATA2     3565 GGGCCTCGCGCTCGGCCTCCCGCCCCCTGCGCGGCTTCC-CGGGCTGG--   3611
+                      ||.||||||| |  ||||..|||||     .||.|.|| |..|||.|  
+MusMusculus_G   3125 -GGTCTCGCGC-C--CCTCTAGCCCC-----TGGATCCCTCTTGCTAGAC   3165
+
+Human_GATA2     3612 CGCCGGCCTCCGCTCCCGCAGAGTGGAGTTCCGAGCAGACCGGGCTCC-G   3660
+                     |.||.|||||.|||    ..|.|.|||.|.||||||...|.||||.|| |
+MusMusculus_G   3166 CTCCCGCCTCGGCT----GGGCGCGGACTCCCGAGCCTCCTGGGCCCCTG   3211
+
+Human_GATA2     3661 CGCGCTCCAGCGTGGAGGGGAGCGGGAGGCTTAGCAGGCGGCTCGGGCAG   3710
+                     ...||||..|.|...||.||.|||||......|||.|.|.|| .||.|..
+MusMusculus_G   3212 ATGGCTCTGGAGCACAGAGGCGCGGGGAATACAGCGGACAGC-AGGACCC   3260
+
+Human_GATA2     3711 GCGGGTCCCC---CAAGGGCACGAGACGCGCTGGTTCCCAGCCCAATGGA   3757
+                     .|....||||   |.||||..|.|||.||||.||||.||.|.|||.||||
+MusMusculus_G   3261 CCCCCCCCCCGCGCCAGGGAGCAAGAGGCGCGGGTTTCCGGTCCAGTGGA   3310
+
+Human_GATA2     3758 GCTCTGCGCCCCCCAGCCCC--GCGCTTTACCTGCGCTGAGGCCTCGGAC   3805
+                     |.||||| .||||..|||||  || |||||||||..|...||||||||||
+MusMusculus_G   3311 GTTCTGC-ACCCCGGGCCCCAGGC-CTTTACCTGTTCCAGGGCCTCGGAC   3358
+
+Human_GATA2     3806 AGACAAACGGACGCCAGACGCCTAGGCAGGAGGAGGCCTCAGCCTGAGCC   3855
+                     |||||.|.|||||||||.|||..||||..||||||||| |.||| |.||.
+MusMusculus_G   3359 AGACAGATGGACGCCAGCCGCAGAGGCCAGAGGAGGCC-CTGCC-GTGCG   3406
+
+Human_GATA2     3856 CGCGGCCCCTTGGCGCTGCCCTGAACTGGCCTGGGAGGGGGTGACGGGGG   3905
+                     ||||.|||||..||||||.||..|...|.|||||||||||||||||||||
+MusMusculus_G   3407 CGCGCCCCCTCAGCGCTGTCCGCAGAGGACCTGGGAGGGGGTGACGGGGG   3456
+
+Human_GATA2     3906 CGCGCCCGCGGAGCTGGGCCC----AGCCGGGCGCCCCCGGAGCCGAGGG   3951
+                     ||||||||.|.|||||.||||    .||.||||||||||.||||||||||
+MusMusculus_G   3457 CGCGCCCGAGAAGCTGAGCCCTCCTGGCTGGGCGCCCCCCGAGCCGAGGG   3506
+
+Human_GATA2     3952 GACCGAGGGCTTTCCTCCCTCCTCGGATTATTAAAAAGTTCATTTCCTGG   4001
+                     |||||||||||||||.|||||||.||||||||||||||||||||||||||
+MusMusculus_G   3507 GACCGAGGGCTTTCCACCCTCCTTGGATTATTAAAAAGTTCATTTCCTGG   3556
+
+Human_GATA2     4002 CGAATCGGGTGACGTCAGGGGCTCGGCGTCGCGGTGGCGGGGCCGCCCGG   4051
+                     ||||||||||||||||||||||.||||||||||||||||||||||||.||
+MusMusculus_G   3557 CGAATCGGGTGACGTCAGGGGCCCGGCGTCGCGGTGGCGGGGCCGCCGGG   3606
+
+Human_GATA2     4052 CCGGAGAAGCCGCCTCCAGTTACCCAATTACCGACTGTCAATCCCGCCGC   4101
+                     |||||||||||||||||||||||||||||||.||||||||||||.|||||
+MusMusculus_G   3607 CCGGAGAAGCCGCCTCCAGTTACCCAATTACGGACTGTCAATCCTGCCGC   3656
+
+Human_GATA2     4102 CCCTCCCCCACTCTCCCGGGGGTGGCCGGGACCCCAGCCCTCCTCCTGCC   4151
+                     |||||||||| || |..|||||.|||.||||||||||||.|.|.||.||.
+MusMusculus_G   3657 CCCTCCCCCA-TC-CTTGGGGGCGGCGGGGACCCCAGCCTTTCCCCAGCT   3704
+
+Human_GATA2     4152 CCCGACCCACCTGGGGGCCCTCTGGACATCTACCCCGGGAGCCTCGGGCC   4201
+                     |..||||.|||||||...||||||||..|.|.|....||.|..||||.||
+MusMusculus_G   3705 CGGGACCAACCTGGGACTCCTCTGGAATTATTCTTTAGGGGTTTCGGTCC   3754
+
+Human_GATA2     4202 CAACAGGGA-AGAGG-GC----TGGAGGACGC--TGTTGAGTCCCCCCAG   4243
+                     |..||..|| ||||| ||    ||||||.|.|  .|.|..|.|...||| 
+MusMusculus_G   3755 CTGCAAAGATAGAGGAGCTATGTGGAGGGCTCCAAGCTTGGCCAATCCA-   3803
+
+Human_GATA2     4244 TACTCGGCACCTGTCTAGGTCCCCCAAAATGCCTTTGTCCTGGAC-CTCC   4292
+                        || ||||||||||||.|.||||.|||      .|||.||||| |.|.
+MusMusculus_G   3804 ---TC-GCACCTGTCTAGATTCCCCTAAA------AGTCTTGGACTCACA   3843
+
+Human_GATA2     4293 CTCCTCGGCCCGGGGCTCCCTTCGAGCCTCCGTCTCCCCAGTCTGTACAA   4342
+                     ..|.||...|.||   .|.|||.|||..|..|||||||  .|||.||...
+MusMusculus_G   3844 AGCTTCTTTCTGG---ACTCTTGGAGTTTAGGTCTCCC--ATCTATAGCC   3888
+
+Human_GATA2     4343 TGGGAGGGAGGAAGACTTGTGCGCCCGGCCCACACGAACCATAGAGCCGA   4392
+                     .|||||||||..||..||||...|.||  ||||. ||||......|.|  
+MusMusculus_G   3889 AGGGAGGGAGCTAGGTTTGTATACTCG--CCACT-GAACTCACTTGTC--   3933
+
+Human_GATA2     4393 TCTCCGGGCTAGAAGTG-AGTGGGGAGCACTTCCAGGTGACTTAGAAGAC   4441
+                     |||||.|..|.||.||| .||||.||..|..||||||||||||.|..||.
+MusMusculus_G   3934 TCTCCAGAATGGAGGTGTTGTGGAGAAAAACTCCAGGTGACTTTGGGGAA   3983
+
+Human_GATA2     4442 GGAGACCTCAGACCACCGCCTCCCCCTCACCAGAGGCCACCTCGGGGACC   4491
+                     ..||..||||.|.||..||.||||.|||.|.|.||.||..||||||||  
+MusMusculus_G   3984 AAAGTGCTCACAACATTGCTTCCCTCTCCCTAAAGACCGTCTCGGGGA--   4031
+
+Human_GATA2     4492 CCCCCCGGAGGAAAAAAAAT-----GCCACCTCTTGCCCGGGGGCGTCTC   4536
+                     |||...|.|.|||||||.||     |..|...|   |||  |||.|||||
+MusMusculus_G   4032 CCCTTAGAAAGAAAAAATATATATGGTTAATAC---CCC--GGGAGTCTC   4076
+
+Human_GATA2     4537 CCTCCAGCTGGCGCCGGCGCCAGT---CCGGGTCTCCACGGCCTCGCCCC   4583
+                     |||.||||.|.|.|.|||||||||   |||   |||||||||||||||||
+MusMusculus_G   4077 CCTTCAGCCGACTCTGGCGCCAGTTTCCCG---CTCCACGGCCTCGCCCC   4123
+
+Human_GATA2     4584 AGGCAATTGGGCCCGTTGGCCTGCGAAGGCCACGCCCGGGGAGGGGTGCC   4633
+                     |||||.||..|||.|.|||.||.|.||||||.|||||||.|        |
+MusMusculus_G   4124 AGGCAGTTCAGCCTGGTGGTCTACTAAGGCCCCGCCCGGAG--------C   4165
+
+Human_GATA2     4634 CCCTCCCCCTTTCTGGAGCCACCGGCCGGGCCACCTCCACTG--GGTCAA   4681
+                     ||.|||||||..|||| |||||.|||..|.||.|..|||.|.  ||||.|
+MusMusculus_G   4166 CCTTCCCCCTCCCTGG-GCCACTGGCTTGACCGCGACCATTATTGGTCTA   4214
+
+Human_GATA2     4682 GCACAGCCCTGAGCGGCCGCGTGTCCGAGGCCCAGGTGCCCTCTAGAGCC   4731
+                     ||||||||...||.|.|...|||..|.|.|..|.||||||||..|||   
+MusMusculus_G   4215 GCACAGCCTCAAGTGTCTTAGTGCTCAAAGTTCGGGTGCCCTAGAGA---   4261
+
+Human_GATA2     4732 CTGTAGTTCCTGCCCCTCTCTGCCCCTCTCGGCTCCTGCTGTTCCGCCGC   4781
+                         |||     ||.|..||  |    ||.|.|||.||.|||.|.||.| 
+MusMusculus_G   4262 ----AGT-----CCACAATC--C----CTAGACTCATGTTGTCCAGCGG-   4295
+
+Human_GATA2     4782 TGTCGTCCGAACCATCCCAACCCCCAGTCCACCCAGACAGCGCCCGAGCT   4831
+                         .||| .||||.||.....|.|||....|||.||.||         .
+MusMusculus_G   4296 ----ATCC-TACCAGCCTCTTGCACAGCTATCCCTGATAG---------A   4331
+
+Human_GATA2     4832 AGGGGAGGGAACGGTCTGGGTAGGTAACTGCGCTCGGACTGACC-ACGTT   4880
+                     |||..||.||   ||.||||.||..|..||...|.||.|||.|| .|||.
+MusMusculus_G   4332 AGGACAGAGA---GTTTGGGGAGTCAGTTGGATTTGGGCTGGCCGTCGTC   4378
+
+Human_GATA2     4881 C--AGCGGTGAAGGAG------CGTGGCGGGGTTAG--------GGTCTC   4914
+                     |  |||.|||.|||.|      ||. .||.|..|||        ||||.|
+MusMusculus_G   4379 CGTAGCAGTGGAGGTGGGGCTCCGC-CCGAGAGTAGAAAGCTGTGGTCCC   4427
+
+Human_GATA2     4915 GG-GGAGAGGCCATCCAGAGGGTGTGCGGCCCGGGCTCCTGGGGAG--GG   4961
+                     .| .|||| |..|.|||||.||||..||.|.| ||||||||||.||  .|
+MusMusculus_G   4428 AGCAGAGA-GATACCCAGAAGGTGCACGTCTC-GGCTCCTGGGAAGTCAG   4475
+
+Human_GATA2     4962 GG---CAGTTGGTGGTTAGTTACTGCTAGGGAGGCCCAGAGCATCGAGGG   5008
+                     ||   |..||.|||..|||||.|||..||||     |||||..|   ||.
+MusMusculus_G   4476 GGACCCTATTCGTGCCTAGTTGCTGGGAGGG-----CAGAGGTT---GGA   4517
+
+Human_GATA2     5009 ATCCCGGAGTGTTCGCAAGAGGGGCTGCAGGGGTCGGGCCTTGGGGTGAG   5058
+                     |..||.|||.||..||..|||||| |||| |||||.|.||..  ||.||.
+MusMusculus_G   4518 AGACCTGAGCGTCTGCCGGAGGGG-TGCA-GGGTCTGCCCAC--GGCGAA   4563
+
+Human_GATA2     5059 GGTCCCTTAGTGGTGGGGCGCGTTGGCAGCAGGGGCCGCCAGGAGCGCGC   5108
+                     ||||||.|.|.||.||||.|||||||||.|||.||||||...|||.||||
+MusMusculus_G   4564 GGTCCCCTGGGGGGGGGGGGCGTTGGCATCAGAGGCCGCAGAGAGGGCGC   4613
+
+Human_GATA2     5109 AGGGAGGGGGCCCGCCGGCTGAGGGGGGCCGGCCCGCGGGTCAGTCCCGG   5158
+                     .||.||||||||.|.|.||..| ||.||||.||..||||||||.|||||.
+MusMusculus_G   4614 TGGTAGGGGGCCAGGCAGCCTA-GGAGGCCAGCTTGCGGGTCATTCCCGA   4662
+
+Human_GATA2     5159 AGTCCAGCGGTTCGGGAATTGCGGACGCAGCCAAT-GGGAGGCGGAGGCT   5207
+                     ||||||||||  |...|...||||..||||||||| |||.||||||||||
+MusMusculus_G   4663 AGTCCAGCGG--CCAAAGCGGCGGGAGCAGCCAATGGGGGGGCGGAGGCT   4710
+
+Human_GATA2     5208 GGGAGGCGCGCGGCGTTGATTGGCTGGCTTGGGCTTCTTAGGCGTGCGCG   5257
+                     |||.|||||||||||.||||||||||||...||||||.||||||||||||
+MusMusculus_G   4711 GGGCGGCGCGCGGCGCTGATTGGCTGGCGCCGGCTTCATAGGCGTGCGCG   4760
+
+Human_GATA2     5258 GCCCCCGCTTCATGTCTGTGCAGGAGTCGGCAGCTGGCGCCAGGGCGGCC   5307
+                     ||||||||||||.|||||||||||||||||||||||||||||||||||||
+MusMusculus_G   4761 GCCCCCGCTTCACGTCTGTGCAGGAGTCGGCAGCTGGCGCCAGGGCGGCC   4810
+
+Human_GATA2     5308 GGAGGATGCCGAGGGGCCGGAGCCGGGAGGGCCCGAGGCCGAGGCGCACT   5357
+                     |||||||||.|||||||||||||||||.|||||.|||||||||.|||.|.
+MusMusculus_G   4811 GGAGGATGCAGAGGGGCCGGAGCCGGGCGGGCCGGAGGCCGAGACGCGCG   4860
+
+Human_GATA2     5358 CTACCCCCAGCTCCTACCCTGTAAGCCCCGCCAGCCTCCGGACGTGCTGT   5407
+                     ||..||||..|.||||.||.||.| ..|||||.|||...|.|||.|||||
+MusMusculus_G   4861 CTGTCCCCCACCCCTATCCCGTGA-ATCCGCCGGCCCTGGAACGCGCTGT   4909
+
+Human_GATA2     5408 CCCTGGGCCCGTCGCCCTCGGGGCTCCCGCCGGAACTCCTTCACTCTCAG   5457
+                     |.|||||||||.||..|.||||   |.|.||.|...||..|.||||||..
+MusMusculus_G   4910 CGCTGGGCCCGCCGTACCCGGG---CTCTCCTGGTGTCTCTTACTCTCTA   4956
+
+Human_GATA2     5458 AGGCCGAGTCCCTCCCCTCCCCACG--GCTGCGTGTGTAAGTTTGGGGTT   5505
+                     ..||.||| |||||||||.|||.||  ||||||.|||||||||||.||||
+MusMusculus_G   4957 CTGCTGAG-CCCTCCCCTTCCCGCGCCGCTGCGAGTGTAAGTTTGAGGTT   5005
+
+Human_GATA2     5506 TGAGAGCCGGCTGGGGGCCTG-GGGCGCTCCTAGCTTTGAGGGGACTCTG   5554
+                               |.||||||.|| ||.|..||||||.||.|||||..|||||
+MusMusculus_G   5006 ----------CAGGGGGCTTGTGGACATTCCTAGGTTGGAGGGATCTCTG   5045
+
+Human_GATA2     5555 GGGGGACTTAGGGCGGGGGGCCAGGCTGCGGGCGACTGCTTTGGTGTGCT   5604
+                     .||.| ||.||..|.||....|   |||.||||||.|.|.||..|.||||
+MusMusculus_G   5046 TGGAG-CTCAGACCAGGATCTC---CTGTGGGCGATTACGTTCTTATGCT   5091
+
+Human_GATA2     5605 TTGTTGAGAGGT------CCTGATTGTGC-CGCTT---AGTACTGCGCTC   5644
+                     |||..|||||||      .|||.|.|.|. .||.|   .|..|.||.|.|
+MusMusculus_G   5092 TTGGGGAGAGGTTGGCTGACTGCTAGAGAGTGCATTGGGGACCGGCTCGC   5141
+
+Human_GATA2     5645 AG-----GGGGCTGCGTGTGCATGTTTT---------CGGGG---TTGAG   5677
+                     ||     ||..|||||.||||.|.||||         |||||   |.|.|
+MusMusculus_G   5142 AGCCCCAGGAACTGCGGGTGCGTTTTTTGGGGTGGCCCGGGGTGTTGGGG   5191
+
+Human_GATA2     5678 ATCAGTATGTGTATCTGGCG-CCAAGTGTGGGTGTGTGCGTGTCGCTGGG   5726
+                     .|.|||.|||||||.|...| |.|||||| ...|.|.|||||    .|.|
+MusMusculus_G   5192 GTTAGTTTGTGTATATATTGTCAAAGTGT-TACGGGGGCGTG----GGAG   5236
+
+Human_GATA2     5727 ATCAAGTGCCAC--ACTGGGTGCCCGGGCGCCTGTCTCCAACTTTTGAGT   5774
+                     |.|..|||||.|  |.|||.||.|..|||..|||||||.||||||| |||
+MusMusculus_G   5237 AGCGTGTGCCCCAGAGTGGATGTCTAGGCAACTGTCTCTAACTTTT-AGT   5285
+
+Human_GATA2     5775 CTGTGTTCATGTGTTTGTCTACCGGGCGG--GGGGGCTCAGTGTGAGTGT   5822
+                     |.|.|||.||||||||||.|.||..|.||  .|||||.|.|||||||...
+MusMusculus_G   5286 CAGAGTTTATGTGTTTGTGTGCCCAGAGGACAGGGGCACGGTGTGAGAAC   5335
+
+Human_GATA2     5823 CTGACTGAAGTGCTGCTCTGTGCG-TTTGTTGGGGTCACTGGTGTCGGGA   5871
+                     ||||.|..|||.|.||   ||||| ||||..||||||||.|.||||.|||
+MusMusculus_G   5336 CTGATTTCAGTTCCGC---GTGCGTTTTGGGGGGGTCACCGATGTCAGGA   5382
+
+Human_GATA2     5872 CCCGTCCCCGGGCGTGACCCCATGTGCACGGGTGTGTGATTCTGGAGCCG   5921
+                     ||..|||..|.|.||||||.|.|||....||...||.|..|.|||...||
+MusMusculus_G   5383 CCTATCCGTGTGTGTGACCTCGTGTATGTGGAGTTGCGTCTGTGGGAACG   5432
+
+Human_GATA2     5922 CGGGTCACCACGTGAGTGTGCGTGGCTGAACCCCCTCCCCCGCCTTCCTT   5971
+                     ||.||..||..|..|||||..|.|||||||||||.|||..|.||||||||
+MusMusculus_G   5433 CGAGTTTCCCTGCAAGTGTATGAGGCTGAACCCCTTCCTTCACCTTCCTT   5482
+
+Human_GATA2     5972 TCGTTTTGAGCCTTGGGCTTTCCTCCCACCCGGGACTGGTGCTCTTTCTC   6021
+                     |||||||.|.|||||.||||||||.|||||||||||||||.|||..|   
+MusMusculus_G   5483 TCGTTTTAAACCTTGCGCTTTCCTTCCACCCGGGACTGGTCCTCAGT---   5529
+
+Human_GATA2     6022 GCCGGATCTGGGCTGGGGCTCCGTGGCGTGCGGGACACCTCGTGGTGGGA   6071
+                        |.|.||..|.|||..|..|.|.||...|..|||||         .||
+MusMusculus_G   5530 ---GAAGCTCCGATGGAACGTCTTTGCTCTCAAGACAC---------AGA   5567
+
+Human_GATA2     6072 CTTTG-----GGGGGTGTCAGGCGCTGGCGGCA-----CGCCTCACTCCC   6111
+                     |||||     ||||||||||   |..|||||||     |..|.||.||||
+MusMusculus_G   5568 CTTTGGGAATGGGGGTGTCA---GAAGGCGGCAGTGTCCTTCACATTCCC   5614
+
+Human_GATA2     6112 CCT-TCCTCGCGCAGGGCCGTTGCCGTCTGCACCCAGACCCTGAGCCGCC   6160
+                     .|| |..||   ||||||||.. ||..||.|.||..|..||..||.|.|.
+MusMusculus_G   5615 TCTGTTATC---CAGGGCCGCC-CCACCTTCGCCTGGTTCCCAAGACACA   5660
+
+Human_GATA2     6161 GCCGCCGGCCATGGAGGTGGCGCCCGAGCAGCCGCGCTGGATGGCGCACC   6210
+                     |..|..|.||||||||||||||||.||||||||.||||||||||||||||
+MusMusculus_G   5661 GTAGTGGACCATGGAGGTGGCGCCTGAGCAGCCTCGCTGGATGGCGCACC   5710
+
+Human_GATA2     6211 CGGCCGTGCTGAATGCGCAGCACCCCGACTCACACCACCCGGGCCTGGCG   6260
+                     |.|||||..||||||||||||||||||||||.|||||.||||||||||||
+MusMusculus_G   5711 CCGCCGTATTGAATGCGCAGCACCCCGACTCGCACCATCCGGGCCTGGCG   5760
+
+Human_GATA2     6261 CACAACTACATGGAACCCGCGCAGCTGCTGCCTCCAGACGAGGTGGACGT   6310
+                     ||.|||||||||||.||.||.||||||||||||||.|||||||||||.||
+MusMusculus_G   5761 CATAACTACATGGAGCCAGCACAGCTGCTGCCTCCCGACGAGGTGGATGT   5810
+
+Human_GATA2     6311 CTTCTTCAATCACCTCGACTCGCAGGGCAACCCCTACTATGCCAACCCCG   6360
+                     |||||||||.||.||||||||||||||||||||.|||||.||||||||.|
+MusMusculus_G   5811 CTTCTTCAACCATCTCGACTCGCAGGGCAACCCTTACTACGCCAACCCGG   5860
+
+Human_GATA2     6361 CTCACGCGCGGGCGCGCGTCTCCTACAGCCCCGCGCACGGTGAGCACTGG   6410
+                     |.||||||||.||||||||.|||||||||||.|||||.|||||||..|||
+MusMusculus_G   5861 CCCACGCGCGCGCGCGCGTTTCCTACAGCCCGGCGCATGGTGAGCTTTGG   5910
+
+Human_GATA2     6411 -GCCCGTGGTGATGAGAACCCAGGCGCCGCGCGCCAGGCGAGGGAGGGGA   6459
+                      .||||.|||.....|||.||.|||||| ||.|||||||...||||||| 
+MusMusculus_G   5911 CCCCCGAGGTTTCTGGAAGCCTGGCGCC-CGGGCCAGGCCTTGGAGGGG-   5958
+
+Human_GATA2     6460 GGAGGGCCCGTCTGCTTGCTTCCCGGATGTAGGATCCGCAGGAATC-GAG   6508
+                     |||.||||.|| ||| ||||||||||||||.||||||.|||||||| |||
+MusMusculus_G   5959 GGACGGCCTGT-TGC-TGCTTCCCGGATGTGGGATCCACAGGAATCTGAG   6006
+
+Human_GATA2     6509 CTGCTGAAAAATTGGGGCGGGAGAGGTGGGAGCAGCGGCCGATTGGGGAG   6558
+                     |.||||..||||.|||.|.....||.|||..||||.|.|...||.|||||
+MusMusculus_G   6007 CAGCTGCGAAATCGGGCCTAAGAAGATGGAGGCAGGGACTTCTTAGGGAG   6056
+
+Human_GATA2     6559 GGTCTGGGACCCACAGGGTTTCTGCCCACTTCCAGCTGGCCT-------G   6601
+                     |||||||||||...||||||||.|.|||.|||||..||.|.|       |
+MusMusculus_G   6057 GGTCTGGGACCTGTAGGGTTTCGGTCCATTTCCAAGTGTCTTGGCGGGGG   6106
+
+Human_GATA2     6602 TGAGGGT-------TCCCTGTAGGGTCTGTCCGGTGGGGTTCCTTCTATG   6644
+                     ||.||||       |||.|.|.||..|||||||||||||   ||.||.||
+MusMusculus_G   6107 TGGGGGTGGGGGAATCCTTCTGGGCCCTGTCCGGTGGGG---CTGCTGTG   6153
+
+Human_GATA2     6645 CCACTTGTCCTTCAG-CTTGGACTGACATTCCTGATTATTACCGG-TGGG   6692
+                     .||||||||||||.| |||..|||||||||.|||||.|||||.|| ||.|
+MusMusculus_G   6154 TCACTTGTCCTTCGGCCTTTCACTGACATTGCTGATGATTACAGGCTGAG   6203
+
+Human_GATA2     6693 GTATTATGTTTCTGGCTTTCTTTGGGGAGGGGATGACTGCTG---GTTCT   6739
+                     ||.|||.|||||||...||.|...|||.||||.|| |||.||   ||||.
+MusMusculus_G   6204 GTGTTACGTTTCTGATGTTTTAAAGGGTGGGGCTG-CTGATGGTAGTTCG   6252
+
+Human_GATA2     6740 GGGAGTCGTGATCTCAATGTCTGTCAGGGGCGTCCCTAGCTCTGCCTACC   6789
+                     ..||||.||||||   .|||.||.|.|||    .|.|.||||||....||
+MusMusculus_G   6253 CTGAGTTGTGATC---CTGTGTGCCCGGG----TCATGGCTCTGAAGCCC   6295
+
+Human_GATA2     6790 CTGATCTTTCTGCCCACCCTGATCCTCTCTCTCTTTGCCCGCAGCCCGCC   6839
+                     |||.||.|.||   |||||    |||.||.||||.    |.|||||||.|
+MusMusculus_G   6296 CTGGTCATCCT---CACCC----CCTTTCCCTCTG----CACAGCCCGTC   6334
+
+Human_GATA2     6840 TGACCGGAGGCCAGATGTGCCGCCCACACTTGTTGCACAGCCCGGGTTTG   6889
+                     |.||||||||||||||||||||.||||||||||||||||||||.||.|||
+MusMusculus_G   6335 TCACCGGAGGCCAGATGTGCCGACCACACTTGTTGCACAGCCCAGGCTTG   6384
+
+Human_GATA2     6890 CCCTGGCTGGACGGGGGCAAAGCAGCCCTCTCTGCCGCTGCGGCCCACCA   6939
+                     ||.|||||||||||||||||||||||.|||||||||||.||.|||||.||
+MusMusculus_G   6385 CCGTGGCTGGACGGGGGCAAAGCAGCTCTCTCTGCCGCCGCTGCCCATCA   6434
+
+Human_GATA2     6940 CCACAACCCCTGGACCGTGAGCCCCTTCTCCAAGACGCCACTGCACCCCT   6989
+                     |||||..|||||||||||.|||||.|||||||||||.||.||||||||||
+MusMusculus_G   6435 CCACAGTCCCTGGACCGTCAGCCCGTTCTCCAAGACCCCGCTGCACCCCT   6484
+
+Human_GATA2     6990 CAGCTGCTGGAGGCCCTGGAGGCCCACTCTCTGTGTACCCAGGGGCTGGG   7039
+                     ||||||||||||..||.|||||.||.||.|||||.|||||||||||||.|
+MusMusculus_G   6485 CAGCTGCTGGAGCACCCGGAGGGCCTCTGTCTGTTTACCCAGGGGCTGCG   6534
+
+Human_GATA2     7040 GGTGGGAGCGGGGGAGGCAGCGGGAGCTCAGTGGCCTCCCTCACCCCTAC   7089
+                     ||||||||||||||||||||.||||||||.|||||||||||||||||.||
+MusMusculus_G   6535 GGTGGGAGCGGGGGAGGCAGTGGGAGCTCCGTGGCCTCCCTCACCCCCAC   6584
+
+Human_GATA2     7090 AGCAGCCCACTCTGGCTCCCACCTTTTCGGCTTCCCACCCACGCCACCCA   7139
+                     .|||||||||||.||||||||.||.|||||||||||||||||||||||||
+MusMusculus_G   6585 TGCAGCCCACTCGGGCTCCCATCTCTTCGGCTTCCCACCCACGCCACCCA   6634
+
+Human_GATA2     7140 AAGAAGTGTCTCCTGACCCTAGCACCACGGGGGCTGCGTCTCCAGCCTCA   7189
+                     |||||||||||||.|||||.|||||.||.||.|||||.||.||.|||||.
+MusMusculus_G   6635 AAGAAGTGTCTCCAGACCCCAGCACAACAGGAGCTGCTTCCCCGGCCTCT   6684
+
+Human_GATA2     7190 TCTTCCGCGGGGGGTAGTGCAGCCCGAGGAGAGGACAAGGACGGCGTCAA   7239
+                     |||||.||.||||||||||.||||||.||.|||||||||||.||||||||
+MusMusculus_G   6685 TCTTCTGCAGGGGGTAGTGTAGCCCGGGGTGAGGACAAGGATGGCGTCAA   6734
+
+Human_GATA2     7240 GTACCAGGTGTCACTGACGGAGAGCATGAAGATGGAAAGTGGCAGTCCCC   7289
+                     ||||||.||||||||..|.||||||||||||||||||.|.||||||||||
+MusMusculus_G   6735 GTACCAAGTGTCACTCTCCGAGAGCATGAAGATGGAAGGCGGCAGTCCCC   6784
+
+Human_GATA2     7290 TGCGCCCAGGCCTAGCTACTATGGGCACCCAGCCTGCTACACACCACCCC   7339
+                     |||||||.|||||||||||.|||||||||||||||||.|||||||||||.
+MusMusculus_G   6785 TGCGCCCGGGCCTAGCTACCATGGGCACCCAGCCTGCAACACACCACCCG   6834
+
+Human_GATA2     7340 ATCCCCACCTACCCCTCCTATGTGCCGGCGGCTGCCCACGACTACAGCAG   7389
+                     ||.||||||||.||||||||||||||.||.||.||.||.|||||..||||
+MusMusculus_G   6835 ATACCCACCTATCCCTCCTATGTGCCCGCCGCAGCTCATGACTATGGCAG   6884
+
+Human_GATA2     7390 CGGACTCTTCCACCCCGGAGGCTTCCTGGGGGGACCGGCCTCCAGCTTCA   7439
+                     |.|.||||||||.||.||||||||||||||.||.||.|||||||||||||
+MusMusculus_G   6885 CAGTCTCTTCCATCCAGGAGGCTTCCTGGGTGGCCCCGCCTCCAGCTTCA   6934
+
+Human_GATA2     7440 CCCCTAAGCAGCGCAGCAAGGCTCGTTCCTGTTCAGGTAAAGGCAGGTGC   7489
+                     |||||||||||.|.|||||||||||.|||||.|||||||||||||||||.
+MusMusculus_G   6935 CCCCTAAGCAGAGAAGCAAGGCTCGCTCCTGCTCAGGTAAAGGCAGGTGT   6984
+
+Human_GATA2     7490 TGGGGACTTC-------GTGGAAGAGGGGAGCATTTGCGTTTTTGTGGTG   7532
+                       ||||||||       ||||..|.||.|.||.|   |     |||....
+MusMusculus_G   6985 --GGGACTTCAGGGCCTGTGGGTGTGGTGTGCCT---C-----TGTAAAA   7024
+
+Human_GATA2     7533 GGGAGCTGTGACTTGGGAGAGGTGGCAGTGTTGGTTTCCCAGATCTGGGG   7582
+                     |||..|.|||...||..||||| |||..||.|.|....||.|||.|..|.
+MusMusculus_G   7025 GGGGTCCGTGGTCTGATAGAGG-GGCCATGCTAGGGCGCCTGATTTAAGA   7073
+
+Human_GATA2     7583 ATGGGTGATGTCTCGCTCTAATAGCCCCCA-GCAGATGTTTG-AGACCCC   7630
+                     |||||||.||.....||||.||||.||.|| |||    |||| ||..|||
+MusMusculus_G   7074 ATGGGTGGTGGTCATCTCTGATAGTCCACAGGCA----TTTGAAGTTCCC   7119
+
+Human_GATA2     7631 CGGGTCAGGGAG--AGGAGACTCTAAAACTTTTGCCATTTTCTTAAGTGC   7678
+                     .|.|   |||||  ||.|..|.||||||||||...|.|....||||||||
+MusMusculus_G   7120 TGTG---GGGAGGAAGAAACCCCTAAAACTTTCATCCTGCCGTTAAGTGC   7166
+
+Human_GATA2     7679 TTCCAGTGTACCCCCAAAGTTCAGTTCCTTGCC-----------------   7711
+                     |.|.|| |.|||||| |.||||||.||||..||                 
+MusMusculus_G   7167 TCCTAG-GAACCCCC-ATGTTCAGCTCCTCTCCGCACCCCTCCTCATGGC   7214
+
+Human_GATA2     7712 -------CCAGGGTTGGTCACTGCCTGACCAGAACATAGAACAGGAATTC   7754
+                            |||.|||||...|.|..|.| |.|.||||.|||| .|...|||
+MusMusculus_G   7215 CTCCTCTCCAAGGTTGACAAGTATCAG-CTAAAACACAGAA-TGAGGTTC   7262
+
+Human_GATA2     7755 CCCCTTTCCCTCCCTGAATCTTAAG-TGAAAATTCAAGCCACCTCAGGAC   7803
+                     ||..|.||||||||..||..||.|| |||.|.  |.|||..||||..|||
+MusMusculus_G   7263 CCTGTCTCCCTCCCCAAACGTTCAGCTGAGAC--CGAGCAGCCTCGTGAC   7310
+
+Human_GATA2     7804 TTAGTATGTGAAGCGAGGGAAGTGACTCTGTATGTGCATGTGTTTGGGAG   7853
+                     |..|..||.     |.|.|||..||..|||||.|||  .|.|...|.|..
+MusMusculus_G   7311 TGGGCGTGG-----GGGAGAATGGAGGCTGTAGGTG--AGGGAAGGAGTC   7353
+
+Human_GATA2     7854 CGTGTGTGCATGTGTATACGTGTGTCTGTGTGCATGTTGTGTGTGCATGT   7903
+                     .||||||.|.|.|||.||||||||||||||.||     |||||||||||.
+MusMusculus_G   7354 AGTGTGTACTTATGTGTACGTGTGTCTGTGAGC-----GTGTGTGCATGC   7398
+
+Human_GATA2     7904 TTCAGGCACTCCGGAGGTTCCAGACCATTAAGGAATCTGGGTCTCTAACT   7953
+                     ....||||||.|.|| |.||.||.||.|..||||||||||.||||.||||
+MusMusculus_G   7399 CGTGGGCACTGCAGA-GATCTAGGCCCTAGAGGAATCTGGTTCTCCAACT   7447
+
+Human_GATA2     7954 CAATCAGTCTGATCTTGGGATTTCGATGGCTCCCTGATCTCCTCGGGAGA   8003
+                     |....||||...|.||.|||||.|...|||| ||.||||||||. |||||
+MusMusculus_G   7448 CTGCTAGTCCAGTTTTAGGATTGCAGCGGCT-CCAGATCTCCTT-GGAGA   7495
+
+Human_GATA2     8004 TTTTCCCCAGAGCAAAATTCCCAGGACCTGCTCCTGCTCCCTGCCCTCGC   8053
+                      ||||||||.|||||||||||||.|.||||||  |||..|||       .
+MusMusculus_G   7496 -TTTCCCCAAAGCAAAATTCCCAAGGCCTGCT--TGCATCCT-------A   7535
+
+Human_GATA2     8054 CAGGCCCT--TCCCTCTCCCTCCCTGAGGGCTGGAGTGAGGGGATGAAGC   8101
+                     ..|.||||  |||||    |||||||.|||..||||||||....||    
+MusMusculus_G   7536 GTGACCCTGATCCCT----CTCCCTGGGGGTAGGAGTGAGAACCTG----   7577
+
+Human_GATA2     8102 TGC-AGTGCCCCCGCCCCTTTTCCCGCAGCTGGCTGGGGCCAAACTGGGT   8150
+                     ||| .|||||..|.|||||||.||.||.|| .|||||..|| |.||.|||
+MusMusculus_G   7578 TGCGGGTGCCTGCACCCCTTTGCCAGCTGC-AGCTGGATCC-AGCTAGGT   7625
+
+Human_GATA2     8151 TTGTCCAAGAATCTGGCCACAGAGCATAAACCCAGAAACTCGTGGCTAGT   8200
+                     |||||||...||.|||||.....|||..||||        ||||||    
+MusMusculus_G   7626 TTGTCCAGCCATATGGCCCTCAGGCAATAACC--------CGTGGC----   7663
+
+Human_GATA2     8201 GTGGAGTTCTTGCTGTCCATGTCTCTTTCCCGAATCCCTTTGAGCCACAG   8250
+                                    |||..|.|||.|||||  ||..||||.|||.|..|
+MusMusculus_G   7664 ---------------TCCGAGGCTCCTTCCC--ATAGCTTTTAGCAAGGG   7696
+
+Human_GATA2     8251 A-GGGGGAAGGTTTTTAAAACAG-TTACTCCTGAGTGCAGGAACCACCTT   8298
+                     | |||||||||.||.....|.|| |||.|.||||||..|.||||||.|||
+MusMusculus_G   7697 AGGGGGGAAGGCTTCCTCCAAAGTTTATTTCTGAGTTGAAGAACCAACTT   7746
+
+Human_GATA2     8299 CTCTTGCCAGGCTGTACTCCTCATTTAGTTTAAACTAAATCAAGAATAAC   8348
+                     |||.|   |||         |.|.||||||..|||||.||||.|||.||.
+MusMusculus_G   7747 CTCAT---AGG---------TGACTTAGTTCCAACTAGATCAGGAAGAAT   7784
+
+Human_GATA2     8349 TTCCTGGGGAACACGATGC-CAGCCAGTGATCCTGCTCAACTTGGTCCCC   8397
+                     ||||..||.|....|.|.| .||||...|.||| |||.||||      ||
+MusMusculus_G   7785 TTCCATGGTACTGAGCTACTAAGCCCTCGCTCC-GCTGAACT------CC   7827
+
+Human_GATA2     8398 AGCCCCAGC---CCCCGCTGGCCCCAGCACCCGCTGAGCCCCGGCTCAGG   8444
+                     |||||||.|   .|.| .||.|.||.||. |..||.||.||.|...|...
+MusMusculus_G   7828 AGCCCCAACTTGACTC-TTGTCTCCTGCT-CTACTAAGACCAGAGACTTT   7875
+
+Human_GATA2     8445 GTCCTAGTTCTGCTCAGACCCGTCAGCTTGCCTTTTCTTGGTCCTTTC-T   8493
+                     |.|||. ||.|||..||.|..|       ||||.||..|.|.|||.|| |
+MusMusculus_G   7876 GCCCTT-TTTTGCAAAGTCTTG-------GCCTGTTTGTAGCCCTCTCTT   7917
+
+Human_GATA2     8494 CC-TGTTTGTTTTGCATTTTATTTGAATTCCAGATGGTCTTTTAATTGAA   8542
+                     || |||||||||||.|||.|||||.|..|||||||||.|           
+MusMusculus_G   7918 CCGTGTTTGTTTTGTATTCTATTTAAGCTCCAGATGGCC-----------   7956
+
+Human_GATA2     8543 AAAAAAAATACAAACAAAAAAAACCCAGGCCACTTATCTAAAAAAGAAAG   8592
+                          |||.|| |||||.|.|||...|||||||.||.|..|||..|||||
+MusMusculus_G   7957 -----AAAAAC-AACAACAGAAAATAAGGCCACCTAGCCTAAAGTGAAAG   8000
+
+Human_GATA2     8593 AGCTTATTATTTATTTTATTTTAAAGAACAACAACTTCGATCCATTATTT   8642
+                     |.|   ||||||||||.||||||.|    ||||||||.||||..|     
+MusMusculus_G   8001 AAC---TTATTTATTTCATTTTAGA----AACAACTTTGATCATT-----   8038
+
+Human_GATA2     8643 CCAGGACTCAGAAAAATTCTAGAGCTTTGGTGGAAGAGGAGAAAAGTTGG   8692
+                                  .||||||||...|||||..|||..||||...|..|  
+MusMusculus_G   8039 -------------GAATTCTAGGAGTTTGGCTGAAAGGGAGCCCAACT--   8073
+
+Human_GATA2     8693 GGAGAAAGAGGGAAATGCTTCTGGACTTA----GAGCAGAAAGACGGGGT   8738
+                     ||||.|||||..||....|.||||.||||    |||||.||||||.|.|.
+MusMusculus_G   8074 GGAGGAAGAGAAAAGGTTTCCTGGCCTTAGCCGGAGCATAAAGACAGCGA   8123
+
+Human_GATA2     8739 GGGGCAGACACAGTTGGGTAGAAAGGAGAGGGACAAAAGAGGAGAGGG--   8786
+                     |||||.||     |.||..|||...||.|..||| ..||||..|..||  
+MusMusculus_G   8124 GGGGCTGA-----TGGGAGAGATGAGAAAAAGAC-TTAGAGATGCTGGCT   8167
+
+Human_GATA2     8787 ----GGAGAGACGCGCCAGAGCGGGAAGGAGAGAGCCTCCTGGGCCCAG-   8831
+                         .|.|..|.|.|..|||||.|.|..||| |..||.||.|..||||. 
+MusMusculus_G   8168 CAGTTGGGCAAAGTGATAGAGCAGCAGAGAG-GCTCCCCCAGACCCCAAT   8216
+
+Human_GATA2     8832 CCAGGT-----------TGAGCTGGGTGACTCCTGCCACCACCCTACCCT   8870
+                     ||.||.           |||||||.|.||   ..|.||..|.|||...||
+MusMusculus_G   8217 CCTGGACAACTGTGGCCTGAGCTGAGCGA---GGGACAGTAGCCTGTGCT   8263
+
+Human_GATA2     8871 CGGCAAAGTTTGCAGTAAATACC--CTCCTGGTTGCTCCAGAACGCCTGG   8918
+                     |.|.|||....||..|.|.|.||  .|||.|||..||    ..|..||  
+MusMusculus_G   8264 CTGTAAAACCGGCCTTCAGTTCCTTTTCCGGGTAACT----TGCTGCT--   8307
+
+Human_GATA2     8919 GGCCCTGGGCCCCTCCTCCCCTCCTCCTT---C-GTTTC-CATCCCTCCT   8963
+                     |||.|||.|..|| |||..|..|||.|.|   | ||||| |.|..|||.|
+MusMusculus_G   8308 GGCTCTGAGAACC-CCTGGCAGCCTGCATTTGCTGTTTCTCTTTGCTCTT   8356
+
+Human_GATA2     8964 GGTGAGGATTGGAAGCA--GGGGATTTGGCTTTAAACGACTCTGGACCTG   9011
+                     ..|.||.|.....||.|  |.|.||||..|.|||||.|||.|||||    
+MusMusculus_G   8357 CCTCAGCAACATCAGAAATGAGAATTTATCCTTAAAAGACCCTGGA----   8402
+
+Human_GATA2     9012 TGCCCCCTCCCATGTGGGAGAC-CCTCTCGTCCCTCTTCCTGCCCAGGCT   9060
+                           ||.|..|...||.||| |||...|||||||||.|||||..||.|
+MusMusculus_G   8403 ------CTTCTTTTAAGGGGACTCCTTGAGTCCCTCTTTCTGCCAGGGGT   8446
+
+Human_GATA2     9061 GTTGCAGCCAGGCCC--AGGCCAACCGTGTGCCTGAGAGGCACCGGCACT   9108
+                     |    .|.|.  |||  |...|||||.||..|||        |.|||.||
+MusMusculus_G   8447 G----GGTCT--CCCTTAATACAACCTTGATCCT--------CTGGCTCT   8482
+
+Human_GATA2     9109 GCTCGGCTGGCTGCTTTCCTGCCCTGGACTCCCTCCCGAGAACTTGCCGG   9158
+                     |      ||               |.||                    ||
+MusMusculus_G   8483 G------TG---------------TAGA--------------------GG   8491
+
+Human_GATA2     9159 TTAAGCAGGCCCCCGTGTCTCTCCCTGTTCCCCTGCAGAAGGCCGGGAGT   9208
+                     .|||||||| ||..||||||.|||.|||||||.|.|||||||||||||||
+MusMusculus_G   8492 CTAAGCAGG-CCTTGTGTCTTTCCTTGTTCCCTTACAGAAGGCCGGGAGT   8540
+
+Human_GATA2     9209 GTGTCAACTGTGGGGCCACAGCCACCCCTCTCTGGCGGCGGGACGGCACC   9258
+                     |||||||||||||.|||||||||||||||||||||||.||.||.|||||.
+MusMusculus_G   8541 GTGTCAACTGTGGTGCCACAGCCACCCCTCTCTGGCGACGAGATGGCACG   8590
+
+Human_GATA2     9259 GGCCACTACCTGTGCAATGCCTGTGGCCTCTACCACAAGATGAATGGGCA   9308
+                     ||||||||||||||||||||||||||.||||||||||||||||||||.||
+MusMusculus_G   8591 GGCCACTACCTGTGCAATGCCTGTGGGCTCTACCACAAGATGAATGGACA   8640
+
+Human_GATA2     9309 GAACCGACCACTCATCAAGCCCAAGCGAAGACTGGTAGGAGCGGGCA---   9355
+                     ||||||.||.|||||||||||||||||.||.||||||.||..|||||   
+MusMusculus_G   8641 GAACCGGCCGCTCATCAAGCCCAAGCGGAGGCTGGTAAGAAAGGGCACAT   8690
+
+Human_GATA2     9356 CAGGTGGCTGGGAGGGGGC----TG------------CTGGGCAGGAGCT   9389
+                     ||.|.|||.|||..|||.|    ||            ||||||| ||||.
+MusMusculus_G   8691 CATGGGGCAGGGCAGGGCCACGGTGGCCAGTGGCAATCTGGGCA-GAGCG   8739
+
+Human_GATA2     9390 GG-CGGTTAATT------------ACA-----------GGGGAAAAAAAC   9415
+                     || ..|||||.|            |||           |||.||||||||
+MusMusculus_G   8740 GGTTAGTTAAGTGAAGAAAAAAAAACAAAACAGAGAGGGGGAAAAAAAAC   8789
+
+Human_GATA2     9416 -------------------TCCTTCAAATGCAGACGCTTTGCCGCTTGAA   9446
+                                        .|||||||||||||||.|||..||.|.||||
+MusMusculus_G   8790 GAAAACAATCCAACAGCAAACCTTCAAATGCAGACACTTCACCACCTGAA   8839
+
+Human_GATA2     9447 ATCCTCTTTTATCATGAAAAGCA-CTGGGATGTCAGTTGGGGTCGTCTCT   9495
+                     ||||||  ||||||...|||.|| .||||..||||||..||...|||| |
+MusMusculus_G   8840 ATCCTC--TTATCAGTCAAATCATTTGGGGGGTCAGTCAGGTCGGTCT-T   8886
+
+Human_GATA2     9496 CTTTCTGGCCAGATTCTTTCGGGCCAGATTTCC--TCCT-CGG-GTATAG   9541
+                     |.|||||| |.|||||||||..||||.||||||  |||| |.| .|....
+MusMusculus_G   8887 CGTTCTGG-CGGATTCTTTCCTGCCAAATTTCCTGTCCTGCAGCCTCCCT   8935
+
+Human_GATA2     9542 GGAGCCC----------------ACCGGGCACCC------TTG--CGCCA   9567
+                     ||..|||                |||||||||||      .||  |.||.
+MusMusculus_G   8936 GGCACCCCCCTCCCCCCGCAGCTACCGGGCACCCCCTCCTCTGGACACCC   8985
+
+Human_GATA2     9568 CCCCACTCTGCTCCGGGATCCCCGAAGTTGAGTGTCCACGGGCC---GGA   9614
+                     ||||||.|  |.||     |||||..|..|..| |||..|.|||   ||.
+MusMusculus_G   8986 CCCCACCC--CACC-----CCCCGCTGAAGGAT-TCCCAGAGCCCATGGT   9027
+
+Human_GATA2     9615 CT-----CCTGTCCTCTGGC------CTCTGCTTAGCTCTTTTTTAAAAA   9653
+                     ||     ||...||||.|||      ||||..||.|||| ||||||||||
+MusMusculus_G   9028 CTAGCAGCCCACCCTCAGGCTCTGGTCTCTTATTCGCTC-TTTTTAAAAA   9076
+
+Human_GATA2     9654 TAGGGCCATGAAGTACTTTTCCTTGTGGCT-------CAGCCCTCCC-CG   9695
+                     ||||||||||||||||||||||.|.|||||       |.|||||||| ||
+MusMusculus_G   9077 TAGGGCCATGAAGTACTTTTCCCTATGGCTGCTCTGGCCGCCCTCCCTCG   9126
+
+Human_GATA2     9696 ACAGCCCCGCTCACAAGCTCCTCGTGCTTATTTAAATAAAACACAAACTC   9745
+                     .|. |||.||||.|...|||||| .||||||||||||        |||.|
+MusMusculus_G   9127 CCT-CCCAGCTCCCGGTCTCCTC-CGCTTATTTAAAT--------AACAC   9166
+
+Human_GATA2     9746 ACACCGGCCACTAAAAAAACCTGCCCTTTATTATTTTTCCATGGAGTCAC   9795
+                     |||.|||||||.||||||||||||||||||||||||||||||||||||||
+MusMusculus_G   9167 ACAGCGGCCACCAAAAAAACCTGCCCTTTATTATTTTTCCATGGAGTCAC   9216
+
+Human_GATA2     9796 CTATACTGTGTATTTTCATTTGAGTGA--TTTTAAAAAAATGCCCTTTCG   9843
+                     |||||||||||||||||||||||||||  |||||||||||||.|||||||
+MusMusculus_G   9217 CTATACTGTGTATTTTCATTTGAGTGATTTTTTAAAAAAATGTCCTTTCG   9266
+
+Human_GATA2     9844 GATCTCCTGCCGGAGTTTCCTATCCGGACATCTGCAGCCTGAAGATAAGG   9893
+                     |||||||||||||||||||||||||||||||||||||||.|.||||||||
+MusMusculus_G   9267 GATCTCCTGCCGGAGTTTCCTATCCGGACATCTGCAGCCGGTAGATAAGG   9316
+
+Human_GATA2     9894 AAACTTCGTGTATCTGTTTCCGGACTCTGCGAGTTTTTAGAGTCTCCTCA   9943
+                     ||||||||||||||||||||||||| |.||.||||||.||||.|.||||.
+MusMusculus_G   9317 AAACTTCGTGTATCTGTTTCCGGAC-CGGCAAGTTTTCAGAGCCACCTCG   9365
+
+Human_GATA2     9944 GCTCAGTCCTGCCTCTCGCTGGGCTGTTTTGAAATTTCTAATACCCTCCA   9993
+                     .|||||||||||||||.|||||||||||||||||||||||||||||||||
+MusMusculus_G   9366 ACTCAGTCCTGCCTCTTGCTGGGCTGTTTTGAAATTTCTAATACCCTCCA   9415
+
+Human_GATA2     9994 CTCTGCAAATAATGCGTAAAATGCTAAGAATAATAAATATATTTTTTCAG  10043
+                     ||||||||||||||.|||||||||||||||||||||||||||||||||||
+MusMusculus_G   9416 CTCTGCAAATAATGTGTAAAATGCTAAGAATAATAAATATATTTTTTCAG   9465
+
+Human_GATA2    10044 GGCGAAGTGATTTATGAGGCTTAAATCGTTC-CCTGCTTTGGGGGCC---  10089
+                     ||||||||||||||||| |.||||||||||| ||.|||||||||.||   
+MusMusculus_G   9466 GGCGAAGTGATTTATGA-GTTTAAATCGTTCACCCGCTTTGGGGCCCTTT   9514
+
+Human_GATA2    10090 -----TTTTTTTC-----------CCCTG--GAGCGAGGGCGGGGTGAGG  10121
+                          ||||||||           |||.|  |.|.||||||||.|. |||
+MusMusculus_G   9515 TTCTTTTTTTTTCTCTCCCCCCCACCCAGCAGTGTGAGGGCGGTGC-AGG   9563
+
+Human_GATA2    10122 CCCGGGTGGGGGTAGAGGTGGAGGACGCGGCGTTGGCCCCTGAGTCAGAA  10171
+                     |.  |||||||||.||.|..|...|.||.||  |||||||||||||||||
+MusMusculus_G   9564 CT--GGTGGGGGTGGAAGGAGGATATGCTGC--TGGCCCCTGAGTCAGAA   9609
+
+Human_GATA2    10172 TTCCAGCTTCAGGCTGCTTACTCACCCCTCCCTGCCCCCGCGGCTGCAGT  10221
+                     ||||||||||||.||||||||||| ||||||||||||||||||  ||||.
+MusMusculus_G   9610 TTCCAGCTTCAGCCTGCTTACTCA-CCCTCCCTGCCCCCGCGG--GCAGG   9656
+
+Human_GATA2    10222 CC--CTCT-GTCCCTTCTGTGACCAGGCTTGGGCCTGGGGCTGTTCCAGG  10268
+                     ||  |||| |||||.||..|||.||||||...|||.|||||...||..|.
+MusMusculus_G   9657 CCAGCTCTGGTCCCCTCCATGAGCAGGCTCAAGCCCGGGGCCTCTCTGGA   9706
+
+Human_GATA2    10269 CTCTGCAGGCCTCAGCCCCCAGCCCCCCACACTCACCACCTGGTGCACTC  10318
+                     |||.||.||.|||.||||||.   |||||||||..|..||..|.|...||
+MusMusculus_G   9707 CTCGGCTGGACTCGGCCCCCT---CCCCACACTGGCTGCCGAGGGAGTTC   9753
+
+Human_GATA2    10319 C-CGCCTGCAGTTCTCTGGGAAGTGTTGGGG-----------GACCCC--  10354
+                     . .||..|.|||| .|||||..|.|.|||||           ||.|.|  
+MusMusculus_G   9754 AGTGCTAGGAGTT-GCTGGGTGGAGGTGGGGTGTGAGGGGAAGAACACAC   9802
+
+Human_GATA2    10355 ----------CTCTGTCACTGTGGGGCTGGCGTTGGTGGAACCGGGAGAG  10394
+                               ||||||.....||.|||.|..| .|.|||  |.|||   |
+MusMusculus_G   9803 AGGAGTAGCGCTCTGTTTACCTGAGGCAGAAG-GGATGG--CAGGG---G   9846
+
+Human_GATA2    10395 GGGATCTGTTTTCTTGGGTAAAGCCTCCCTCTAGCTT-CTCTCTGC----  10439
+                     |.|||||||.||| |.||.||||||.|||||...||| |||.||.|    
+MusMusculus_G   9847 GTGATCTGTATTC-TAGGAAAAGCCCCCCTCCCTCTTCCTCCCTCCCCAC   9895
+
+Human_GATA2    10440 --------------AAGGACCAGGC--GCTCATTTCCAGACCCTACCTCT  10473
+                                   |..||||||||  .|.|..|||||..||..||||||
+MusMusculus_G   9896 ATTTCAGTCCTTCTAGAGACCAGGCCTCCCCTCTTCCACGCCTCACCTCT   9945
+
+Human_GATA2    10474 GCCAGGCATTTCCTGAGGGACTAGGACTCAGAGGGGCTGCGGGGTGGTTA  10523
+                     |.|.|||||||||||.||||||.||||   ||||||||      ||||.|
+MusMusculus_G   9946 GGCTGGCATTTCCTGGGGGACTGGGAC---GAGGGGCT------TGGTAA   9986
+
+Human_GATA2    10524 AAGCTCTAAGGGTTGGGGTATGGGGGGCTGGATGGGGGGGATCAGCACTC  10573
+                     |||  |....|||         |.|.|||  .|..|||....|.||.|| 
+MusMusculus_G   9987 AAG--CAGCAGGT---------GAGCGCT--CTCAGGGCATACGGCTCT-  10022
+
+Human_GATA2    10574 ACATCAGCTGGAGAGATGGAAAAGTTCTGTGTCTGCACTGCCCACTGTGG  10623
+                     |...|.||.|||   ||||||..| .||.|| ||.||.|...|..| |.|
+MusMusculus_G  10023 AGGCCGGCAGGA---ATGGAAGCG-CCTTTG-CTCCAATAGTCTTT-TTG  10066
+
+Human_GATA2    10624 TAGCCCCTGGCCACATGTGAATATTGATCACTTGAAATGTGGCTCGTGCA  10673
+                     .||||.|||||.| .|.|||.|||||||..||.|.||||..|.|.|||||
+MusMusculus_G  10067 AAGCCTCTGGCTA-GTATGACTATTGATTGCTAGGAATGCTGTTAGTGCA  10115
+
+Human_GATA2    10674 ATTGAGGGAACTGGGTTTTTAATTTTGTTAATTTGTAGTTAGATCTTATT  10723
+                     .|..|.||.||||.||.||||..||  ||||..||||||||.||...|||
+MusMusculus_G  10116 GTAAAAGGCACTGAGTGTTTAGATT--TTAAACTGTAGTTAAATTCAATT  10163
+
+Human_GATA2    10724 TAAATGGCTGCCTGTGGCCAGCT-GCTACAGTGTTGGACGGTGCAGCTCT  10772
+                     |||||..|| ||||..|.|..|| |.|.|..|.|.||||...|||  ...
+MusMusculus_G  10164 TAAATCTCT-CCTGGCGACTCCTAGATCCTATATAGGACAAAGCA--AGA  10210
+
+Human_GATA2    10773 GCACTCTGTAAACCTGCGCTGGCCTCAGCGACACTGACTCACCCAGG--A  10820
+                     .|||.||.|||.||||.|||  ||           .|||..|.||||  .
+MusMusculus_G  10211 ACACACTTTAATCCTGGGCT--CC-----------AACTTCCTCAGGGCT  10247
+
+Human_GATA2    10821 TTATGGATTTT--------GAGCGGAGTCGTG----CTAGAGGAGACACA  10858
+                     ||.|||.||.|        |.||.|.|||.||    ||  .||...|.||
+MusMusculus_G  10248 TTCTGGGTTCTCCTGGGCAGTGCAGGGTCTTGTTGCCT--TGGCCTCCCA  10295
+
+Human_GATA2    10859 GAATCGG--CCCCAG----------ATCCAGGGGCTC-GAGGGGGACCAA  10895
+                     |....|.  |.||||          .||||||||..| |.||||||..|.
+MusMusculus_G  10296 GCCATGACTCACCAGGATTCTGGATTTCCAGGGGAACAGTGGGGGAGGAG  10345
+
+Human_GATA2    10896 GC---CGGCT-----CAGC--CTCAGGATG---CCTGTGCTACTAGAGAG  10932
+                     ||   |..||     ||||  |||||||||   .|.|   .||||.||. 
+MusMusculus_G  10346 GCATGCAACTGGAGACAGCAACTCAGGATGGTCACAG---GACTAAAGT-  10391
+
+Human_GATA2    10933 CCCTTCTCAGGGCCTCAGTTTCCCCATTTATGGAGTTAGAGCGCAGGGTA  10982
+                       ||.|...||.|||  ||||||..|..|.||.|.|||||..||.|||..
+MusMusculus_G  10392 --CTCCGTGGGACCT--GTTTCCTTACCTGTGAAATTAGACTGCTGGGCG  10437
+
+Human_GATA2    10983 GTTGGGGGAGGT--AGCTAATTCTCCTCTGTAGCTCTTGCAATCCCGTTG  11030
+                     |||.|||||.||  .||| .|||.|.|||||..|   ..||||||..|.|
+MusMusculus_G  10438 GTTAGGGGAAGTGGTGCT-TTTCCCTTCTGTGTC---GACAATCCTTTAG  10483
+
+Human_GATA2    11031 ATTCTAACATCAGGCTTCTGAGAGTTCTTTATTCCAAAGTTCTGTGAGTC  11080
+                     .||||||.|.|              ||||||||||||||||||||||.||
+MusMusculus_G  10484 GTTCTAAGAAC--------------TCTTTATTCCAAAGTTCTGTGATTC  10519
+
+Human_GATA2    11081 TTGACTTATTTCGTTCTCAAATTCTAAAATTCCATGGTTCTGAGATGCTT  11130
+                     ...|||..||||..|||||||||||||||||||..|||| ||||||||||
+MusMusculus_G  10520 CCAACTAGTTTCCATCTCAAATTCTAAAATTCCTCGGTT-TGAGATGCTT  10568
+
+Human_GATA2    11131 TGATTCCCATGTGAGATTTAGCCCTCCTTGACTGAGCTGGTGGGGACTGG  11180
+                     ||||||||..||..||..||.|.|||| .|.||..|| ||||||| ||||
+MusMusculus_G  10569 TGATTCCCCGGTAGGACCTATCGCTCC-AGGCTCGGC-GGTGGGG-CTGG  10615
+
+Human_GATA2    11181 GGGTGGAGC-GAGGGTCAGGGAGGGGGGTCGAGGT-GGGCGTGGGAGTCC  11228
+                     |.||||.|| .||||.|..||| ||.||||.|||| ||||||||||| .|
+MusMusculus_G  10616 GAGTGGTGCTAAGGGCCCAGGA-GGAGGTCAAGGTGGGGCGTGGGAG-AC  10663
+
+Human_GATA2    11229 AGCCTGCTGACGCTG-CCTTGCCCTCCCAGTCGGCCGCCAGAAGAGCCGG  11277
+                     ||||| ||||||||. ||.|.||||||.||||.||.|||||||||||.||
+MusMusculus_G  10664 AGCCT-CTGACGCTACCCCTCCCCTCCTAGTCTGCTGCCAGAAGAGCGGG  10712
+
+Human_GATA2    11278 CACCTGTTGTGCAAATTGTCAGACGACAACCACCACCTTATGGCGCCGAA  11327
+                     ||||||||||||||||||||||||||||||||||||||||||||||||.|
+MusMusculus_G  10713 CACCTGTTGTGCAAATTGTCAGACGACAACCACCACCTTATGGCGCCGGA  10762
+
+Human_GATA2    11328 ACGCCAACGGGGACCCTGTCTGCAACGCCTGTGGCCTCTACTACAAGCTG  11377
+                     |||||||||||||||||||.||||||||||||||||||||||||||||||
+MusMusculus_G  10763 ACGCCAACGGGGACCCTGTGTGCAACGCCTGTGGCCTCTACTACAAGCTG  10812
+
+Human_GATA2    11378 CACAATGTGAGTGCGCCCCGCCCCGGCCACCCCGCCCCTCCCAGGGGACC  11427
+                     |||||||||||||              ||||||.||||||||.|||||||
+MusMusculus_G  10813 CACAATGTGAGTG--------------CACCCCACCCCTCCCCGGGGACC  10848
+
+Human_GATA2    11428 TCTGCGCTTTGTGCTGCCAG----GCAAGAGGCCCCAGCCACAATATCCA  11473
+                     ||.||.||||||||||||.|    ||.||.|||||||||||||||.||||
+MusMusculus_G  10849 TCAGCTCTTTGTGCTGCCTGGCCAGCCAGCGGCCCCAGCCACAATCTCCA  10898
+
+Human_GATA2    11474 GCTTGGCTTGGCTTGGGAAGCTGCTGCCCTGAGTGAGCGCCAGAAGGGCT  11523
+                     |||||||||||||||||.|||.||.|||    |..||| |||||..|   
+MusMusculus_G  10899 GCTTGGCTTGGCTTGGGTAGCCGCAGCC----GACAGC-CCAGAGTG---  10940
+
+Human_GATA2    11524 TCCCGTAAGAGGGGTGCCTTGCCTCTGCTCAGGAGGTGGAGCTGGCTAGG  11573
+                      ||.|.|.||      |..|.||||||.|..||||||||..|.|....||
+MusMusculus_G  10941 -CCAGAAGGA------CGATACCTCTGTTTCGGAGGTGGGACCGATGGGG  10983
+
+Human_GATA2    11574 ACAGGGTCTCGGACTAGGGAAGTGGTTTCTCTGCTTAAAAA-----GGGT  11618
+                     .|||||   |.|.| |||||...|||..||.||.|...|.|     |||.
+MusMusculus_G  10984 GCAGGG---CAGGC-AGGGACCGGGTACCTGTGATAGGAGAAGTTGGGGA  11029
+
+Human_GATA2    11619 CAGGGTGGGG-GGGAGGACTTCAGTTGGCTG-----GGCAGTGCTGGCAT  11662
+                     |||||..||| ..||||     .|||||..|     |||.||||.|||||
+MusMusculus_G  11030 CAGGGAAGGGTTAGAGG-----TGTTGGAGGACGCAGGCTGTGCAGGCAT  11074
+
+Human_GATA2    11663 GCGGTGGGCAGAG-----CCAGGGAGGGTGTGG---GTCAGCCCCATATG  11704
+                     ...|||..|.|.|     |||       |||||   ||.||.||..|   
+MusMusculus_G  11075 TTAGTGATCTGGGAACAACCA-------TGTGGACTGTTAGACCATT---  11114
+
+Human_GATA2    11705 CCAGAACCCGCCCTTCCTGGAATGGTAGCCA-TCTGG---TGATGGGACT  11750
+                             |.|.|||.||.|||..|..|.|| |..||   |.|.|||.||
+MusMusculus_G  11115 --------CACTCTTTCTTGAAAAGATGACAGTGAGGGCTTAAGGGGGCT  11156
+
+Human_GATA2    11751 ATGAAG-GTC-----------GGGC-------ACAATTCCTGGCTTCCTG  11781
+                     .||..| |||           ||||       |||.||||||.|..||||
+MusMusculus_G  11157 TTGGTGAGTCACATTGGGTCTGGGCTGAAGGTACAGTTCCTGTCACCCTG  11206
+
+Human_GATA2    11782 GG---ACCCTCAGCTTGACCTGCCTCTGGTCCACGCTGTGGCGGGG--TG  11826
+                     ||   ||..|.|.||...||||||||  |.|    ||||||.|.|.  |.
+MusMusculus_G  11207 GGGATACAATTAACTCAGCCTGCCTC--GAC----CTGTGGAGAGAGTTT  11250
+
+Human_GATA2    11827 GGAGGAATGTTGCTGGAGGAAGGAACTGGCCCTCTGAAAACTGGTGGTTG  11876
+                     |||||.|| ||| ||..|||.|.||||...|||..|....|. ||||.||
+MusMusculus_G  11251 GGAGGGAT-TTG-TGTGGGAGGCAACTTCTCCTAAGGGCTCC-GTGGCTG  11297
+
+Human_GATA2    11877 CCTCTAGGTTAACAGGCCACTGACCATGAAGAAGGAAGGGATCCAGACTC  11926
+                     .|.|.|||||||||||||||||||||||||||||||||||||||||||.|
+MusMusculus_G  11298 TCCCCAGGTTAACAGGCCACTGACCATGAAGAAGGAAGGGATCCAGACCC  11347
+
+Human_GATA2    11927 GGAACCGGAAGATGTCCAACAAGTCCAAGAAGAGCAAGAAAGGGGCGGAG  11976
+                     ||||.|||||||||||||.|||.|||||||||||||||||||||||.||.
+MusMusculus_G  11348 GGAATCGGAAGATGTCCAGCAAATCCAAGAAGAGCAAGAAAGGGGCTGAA  11397
+
+Human_GATA2    11977 TGCTTCGAGGAGCTGTCAAAGTGCATGCAGGAGAAGTCATCCCCCTTCAG  12026
+                     ||.|||||||||||.||.|||||||||||.|||||||||.|.||||||||
+MusMusculus_G  11398 TGTTTCGAGGAGCTCTCCAAGTGCATGCAAGAGAAGTCACCGCCCTTCAG  11447
+
+Human_GATA2    12027 TGCAGCTGCCCTGGCTGGACACATGGCACCTGTGGGCCACCTCCCGCCCT  12076
+                     |||.||||||||||||||||||||||||||||||||.||||||||.||.|
+MusMusculus_G  11448 TGCGGCTGCCCTGGCTGGACACATGGCACCTGTGGGACACCTCCCACCTT  11497
+
+Human_GATA2    12077 TCAGCCACTCCGGACACATCCTGCCCACTCCGACGCCCATCCACCCCTCC  12126
+                     |.||.|||||.|||||||||||.|||||.||.|||||.||||||||.|||
+MusMusculus_G  11498 TTAGTCACTCTGGACACATCCTACCCACGCCCACGCCTATCCACCCTTCC  11547
+
+Human_GATA2    12127 TCCAGCCTCTCCTTCGGCCACCCCCACCCGTCCAGCATGGTGACCGCCAT  12176
+                     |||||.|||||.||.|||||||||||||||||||||||||||||.|||||
+MusMusculus_G  11548 TCCAGTCTCTCTTTTGGCCACCCCCACCCGTCCAGCATGGTGACTGCCAT  11597
+
+Human_GATA2    12177 GGGCTAGG-------------GAACAG--ATGGACGTCGAGG--------  12203
+                     ||||||||             |.||||  ||||||.||.|||        
+MusMusculus_G  11598 GGGCTAGGCAAGCCTCCCACTGGACAGACATGGACATCAAGGGTGGTTTG  11647
+
+Human_GATA2    12204 -----ACC-----------GGGCACTCCCGGGATGGGTGGACCAAACCCT  12237
+                          |||           ||||||||||.|||||||||||.||.||.||
+MusMusculus_G  11648 GCAGAACCAGAGCGAGGCTGGGCACTCCCAGGATGGGTGGAACATACTCT  11697
+
+Human_GATA2    12238 TAGCAGCCCAGCATTTCCCGA-AGGCCGACACCACTCCTGCCAGCCCGGC  12286
+                     |.||.  ||.||...||||.| ||.||.||..| ||||||||||||..||
+MusMusculus_G  11698 TGGCT--CCCGCCCATCCCAAGAGACCCACTTC-CTCCTGCCAGCCTAGC  11744
+
+Human_GATA2    12287 TCGGCCCAGCACCCCCTCTCC-TGGAGGGCGCCCAGCAGCCTGCCAGCAG  12335
+                     ..||||.| ..||.||||||| ||||||.|.||||||....|||| ||..
+MusMusculus_G  11745 CTGGCCGA-AGCCACCTCTCCTTGGAGGACTCCCAGCCTTGTGCC-GCCA  11792
+
+Human_GATA2    12336 TTACTGTGAATGTTCCCCACCGCTGAGAGGCTGCCTC-CGCACCTGACC-  12383
+                     |||||||||||.||.|..||.|      ||||||..| |||...||.|| 
+MusMusculus_G  11793 TTACTGTGAATATTTCTAACTG------GGCTGCAGCTCGCGTGTGCCCG  11836
+
+Human_GATA2    12384 ----GCTGCCCAGGTGGG-GTTTCCTGCATGGACAG---TTGTTTGGAGA  12425
+                         |||||||||....| ||||.   ||.|||.||   |||||||||||
+MusMusculus_G  11837 GGGTGCTGCCCAGAAAAGTGTTTT---CACGGAGAGTGTTTGTTTGGAGA  11883
+
+Human_GATA2    12426 ACAACAAGGACAACTTT----ATGTAGAGAAAAGGAGGGGAC--GGGACA  12469
+                     .|||.|.|||||..|||    ||.||.||.||  ||.|.|||  ||||.|
+MusMusculus_G  11884 GCAAAATGGACAGGTTTACAGATTTATAGCAA--GAAGAGACTGGGGATA  11931
+
+Human_GATA2    12470 GACGAAGGCAACC-------------------------------------  12482
+                     ||..||.|.||||                                     
+MusMusculus_G  11932 GAAAAATGAAACCTTTTTTTTTCTTTTTCTTTTTTTCTTCTTCTGTTTTA  11981
+
+Human_GATA2    12483 ATTTTTAGAAGGAAAAAGGATTAGGC------AAAAATAATTTATTTTGC  12526
+                     .|||||.||.|||.||||||.|||||      ||||||||||||||||||
+MusMusculus_G  11982 TTTTTTTGATGGAGAAAGGAGTAGGCAAGAAGAAAAATAATTTATTTTGC  12031
+
+Human_GATA2    12527 TCTTGTTTCTAACAAGGACTTGGAGACTTGGTGGTCTGAGCTGTCCCAAG  12576
+                     ||||.|||||.|||||.||.||.||||.|||.||..||.|||.|......
+MusMusculus_G  12032 TCTTATTTCTTACAAGAACGTGAAGACATGGAGGCGTGTGCTATTTGTGT  12081
+
+Human_GATA2    12577 TCCTCCGGTTCTTCCTCGGGATTGGCGGGTCCACTTGCCAGGGCTCT-GG  12625
+                     ||.|..|||.||||.|.||||....|.|  ||||..|.||||||||| ||
+MusMusculus_G  12082 TCTTGGGGTCCTTCTTTGGGACCTCCTG--CCACCAGTCAGGGCTCTCGG  12129
+
+Human_GATA2    12626 GGGCAGATTTGTGGGGACCTCAGCCTGCACCCTCTTCTCCTCTGGCTTCC  12675
+                     |||||||.|| .|.||.||||||||||..||..||||.||.|.|      
+MusMusculus_G  12130 GGGCAGACTT-AGAGGTCCTCAGCCTGAGCCTCCTTCACCCCAG------  12172
+
+Human_GATA2    12676 CTCTCTGAAATAGCCGAACTCCAGGCTGGGCTGAGCCAAAGCCAGAGTGG  12725
+                                         ||.|.|||              |||.||.|
+MusMusculus_G  12173 --------------------CCTGCCTG--------------CAGGGTAG  12188
+
+Human_GATA2    12726 CCACGGCCCAGGGAGGGTGAGCTGGTGCCTGCTTTGACGGGCCAGGCCCT  12775
+                     ||.|.||||                         |||||   || |||||
+MusMusculus_G  12189 CCCCTGCCC-------------------------TGACG---CA-GCCCT  12209
+
+Human_GATA2    12776 GGAGGGCAGAGACAATCACGGGCGGTCCTGCACAGATTCCCAGGCCAGGG  12825
+                     .|||||||||||||||..|.|||||||||||.||||||||||||||||||
+MusMusculus_G  12210 AGAGGGCAGAGACAATTGCAGGCGGTCCTGCGCAGATTCCCAGGCCAGGG  12259
+
+Human_GATA2    12826 CTGGGTCACAGGAAGGAAACAACATTTTCTTGAAAGGGGAAACGTCTCCC  12875
+                     |||||||||||||||||   ||||||.|||.|||||||||||||||||||
+MusMusculus_G  12260 CTGGGTCACAGGAAGGA---AACATTCTCTGGAAAGGGGAAACGTCTCCC  12306
+
+Human_GATA2    12876 AGATCGCTCCCTTGGCTT--TGAGGCCGAAGCTGCTGTGACTGTGTCCCC  12923
+                     |||||..||||.||||||  .||||||.||||||.||||||     ||  
+MusMusculus_G  12307 AGATCATTCCCCTGGCTTCCAGAGGCCAAAGCTGGTGTGAC-----CC--  12349
+
+Human_GATA2    12924 TTACTGAGCGCAAGCCACAGCCTG---TCTTGTCAGGT-GGA-CCCTGTA  12968
+                      .|.||.||...|||..|||||||   |||.|.|..|| ||| |||||||
+MusMusculus_G  12350 -AAATGGGCCAGAGCTGCAGCCTGTGCTCTAGGCCAGTCGGACCCCTGTA  12398
+
+Human_GATA2    12969 AATACATCCT--TTTTCTGCTAACCCTTCAACCCCCTCGCCTCCTACTCT  13016
+                     ||||||.|||  |||||||||||.||.||..|||||||.||     ||||
+MusMusculus_G  12399 AATACAACCTTCTTTTCTGCTAAACCCTCGGCCCCCTCCCC-----CTCT  12443
+
+Human_GATA2    13017 GAGACAAAAGAAAAAATATTAAA----------AAAATGCATAGGCTTAA  13056
+                     .|||.|||..|.||||||.|.||          |||.||||||.||||||
+MusMusculus_G  12444 AAGATAAATAAGAAAATACTCAAAGCGAAAACCAAACTGCATAAGCTTAA  12493
+
+Human_GATA2    13057 CTCGCTGATGAGTTAATTGTTTTATTTTTAAACTC--TTTTTGGGTCCAG  13104
+                     |.||||||||||    |.||||||||||.||||||  |||||||||||||
+MusMusculus_G  12494 CCCGCTGATGAG----TGGTTTTATTTTGAAACTCGTTTTTTGGGTCCAG  12539
+
+Human_GATA2    13105 TTGATTGTACGTAGCCACAGGAGCCCTGCTATG-----AAAGGAATAAAA  13149
+                     |..|||||||||.|||||||.|||||.||||||     |||..|||||||
+MusMusculus_G  12540 TCAATTGTACGTTGCCACAGAAGCCCCGCTATGGAAAAAAATAAATAAAA  12589
+
+Human_GATA2    13150 CCTACACACAAGGTTGGAGCTTTGCAATTCTTTTTGGAAAAGAGCTGGGA  13199
+                     ||||||.||.|||...||||||..||.|.||||   ||...|..||.||.
+MusMusculus_G  12590 CCTACAAACCAGGCCTGAGCTTCACAGTCCTTT---GAGTGGTTCTTGGG  12636
+
+Human_GATA2    13200 TCCCACAGCCCTAGTATGAAAGCTGGGGGTGGGGAGGGGCCTTTGCTGCC  13249
+                     ||||||||||||.|.| |...|||.|||....||.||...|||  .|||.
+MusMusculus_G  12637 TCCCACAGCCCTGGCA-GGGGGCTCGGGACAAGGGGGAATCTT--ATGCT  12683
+
+Human_GATA2    13250 CTTGGTTTCTGGGGGCTGGTTGGCATTTGCTGGCCTGGCAGGGGGTGAAG  13299
+                     |||||||||||||                                   ||
+MusMusculus_G  12684 CTTGGTTTCTGGG-----------------------------------AG  12698
+
+Human_GATA2    13300 GCAGGAGTTGGGGGCAGGTCAGGACCAGGACCCAGGGAGAGGCTGTGTCC  13349
+                     .||      ||||||||| |                   ||||.|||.||
+MusMusculus_G  12699 ACA------GGGGGCAGG-C-------------------AGGCAGTGGCC  12722
+
+Human_GATA2    13350 CTGCTGGGGTCTCAGG-TCCAGCTTTACTGTGGCTGTCTGGATCCTTCCC  13398
+                     |||.   |.||.|||| |.|.|.|.|.|||||||||.|||.||||||  |
+MusMusculus_G  12723 CTGT---GATCCCAGGCTTCTGTTCTGCTGTGGCTGGCTGAATCCTT--C  12767
+
+Human_GATA2    13399 AAGGTACAGCTGTATAT-AAACGTGTCCCGAGCTTAGATTCTGTATGCGG  13447
+                     |||||||||.||||.|| |||.|||||||.|||||.||||||||.||.||
+MusMusculus_G  12768 AAGGTACAGTTGTACATAAAAAGTGTCCCAAGCTTCGATTCTGTGTGTGG  12817
+
+Human_GATA2    13448 TGACGGCGG-GGTGTGGTGGCCTGTGAGGGGCCCCTG-----GCCCAGGA  13491
+                     ||..|||.| ||||..|..|||.|..|||||.|||.|     |||||||.
+MusMusculus_G  12818 TGGTGGCAGTGGTGCAGCAGCCAGCAAGGGGGCCCCGAGTGAGCCCAGGG  12867
+
+Human_GATA2    13492 GGAGGATTGTGCTGATGTAGTGACCAAGTGCAATATGGGCGGGCAGTCGC  13541
+                     .||.||||||||||| ||.  .||||||||||||||.||.|..||||.||
+MusMusculus_G  12868 AGACGATTGTGCTGA-GTC--AACCAAGTGCAATATCGGTGTCCAGTTGC  12914
+
+Human_GATA2    13542 TGCAGGGAGCACCACGGCCAGAAGTAACTTATTTTGTACTAGTGTCCGCA  13591
+                     ||||  |||||||....||.|||||||||||||||||.|||||..|||||
+MusMusculus_G  12915 TGCA--GAGCACCCTAACCGGAAGTAACTTATTTTGTGCTAGTACCCGCA  12962
+
+Human_GATA2    13592 TAAGAAAAAGAATCGGCAGTATTTTCTGTTTTTATGTTTTATTTGGCTTG  13641
+                     |||| |.|||||||||||||||||||||||||||||||||.   ||||||
+MusMusculus_G  12963 TAAG-AGAAGAATCGGCAGTATTTTCTGTTTTTATGTTTTG---GGCTTG  13008
+
+Human_GATA2    13642 TTTTATTTTGGATTAGTGAACTAAGTTATTGTTAATTATGTACAACATTT  13691
+                     ||||||||||.||||||||.|||||||||||||||.|.||||||||||||
+MusMusculus_G  13009 TTTTATTTTGAATTAGTGACCTAAGTTATTGTTAACTGTGTACAACATTT  13058
+
+Human_GATA2    13692 ATATATTGTCTGTAAAAAATGTATGCTATCCTCTTATTCCTTTAAAGTGA  13741
+                     |.||||||||||||||||.|||||||||.|||||||||||||||||||||
+MusMusculus_G  13059 AAATATTGTCTGTAAAAATTGTATGCTACCCTCTTATTCCTTTAAAGTGA  13108
+
+Human_GATA2    13742 GTACTGTTAAGAATAATAAAATACTTTTTGTGAATGCCC  13780
+                     .|||||||||.|||||||||||||||||||||||     
+MusMusculus_G  13109 ATACTGTTAAAAATAATAAAATACTTTTTGTGAA-----  13142
+
+
+#---------------------------------------
+#---------------------------------------

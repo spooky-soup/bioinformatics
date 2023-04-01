@@ -1,0 +1,1970 @@
+
+#=======================================
+#
+# Aligned_sequences: 2
+# 1: MusMusculus_Dnmt3a
+# 2: Human_Dnmt3a
+# Matrix: EBLOSUM62
+# Gap_penalty: 10.0
+# Extend_penalty: 0.5
+#
+# Length: 24374
+# Identity:    8300/24374 (34.1%)
+# Similarity:  8300/24374 (34.1%)
+# Gaps:       13317/24374 (54.6%)
+# Score: 30931.5
+# 
+#
+#=======================================
+
+MusMusculus_D      1 TTTTTTTTTTCTCTGTTTATTTACACACACAATTCTTCCAAGTTTCATGA     50
+                                                                       
+Human_Dnmt3a       1 --------------------------------------------------      0
+
+MusMusculus_D     51 TTTTTTCCTTATAGTTGCAAACTGAAATTCACATATTGACAGATATCTCC    100
+                                                                       
+Human_Dnmt3a       1 --------------------------------------------------      0
+
+MusMusculus_D    101 GAATTTAGGATTTGATACGTAATGGGC----TCACATGCATTTATATCTG    146
+                                            ||||    || |.|||...|.      
+Human_Dnmt3a       1 -----------------------GGGCGATGTC-CTTGCTAATT------     20
+
+MusMusculus_D    147 ACACGTCTCTGGAGTCTACAAACATTGGTACCATTATCTACATTCCTCCC    196
+                              |||||.||. |..||   ||.||        |.||...|||
+Human_Dnmt3a      21 ---------TGGAGACTG-ATTCA---GTCCC--------CTTTTGGCCC     49
+
+MusMusculus_D    197 CCAAATT-CTTAAATATGCTAGCTCCATGTTGAGATAAAAAGATTAGGGC    245
+                     ||||.|| |.||||.||  .||..|..||  |||||     |.||     
+Human_Dnmt3a      50 CCAAGTTACGTAAAGAT--AAGGACTTTG--GAGAT-----GTTT-----     85
+
+MusMusculus_D    246 CGCTGTCAGAAAGCACCCAACGCTGAGGGATGTTCGTCAGGATTCATTTT    295
+                        |.||||.|||.|  ||..|||||...|       ||...|||     
+Human_Dnmt3a      86 ---TCTCAGGAAGGA--CAGAGCTGAAAAA-------CAAAGTTC-----    118
+
+MusMusculus_D    296 AAAGCGCTAATTCCCAGCC-GAAGATTCGTATTAAGGCTCATGAATTTCT    344
+                         ||..|.|  |..||| |.|..|.|.|.||     ||    .||.||
+Human_Dnmt3a     119 ----CGTAAGT--CTGGCCGGTAACTACATCTT-----TC----CTTCCT    153
+
+MusMusculus_D    345 AAAAAAGCGATAGGCCTTCATTTGGAATGATGAAGACGGCCTGCGTTTTC    394
+                     ||.|||| .|||.||| .||.||                    |..|.||
+Human_Dnmt3a     154 AACAAAG-AATAAGCC-GCAATT--------------------CACTCTC    181
+
+MusMusculus_D    395 TCAGTTCTGCACGCTCTAAAGTTTTAGAAAGATGCTCTTTGGAG--GCGA    442
+                     ||.|    ||||   ||.||                ||||||.|  .|||
+Human_Dnmt3a     182 TCTG----GCAC---CTGAA----------------CTTTGGGGTAACGA    208
+
+MusMusculus_D    443 CTGACTGGGTTTCTCTTTGGTCCCCAAATGACATAAAGCTGAT--AATTT    490
+                     .|.||||.|.|            ||.|| |.|.|.|.||...|  ||..|
+Human_Dnmt3a     209 TTAACTGCGAT------------CCGAA-GCCTTCAGGCAAGTAAAAAAT    245
+
+MusMusculus_D    491 TCGTTTTGAAAATGCTGCCTCAGAAAAGAGG--TGCA-AAAGCATGGCTG    537
+                     ||.|...|..|.|.| ||||  |....||||  |||| ....|..||...
+Human_Dnmt3a     246 TCCTGAAGTGATTAC-GCCT--GTTTGGAGGCTTGCAGGGCACTAGGGGA    292
+
+MusMusculus_D    538 CGGGGAAAGTAGCCTAGATCCAGCCACTCCGCCCTGGGCTCCTGAAGCTA    587
+                     .||||||||..|    .|||.||...||   |.|| |||||      .|.
+Human_Dnmt3a     293 TGGGGAAAGGTG----AATCGAGGTGCT---CTCT-GGCTC------ATT    328
+
+MusMusculus_D    588 CGTGAAAACGAAGAGCAAGCCTTCGAGCAAGCCAAATCCTGAGGTGATTA    637
+                     ||              .||||..|.|.|..||||.|||            
+Human_Dnmt3a     329 CG--------------CAGCCGGCTAACCCGCCATATC------------    352
+
+MusMusculus_D    638 TGCTTGTTCCAGGCCTACGGGGAACGGAGGGTGGAGAAAAGAGACGCTCT    687
+                           ||.||...|||.|                               
+Human_Dnmt3a     353 ------TTACACAGCTAAG-------------------------------    365
+
+MusMusculus_D    688 GTGGTTCCCTGGCTGCAGCCGCCATCTTTCAGGGTGGGCTGCGCACGCTC    737
+                               ||||||.|.||||||.||.||||||||||||||||..|||
+Human_Dnmt3a     366 ----------GGCTGCCGACGCCATTTTGCAGGGTGGGCTGCGCAGACTC    405
+
+MusMusculus_D    738 TCGGCCCTGGGCCCGCGAGCACGAGC-GGAGAAGACGTGGAAGCCCTGAA    786
+                     |.|||....||||.|||.||..|||| |||||.||||||||||...||.|
+Human_Dnmt3a     406 TTGGCGGGAGGCCGGCGCGCTTGAGCGGGAGAGGACGTGGAAGGGTTGGA    455
+
+MusMusculus_D    787 AACCCAGAGCGAG-GCCACAAAGAGAAAACGCGCCTGCGCTTGGGCGACA    835
+                     ......|||.|.| |..||.|...||||.|.|||.|||||...|||||||
+Human_Dnmt3a     456 GGTGGGGAGTGCGCGTTACGACTGGAAAGCACGCGTGCGCACAGGCGACA    505
+
+MusMusculus_D    836 GTAGTGGAGGGACGGGGCCAGAG-ACGAACGCGCGTGCGCAGTGAGAGCC    884
+                     |.||.||||||..||||||||.| ||||..||||||||.|.|||.|||||
+Human_Dnmt3a     506 GCAGCGGAGGGGTGGGGCCAGTGTACGAGTGCGCGTGCTCGGTGGGAGCC    555
+
+MusMusculus_D    885 CGCCAAGCACCTGGAGGAGGAGGGGGGCGAGGTACCTAGGCGTGAGGATG    934
+                     |||..||.|||||||.|..|..||||||||||||...|||.|||.||.||
+Human_Dnmt3a     556 CGCGGAGTACCTGGAAGGAGGTGGGGGCGAGGTAGAAAGGAGTGGGGTTG    605
+
+MusMusculus_D    935 AAAGGCGCACGCGCAAAAGCGCGACTGTGCGGGGAGTGGGAGGGATCCAG    984
+                     |||.||||..|||||..|..||.||.||.||||| |||||||||.|.|.|
+Human_Dnmt3a     606 AAAAGCGCTTGCGCAGGACGGCTACGGTACGGGG-GTGGGAGGGCTTCGG    654
+
+MusMusculus_D    985 AGGAGGCTCGCGGAGGCAGGACTAGCGCAGATCTCGCGAGATCTCCTGCG   1034
+                     ||.|.||.|||||||||.|||||.|.|.||..||||||||||||.|.|.|
+Human_Dnmt3a     655 AGCACGCGCGCGGAGGCGGGACTTGGGAAGCGCTCGCGAGATCTTCAGGG    704
+
+MusMusculus_D   1035 ACCATATATACGTGCGGAGAGCCCGCGTCCTTTCCTTGGCGTGATTCCGT   1084
+                     .|.|||||||.|.||||.|||||.|||||||||||.|||.||||||||||
+Human_Dnmt3a     705 TCTATATATAAGCGCGGGGAGCCTGCGTCCTTTCCCTGGTGTGATTCCGT    754
+
+MusMusculus_D   1085 CCTGCGCGTCTGTTCTGTGGAACAGGAGGCAGTTGTTT----TCCGTCCG   1130
+                     ||||||||..||||||.||||.|||     .|||.|||    ||||||||
+Human_Dnmt3a     755 CCTGCGCGGTTGTTCTCTGGAGCAG-----CGTTCTTTTATCTCCGTCCG    799
+
+MusMusculus_D   1131 GCTTCTCCCACACCGAAGTGCGCGCCTCCACCTCATGGAAGACTCGATGG   1180
+                     .||||||.|..|||.|||||||.|||.|||||..||||||||.|||||||
+Human_Dnmt3a     800 CCTTCTCTCCTACCTAAGTGCGTGCCGCCACCCGATGGAAGATTCGATGG    849
+
+MusMusculus_D   1181 ATATGGACATGAGTCCTCTTAGGCCTCAGAACTACCTTTTCGGTAACTGA   1230
+                     |.|||||||||||.||.||.|||||.||||||||.|||||||||||||| 
+Human_Dnmt3a     850 ACATGGACATGAGCCCCCTGAGGCCCCAGAACTATCTTTTCGGTAACTG-    898
+
+MusMusculus_D   1231 CTGGAGGGG---GAAGCGT----GTGCAGGGCCTGGT---------GATG   1264
+                     ||||.|||.   |.||||.    |.||.|||||||||         |.||
+Human_Dnmt3a     899 CTGGGGGGAGCTGGAGCGAGGCCGAGCGGGGCCTGGTGGCGGTGAGGGTG    948
+
+MusMusculus_D   1265 GGGG-GGGGGGCGGGAGCCCAGCCGAGGCCTGG-CGTGTGGGGAACG---   1309
+                     |||| |.|||||||||..||.||.|...||.|| |..||||.||.||   
+Human_Dnmt3a     949 GGGGTGAGGGGCGGGAATCCGGCTGCAACCGGGTCTGGTGGAGACCGCCA    998
+
+MusMusculus_D   1310 ---CGGCGTAGGTGGAGGCCGGAGAGCAAGGAGGAATCT-------CCCA   1349
+                        ||.||     |||||||.|||.|...||....|.||       |||.
+Human_Dnmt3a     999 GACCGACG-----GGAGGCCTGAGCGGGTGGGAAGAGCTGCCTGAGCCCT   1043
+
+MusMusculus_D   1350 GG-CCT-------TAGAAGCAGCG------GCC-------TGAA----CA   1374
+                     || |||       |.|.|||.|||      |||       ||||    .|
+Human_Dnmt3a    1044 GGACCTGGAGGGATTGGAGCCGCGGGGGGAGCCGGTGGCGTGAAGGGGGA   1093
+
+MusMusculus_D   1375 CTAGGAAAGCCGCCGGAA---AATGGGGCGGGAGCGGCCC--AGCCTGTA   1419
+                     ..||...|||.|||.|||   ..|||||||.||||||.||  .|||.|..
+Human_Dnmt3a    1094 GGAGACGAGCGGCCTGAAGCGTCTGGGGCGTGAGCGGTCCGAGGCCCGGG   1143
+
+MusMusculus_D   1420 GCCTCGGGTGTTAGGAGCGGCCGGCCGGCCGGCGAGGGTGCGACC-TTGC   1468
+                     ||||  |..||.|.|.|...|||||||.|.||   ..||.||.|| ||||
+Human_Dnmt3a    1144 GCCT--GAGGTAAAGTGGAACCGGCCGCCTGG---AAGTTCGGCCTTTGC   1188
+
+MusMusculus_D   1469 CTGTGGCGCGAACTTGAGAGGCGTTTCTCCTGTGCACGAAAGCCCGCACG   1518
+                     |.|.|...|        |.||||...||||.|             ||..|
+Human_Dnmt3a    1189 CGGGGATAC--------GTGGCGGAGCTCCAG-------------GCGTG   1217
+
+MusMusculus_D   1519 G-TCGCTTCCGAGCTCCTTTTTTTCCT---CTTGTGTTG---AGCCAC-G   1560
+                     | |...||.|.|.|..|..|..|||.|   |||.||.||   .|||.| |
+Human_Dnmt3a    1218 GTTTATTTTCTAACGGCGGTGGTTCATAGGCTTCTGATGCCAGGCCCCGG   1267
+
+MusMusculus_D   1561 GCAGGCGGCACGGGAGAAAGGG---GCCTGTGGAGCGAGGCGAGGCCTAC   1607
+                     |..||.||..|.||||...|||   .|| |.|.|||..|    |||||. 
+Human_Dnmt3a    1268 GTTGGTGGTCCTGGAGGCTGGGTTCACC-GGGAAGCATG----GGCCTG-   1311
+
+MusMusculus_D   1608 CTCCGCCCTGTTGGGGAGGATACAT---CTG-CAGGCG-----CTGGGCT   1648
+                           |.||||||.|.||.||.||   |.| |.||||     ||||.||
+Human_Dnmt3a    1312 ------CTTGTTGGAGCGGGTAGATGCACAGCCTGGCGTTATTCTGGCCT   1355
+
+MusMusculus_D   1649 TT---CCAGGGGCCGCATCTTGTATTCTGTGGCGACCGAGGGCTTCGCCC   1695
+                     ..   ||.||.||.||.....|||..|| |..|  .||.|.||||||.||
+Human_Dnmt3a    1356 CAGAGCCTGGAGCTGCCGGACGTAGACT-TACC--TCGCGTGCTTCGGCC   1402
+
+MusMusculus_D   1696 AGTAACGGGGAATGGTCCGAGCAGGCGCCCTGAGGC-AGAAGGGGCAGCA   1744
+                     |||.||.|||..|||     |.||||||...|.||| .||.|.|||.|||
+Human_Dnmt3a    1403 AGTTACTGGGGGTGG-----GGAGGCGCGGCGCGGCGTGAGGAGGCCGCA   1447
+
+MusMusculus_D   1745 ACCCCTAGGAGCACGTGGTTGCCACGTGGTTGGGGGTTAGGGA-GGGGGT   1793
+                     |||.||.|||||||||||||||||||||||||||||  ||||| ||||||
+Human_Dnmt3a    1448 ACCGCTGGGAGCACGTGGTTGCCACGTGGTTGGGGG--AGGGAGGGGGGT   1495
+
+MusMusculus_D   1794 GTGGGCTCTACATCCGGG-CTCTCCGAC-TCTAGCCAACCTTCAGCCGTG   1841
+                     ||||||.||||||||||| |||.|||.| |.|.||||..|.|.|||| .|
+Human_Dnmt3a    1496 GTGGGCGCTACATCCGGGACTCACCGGCGTGTTGCCACTCGTGAGCC-AG   1544
+
+MusMusculus_D   1842 GGATCTTGTGGCTTAGTTAAAAGTTCTGGGAGGGAAATGTTTATTTCATA   1891
+                     ||||..|||||||..|||.||        |.||||||||||.|    ...
+Human_Dnmt3a    1545 GGATGCTGTGGCTCTGTTGAA--------GTGGGAAATGTTAA----GAG   1582
+
+MusMusculus_D   1892 GCCCGTGGCGTATGGGTTTTTGAGATCTTTGTTCATATCTTTCAGTATCC   1941
+                     ||..||.||....|||||.|.|||.||||||||||...|||.|||.||..
+Human_Dnmt3a    1583 GCTGGTAGCACTAGGGTTCTGGAGGTCTTTGTTCAGTGCTTACAGCATGT   1632
+
+MusMusculus_D   1942 ACAGTGATGG-AGCCC-------------CCCCTTTTTAATTTGCCTCTG   1977
+                     ||.||||||| |||.|             ||||||||...|.|..||..|
+Human_Dnmt3a    1633 ACTGTGATGGCAGCTCTCATTTTTTTGAGCCCCTTTTCTGTCTCACTGCG   1682
+
+MusMusculus_D   1978 GTAGGCGGAGTCAGCATCACGTTGCAGATAGCTGTACTGATGGCCCACG-   2026
+                     |||||.||||..|||..|||.||||||||.....|||||.||.||...| 
+Human_Dnmt3a    1683 GTAGGTGGAGCTAGCCCCACTTTGCAGATGAGGATACTGGTGCCCAGAGA   1732
+
+MusMusculus_D   2027 -----TGGCTTAATGTTAGGAGTAC----------CCT--------TAAA   2053
+                          |..|||||.|...|..||||          |..        ||||
+Human_Dnmt3a    1733 TAAACTCACTTAACGAAGGTTGTACTTAGTAAAGGCAATAAGAGACTAAA   1782
+
+MusMusculus_D   2054 TCATCTACCTGGCTCT---ATCTAGAACTACTTTTTCTTGG-----GGTG   2095
+                     ||.....|..|.|.||   .||...|.||.||..|||.||.     ..||
+Human_Dnmt3a    1783 TCTAAACCAAGACGCTTGACTCCGTAGCTGCTGCTTCGTGAATATTAATG   1832
+
+MusMusculus_D   2096 GGG---------AGAGGGAAGG--------------ATCTG-------TT   2115
+                     .||         ||.||||.|.              ||.||       ||
+Human_Dnmt3a    1833 AGGCTTCGTTTTAGGGGGACGTCCTCGCATGCCGCCATTTGTGCGGCATT   1882
+
+MusMusculus_D   2116 GAACAG---------------ACAAGA-------------TTCGCTTT-A   2136
+                     ||.||.               ||||||             ||||.||| |
+Human_Dnmt3a    1883 GACCAAACTGCTTTTCTAAATACAAGAAACACGTAGAGTGTTCGGTTTGA   1932
+
+MusMusculus_D   2137 G-C--ATCAAGGC------------------TTTTGGGG--ATCACATCT   2163
+                     | |  ||||||.|                  |||||||.  |.|||..|.
+Human_Dnmt3a    1933 GTCAGATCAAGACCTAAGACTATTCGCAGAATTTTGGGAGCACCACCCCC   1982
+
+MusMusculus_D   2164 ATAGTCTTGCTG----CCTACCCTACA---------CCCA-----GTTTT   2195
+                     .|.|.|||||.|    |||.|||.|.|         ||||     |||||
+Human_Dnmt3a    1983 CTCGACTTGCGGTAGTCCTGCCCCAAAAAGGAGAGTCCCACTTGGGTTTT   2032
+
+MusMusculus_D   2196 TG--------------------------------TTTAAAAGAATCAG--   2211
+                     ||                                |||..|..|.||||  
+Human_Dnmt3a    2033 TGATCTCAGTAGGATTAATTGCAGAAGCCTAATCTTTGTACTATTCAGAC   2082
+
+MusMusculus_D   2212 TTTG-------------------------TTTT-------------TCAG   2223
+                     ||||                         ||||             ||.|
+Human_Dnmt3a    2083 TTTGAAGTAAATGCAAATCCTACCGTGAATTTTATCTTGTTCATTATCCG   2132
+
+MusMusculus_D   2224 TG------------------------ATTCACGTTTTAGC----------   2239
+                     ||                        .|||||.|||.|||          
+Human_Dnmt3a    2133 TGCTGAGATTTGTTAATTAAACGTCTGTTCACATTTAAGCATGTATATGT   2182
+
+MusMusculus_D   2240 ------------------------------------------TTTTTA--   2245
+                                                               ||||||  
+Human_Dnmt3a    2183 ATTGGTAACGGTTAGATGATAGTTAAATGGAATCATTTAAAATTTTTATT   2232
+
+MusMusculus_D   2246 ---ACAGT----------------CC-----------TGAGATTA-----   2260
+                        |||||                ||           |||||.||     
+Human_Dnmt3a    2233 CTGACAGTGTTTTGAAGAATTTTGCCCATTCATGGAGTGAGAGTAGACAT   2282
+
+MusMusculus_D   2261 ----------------AAGG------------------------AACAGT   2270
+                                     ||||                        |.|.|.
+Human_Dnmt3a    2283 ATGTATTCAAAACATTAAGGCTTTAATTCCTAGTTATTTTGGATAGCTGA   2332
+
+MusMusculus_D   2271 GAACTCTG----------------------------------------CC   2280
+                     |||.||||                                        .|
+Human_Dnmt3a    2333 GAATTCTGGTAAATTTATATCAGTACTTTTTGATAACTATCGGAAAGAAC   2382
+
+MusMusculus_D   2281 ACTCGTT--------CATTAATTC------TAGT----------------   2300
+                     .|||.||        |||.|.|||      ||||                
+Human_Dnmt3a    2383 CCTCCTTGTCTTAAACATAATTTCTGAATATAGTTTGAGGCGTATGTCAC   2432
+
+MusMusculus_D   2301 ----------------------AGTGTTTATACC-------GATTTC---   2318
+                                           ||||||.||.||       .|.|||   
+Human_Dnmt3a    2433 TTTCTGTTGCTTTAAAGAGTGGAGTGTTGATCCCTGTAGCAAACTTCGGT   2482
+
+MusMusculus_D   2319 ------AC------CATACTACTTT----AAAGAGA--------------   2338
+                           ||      |||..|.||||    |.||..|              
+Human_Dnmt3a    2483 TCTTTTACTTTTGTCATTTTTCTTTTGTAATAGTAAGCTATTCATGTTTG   2532
+
+MusMusculus_D   2339 --------CTCAT-------------------------------TAAGTC   2349
+                             |||||                               |||.||
+Human_Dnmt3a    2533 TAACCGTTCTCATTTCGAAATTGCCATTTGGGAATTTAGGTAGGTAAATC   2582
+
+MusMusculus_D   2350 TACTGT-----------GGAAAC--------------------------C   2362
+                     ..||||           ||||||                          |
+Human_Dnmt3a    2583 AGCTGTTTTAAATAGTGGGAAACTTAACATTGGACATTACATTTGGTTTC   2632
+
+MusMusculus_D   2363 AG------------------------------CAATG---TTG-------   2372
+                     ||                              ||.||   |||       
+Human_Dnmt3a    2633 AGATAATTGCTTCAGGTTGAGATTTACTAAACCATTGAGCTTGTTTATGC   2682
+
+MusMusculus_D   2373 ------------CC--TCAATGTAGTTA-------------GTACTATGA   2395
+                                 ||  |||..|||||||             |||..||||
+Human_Dnmt3a    2683 AGAATAACAGTACCTATCAGCGTAGTTAGAGATGAAATATGGTATGATGA   2732
+
+MusMusculus_D   2396 GA-----AAATTAAAGATTTTTTT-------TTTTAATGTTTCATTT---   2430
+                     ||     .|||||.||..||||.|       |.|..|.|||||..||   
+Human_Dnmt3a    2733 GAGAATGGAATTATAGTCTTTTATGGGTGTCTGTAGAGGTTTCTGTTCAA   2782
+
+MusMusculus_D   2431 ---------GAGTTGA----------TTTCAC------------------   2443
+                              ||.||||          ||.|.|                  
+Human_Dnmt3a    2783 GAAATCTAGGAATTGATCATTCTGCTTTGCCCTCTGGTAGCTAAAATAGT   2832
+
+MusMusculus_D   2444 --AGAACT----------TTAGGC-------TTTGGGTTT---TGATGTA   2471
+                       |.||||          ||||.|       |||.||||.   ..|..||
+Human_Dnmt3a    2833 GAAAAACTAGTTCAAAAGTTAGACCTGACCTTTTTGGTTACCCACACTTA   2882
+
+MusMusculus_D   2472 AGTATCATTGCTAGGTTTGCTTTCTTGT---------TTTTGTCTT-ACA   2511
+                     |||.|||.||.||  |||...|.|||||         ||||.|||| |..
+Human_Dnmt3a    2883 AGTTTCAGTGTTA--TTTTTCTCCTTGTTAGAGTTGCTTTTTTCTTCATT   2930
+
+MusMusculus_D   2512 TACAGGCTGTGAACTAAAGGCTGACAAAGACTATCACTTTAAAGTGGATA   2561
+                     ||||||.||||||||||||||.||||||||.|||||||||||.|||||||
+Human_Dnmt3a    2931 TACAGGTTGTGAACTAAAGGCCGACAAAGATTATCACTTTAAGGTGGATA   2980
+
+MusMusculus_D   2562 ATGATGAAAATGAGCACCAGTTGTCATTAAGAACGGTATGTAAGCTCTGA   2611
+                     ||||||||||||||||||||||.||.||||||||||||..|||.||.|.|
+Human_Dnmt3a    2981 ATGATGAAAATGAGCACCAGTTATCTTTAAGAACGGTACTTAAACTTTCA   3030
+
+MusMusculus_D   2612 AACTTAAAAAC-------------ATTTCAGAC-----------------   2631
+                     ||.|.||..||             |||||||.|                 
+Human_Dnmt3a    3031 AAATAAACTACTTAACCCTACTTGATTTCAGCCTTTTAGTTTCTATTCAT   3080
+
+MusMusculus_D   2632 ---------------------------------------------ATTTC   2636
+                                                                  |||||
+Human_Dnmt3a    3081 GTGGCTTGAGACTTTTTTTCCTTTGCTGACTGCTTATAAAATACTATTTC   3130
+
+MusMusculus_D   2637 CTAC--------------------------------------TGATGAAC   2648
+                     .|||                                      |||.||||
+Human_Dnmt3a    3131 TTACACCTGGGTATTGTGTGTACCTCACTGTCTGTACATCTTTGAAGAAC   3180
+
+MusMusculus_D   2649 TAGG----------------------------------------------   2652
+                     |.||                                              
+Human_Dnmt3a    3181 TTGGCATCTATACCACTCATTTGGTAACCATGTAAATTCCAGTCACACTG   3230
+
+MusMusculus_D   2653 ----------------------AGTT------------------------   2656
+                                           ||||                        
+Human_Dnmt3a    3231 TTCAACTTGCCTTATTTTCTTCAGTTGAATTACAAAGCCCTTGTAAAAGG   3280
+
+MusMusculus_D   2657 ------TAATC-----------CCAG------------------------   2665
+                           |||||           ||||                        
+Human_Dnmt3a    3281 CATCGATAATCTTTCATGTCTACCAGAGACTAGCCTTCTGCTCAACTTAG   3330
+
+MusMusculus_D   2666 --------------AAAAGATAGGGGATCT---TTGT-------CA----   2687
+                                   |.|.|.||||.|.|||   ||||       ||    
+Human_Dnmt3a    3331 AAGTTGCTCAATAAATATGTTAGGTGGTCTATATTGTGTGTATGCATATT   3380
+
+MusMusculus_D   2688 ---------CTTGTAATTT-TGTATAG---------------CTTGGTCA   2712
+                              |||..|.||| ||.|||.               |..|.|||
+Human_Dnmt3a    3381 TATGCATTTCTTAAATTTTCTGAATATGAGAAACTGATTTGCCAAGATCA   3430
+
+MusMusculus_D   2713 C---------------------------------TCCAAGGTGCTAGATA   2729
+                     |                                 ||||.|||..|||..|
+Human_Dnmt3a    3431 CAAAACCTGAGGACAACATTGCACAAATTTGTTTTCCAGGGTAATAGTGA   3480
+
+MusMusculus_D   2730 G------------------------------------GTGCTTTGTAG--   2741
+                     |                                    ||||.|..|.|  
+Human_Dnmt3a    3481 GAGGTTTATACTTGTTTTTTAAAAAAATCACAGTCATGTGCCTCATTGCA   3530
+
+MusMusculus_D   2742 -----------AACAG-TG-------------------------------   2748
+                                ||||| ||                               
+Human_Dnmt3a    3531 ACTGCTGGGTCAACAGATGGATCGCATATACAATGGTGGTCCCATAAGAT   3580
+
+MusMusculus_D   2749 --------CTTGTTTTTAATCTGCC-AGC-------TTTATTCATTTAAA   2782
+                             |||.||||||||.|.|| ..|       |||.||..|||..|
+Human_Dnmt3a    3581 TATTATACCTTATTTTTAATATACCTTTCCTGTTTTTTTTTTTCTTTGGA   3630
+
+MusMusculus_D   2783 GGAA----------------------------CAGTTGTGTA--------   2796
+                     ||.|                            ||||.|||||        
+Human_Dnmt3a    3631 GGCAGTCTCGCTCTGTCACCCAGGCTGGAGTGCAGTGGTGTAATCTCGGC   3680
+
+MusMusculus_D   2797 -----------TATG--------------GTAATTC--------------   2807
+                                |.||              |||||||              
+Human_Dnmt3a    3681 TCACTGCAACCTCTGATTTCCGAGTTCAAGTAATTCCCTGCCTCACCCTC   3730
+
+MusMusculus_D   2808 ---------------------------------------------TGTTG   2812
+                                                                  |.|||
+Human_Dnmt3a    3731 CCGAGTAGCTGGGATTACAGGCATGTGCCACCACACCTGGCTAATTTTTG   3780
+
+MusMusculus_D   2813 T----------GAAACG---------------------------------   2819
+                     |          ||.|||                                 
+Human_Dnmt3a    3781 TGTTTTTAGTAGAGACGAGGTTGTTACCATGTTGTCCAGGCTGGTCTCAA   3830
+
+MusMusculus_D   2820 -CTTCAATTCTAAT--TCT-------------------AATGGTGAGATG   2847
+                      ||.|....||.||  |||                   |.||.||.|||.
+Human_Dnmt3a    3831 ACTCCTGACCTCATGATCTGCCCGCCTCAGCCTCCCTAAGTGTTGGGATT   3880
+
+MusMusculus_D   2848 ACTAG----------------------TTTTCT-----------------   2858
+                     ||..|                      |||.||                 
+Human_Dnmt3a    3881 ACAGGCATGAGCCACCAAGCCCGGCCCTTTCCTATGCTTAGATGCACAAA   3930
+
+MusMusculus_D   2859 -------TTTCG--------------TCAGTA------------------   2869
+                            |||||              ||||||                  
+Human_Dnmt3a    3931 TACTGTGTTTCGGTTGCTTACAGTATTCAGTACAGTAACACTGTACAGGT   3980
+
+MusMusculus_D   2870 -----------GTG-GTGAA--AAGC-----------------------C   2882
+                                ||| |||.|  |.||                       |
+Human_Dnmt3a    3981 TTGTAGCCTAGGTGTGTGTAGTAGGCTATACCATCTAGGTTTGTATAAGC   4030
+
+MusMusculus_D   2883 ACTTT------------AAAAG---------------------TTTCTTT   2899
+                     ||.||            .||||                     |||||..
+Human_Dnmt3a    4031 ACATTCTTATGATTGTACAAAGATGAAATTGTCTAACAACACATTTCTCA   4080
+
+MusMusculus_D   2900 GAAAC---------------------------------------------   2904
+                     |||.|                                             
+Human_Dnmt3a    4081 GAACCTAGCCCTGTGGTTAAGTGACGCATGGCTGCATATAACATTTAGTG   4130
+
+MusMusculus_D   2905 ---------------------------------------------ATTTT   2909
+                                                                  .||||
+Human_Dnmt3a    4131 GGGGGGTGTAAAATAGGTGGAACTCAAAAGTTGAAGTAGTATTTTTTTTT   4180
+
+MusMusculus_D   2910 TATTCACAGGTCAGTTTAGGAGCAGGGGCAAAAGATGAGTTACACATCGT   2959
+                     |.||||||||||||||||||.||.||.|||||.||||||||.|||||.||
+Human_Dnmt3a    4181 TGTTCACAGGTCAGTTTAGGGGCTGGTGCAAAGGATGAGTTGCACATTGT   4230
+
+MusMusculus_D   2960 AGAGGCAGAAGCAATGAACTATGAAGGCAGTCCAATTAAAGTAACACTGG   3009
+                     .||.|||||.||||||||.||.||||||||||||||||||||||||||||
+Human_Dnmt3a    4231 TGAAGCAGAGGCAATGAATTACGAAGGCAGTCCAATTAAAGTAACACTGG   4280
+
+MusMusculus_D   3010 CAACTTTGAAAATGTCTGTACAACCAACAGTAAGTACATTTCTAAATTTT   3059
+                     ||||||||||||||||||||||.|||||.|||||..||.||..|.|.|||
+Human_Dnmt3a    4281 CAACTTTGAAAATGTCTGTACAGCCAACGGTAAGGGCACTTACATACTTT   4330
+
+MusMusculus_D   3060 GGATTTCATGT--TGGTTCAGGTCTCTTGCGTCATTTGGGGTCAGTGTCA   3107
+                     ||||.|..|||  .||||.|..|||.||  .|.|..|.||.|..||||||
+Human_Dnmt3a    4331 GGATGTTGTGTCAAGGTTTAATTCTGTT--TTAAGGTAGGTTTGGTGTCA   4378
+
+MusMusculus_D   3108 TTTAGGTTTTGCAAAGACG----------------TATCTT---TTAC--   3136
+                     |||| |||.|||.|||..|                ||||||   |.||  
+Human_Dnmt3a    4379 TTTA-GTTGTGCCAAGGAGATAGAAAGTGGTTCTTTATCTTCTGTCACTG   4427
+
+MusMusculus_D   3137 -----------------CAAGATTAT------TTCTGCTGCTA---TTAT   3160
+                                      |..||..||      |||||||||||   ||||
+Human_Dnmt3a    4428 GAGTTCGATGGTCAACTCTTGAACATGGGGGCTTCTGCTGCTACTTTTAT   4477
+
+MusMusculus_D   3161 -----------AAATAGGTTTATTTCATTGTAGA----AC--------TT   3187
+                                |||.|||||.|.|...||||.||    .|        ||
+Human_Dnmt3a    4478 CAGAGGTGGAAAAACAGGTTCACTGGTTTGTTGATTTGGCTTATGTGTTT   4527
+
+MusMusculus_D   3188 GCTGGTAATATCTGTTGT----------------------------AAAA   3209
+                     ||..|||||.|.|.||||                            |||.
+Human_Dnmt3a    4528 GCCTGTAATGTTTATTGTTCATTTTCTTCACATGTTTAGTGATGAAAAAT   4577
+
+MusMusculus_D   3210 CTCTTATTTTTAGGTTTCCCTAGGGGGCTTTGAAATTACACCACCTGTGG   3259
+                     .|||...||.|||||||||||.||||||||||||||.||||||||.||||
+Human_Dnmt3a    4578 TTCTCCCTTCTAGGTTTCCCTTGGGGGCTTTGAAATAACACCACCAGTGG   4627
+
+MusMusculus_D   3260 TCTTACGGTTGAAGTGTGGTTCAGGGCCTGTGCACATTAGTGGACAGCAT   3309
+                     |||||.||||||||||||||||||||||.|||||.||||||||||||||.
+Human_Dnmt3a    4628 TCTTAAGGTTGAAGTGTGGTTCAGGGCCAGTGCATATTAGTGGACAGCAC   4677
+
+MusMusculus_D   3310 CTAGTAGGTAGGTTTTTT--------------------TTTGT-------   3332
+                     .|||||||||.|||.|||                    |||||       
+Human_Dnmt3a    4678 TTAGTAGGTATGTTATTTTTATATATTATACTACTTAGTTTGTCCTCTTT   4727
+
+MusMusculus_D   3333 ----------CATAGTTTTCAATATAGGCT---AGCT-------------   3356
+                               |.|.|||..||.|.|.|.||   |||.             
+Human_Dnmt3a    4728 AGTGCAGTTGCTTGGTTCCCAGTTTGGACTTAAAGCATGGGTATAGTACT   4777
+
+MusMusculus_D   3357 ------TTTTTAAT------------------------------------   3364
+                           ||||||||                                    
+Human_Dnmt3a    4778 ACTGTCTTTTTAATAGGTTCCAATGTGAGTCTAGAAATTGGAGAGGACAA   4827
+
+MusMusculus_D   3365 ----ATTTT-------------------AAACAT-TTGT-----------   3379
+                         |||||                   ||.|.| .|||           
+Human_Dnmt3a    4828 ATAAATTTTTGGGGCGGGGGGGAGAGGAAATCTTGCTGTCACCCAGGCTA   4877
+
+MusMusculus_D   3380 ---------------ATCTTTGC--------ACATCTGC------CATGG   3400
+                                    |||||.||        ||.|||.|      ||.|.
+Human_Dnmt3a    4878 GAGTACAGTGGCACGATCTTGGCTCACTGGAACCTCTCCGGGATTCAAGC   4927
+
+MusMusculus_D   3401 AATGCT--TGTC----------------CTGG----TCAGA---------   3419
+                     .||.||  ||||                ||||    .||||         
+Human_Dnmt3a    4928 GATCCTCCTGTCTCAGCCTCCCCAGTAGCTGGGGCCACAGACGTGCACCA   4977
+
+MusMusculus_D   3420 -CAAGACAATTT--------------------------------------   3430
+                      ||||.|.|.||                                      
+Human_Dnmt3a    4978 CCAAGTCCAGTTGCGTTTCATAGTTATAGTAGAGAAGGGGTTTCGTGATG   5027
+
+MusMusculus_D   3431 ----------------------------------------------CCCT   3434
+                                                                   ||||
+Human_Dnmt3a    5028 TTGGCCAGGCCGATCTTGAACTCCTGGCCTTAACGTGATCTGCACGCCCT   5077
+
+MusMusculus_D   3435 AGCATCTTTAATTGC---TATCACATGAGT-----TCTGGGGAT------   3470
+                     .||.|||..||.|||   |||.|||.|.||     .|||.|..|      
+Human_Dnmt3a    5078 GGCCTCTCAAAGTGCTAGTATTACACGTGTCAGCCACTGTGCCTGGCCTA   5127
+
+MusMusculus_D   3471 ---------------------CAATC----TAACACGAC--GAATG----   3489
+                                          ||.||    ||..|||.|  ||.||    
+Human_Dnmt3a    5128 AAAATTATTTTTTAATAAAGACAGTCTCATTATAACGGCTGGAGTGCAGT   5177
+
+MusMusculus_D   3490 --TGT---------TTGGT------------------TGGGTTC------   3504
+                       |||         |||.|                  |||||||      
+Human_Dnmt3a    5178 GATGTGATCATAGCTTGCTATATCCTCGAACTGCTACTGGGTTCACCTCA   5227
+
+MusMusculus_D   3505 -----------AGCTA----TTCAGG-ACCC-------------------   3519
+                                |||||    |.|||| ||.|                   
+Human_Dnmt3a    5228 GCCTCTGGAATAGCTAGAACTACAGGCACACTCCACGCCTGGCTAATTTT   5277
+
+MusMusculus_D   3520 -------TATGACCA-ATGAGG-C----TATCTTTC---------AATCT   3547
+                            ||||..|| |||.|| |    |||.||.|         |.|||
+Human_Dnmt3a    5278 TTTTGTATATGTGCAGATGGGGTCTCAGTATGTTGCCCAGATTGGACTCT   5327
+
+MusMusculus_D   3548 AGACTTCCATTTGGACTGTCGTAG-TTCTACAAAG---------------   3581
+                     .|.|.| ||..|||.|.|.|.|.| .||..|||||               
+Human_Dnmt3a    5328 TGGCCT-CAAGTGGTCCGCCTTGGCCTCCCCAAAGTGAGATTACAGGCAT   5376
+
+MusMusculus_D   3582 -----------ACCTGATTTCTGTCTTTAAAATACAG-------------   3607
+                                .||.|..||||..|.||.|||..|.|             
+Human_Dnmt3a    5377 GAGCCACCCTCCCCAGGCTTCTTGCATTTAAAACCTGGCAGTGAACATTA   5426
+
+MusMusculus_D   3608 -------TAAATCTTTTCT------GTTCATTTGC-----TAC-CTTT--   3636
+                            .||..|||||.|      ||||.|||.|     |.| ||||  
+Human_Dnmt3a    5427 GGCCTCAAAATACTTTTGTTAAAAAGTTCCTTTTCCCATGTGCTCTTTTT   5476
+
+MusMusculus_D   3637 -------------AATGGAA------TCTTA----------AAAATGCTA   3657
+                                  |||.|||      |||.|          .|..|.|||
+Human_Dnmt3a    5477 TTTTTTTTTTTTAAATAGAATAGAAGTCTCAGTTTTTAGAGTATTTACTA   5526
+
+MusMusculus_D   3658 TGGGT-TACTTG-----------TTCTTG----TCGAG--TTAGTATGTC   3689
+                     |..|| |.|||.           ||||||    |.|||  |||..|||||
+Human_Dnmt3a    5527 TCAGTGTTCTTTTTTTTTCTGACTTCTTGCTGCTTGAGTTTTATAATGTC   5576
+
+MusMusculus_D   3690 T----AATTCTATTTTAGCTGTAGAGGAAGATGCAGAGTCTGAAGATGAA   3735
+                     |    ||||.||||||||||||.|||||||||||||||||.|||||||||
+Human_Dnmt3a    5577 TAATAAATTGTATTTTAGCTGTGGAGGAAGATGCAGAGTCAGAAGATGAA   5626
+
+MusMusculus_D   3736 GATGAGGAGGACGTAAAACTCTTAGGCATGTCTGGAAAGCGATCTGCTCC   3785
+                     ||.||||||||.||.|||||||||.|.||.|||||||||||.|||||.||
+Human_Dnmt3a    5627 GAGGAGGAGGATGTGAAACTCTTAAGTATATCTGGAAAGCGGTCTGCCCC   5676
+
+MusMusculus_D   3786 TGGAGGTGGTAACAAGGTTCCACAGGTAAAGAAAGGAA---------AGA   3826
+                     |||||||||||.||||||||||||||||.|||..|.||         ||.
+Human_Dnmt3a    5677 TGGAGGTGGTAGCAAGGTTCCACAGGTAGAGATGGCAATTTTATTATAGG   5726
+
+MusMusculus_D   3827 T------------CTTTTTGTTTGTTTTTTG--------TTTTTCAAGAC   3856
+                     |            |||||.|||||.|..|.|        ||.||||.||.
+Human_Dnmt3a    5727 TTTTGTATTATAGCTTTTAGTTTGGTGATAGAACAGCTCTTGTTCATGAG   5776
+
+MusMusculus_D   3857 AGGGTTTC---TCTGT------------GTAGCCCTGGGTGTCCTG----   3887
+                     ...||.||   |||.|            |||...||.|.||  |||    
+Human_Dnmt3a    5777 TACGTATCTTTTCTTTTAAAAGAAAAAAGTAAAACTTGCTG--CTGATGA   5824
+
+MusMusculus_D   3888 ----GAACTCACT-TTGTAGAACAGGCTG---------------------   3911
+                         ||...|..| .||..|||.|||.||                     
+Human_Dnmt3a    5825 AGATGATGACGATGATGATGAAGAGGATGATGATGAAGAGTAAGTATGAT   5874
+
+MusMusculus_D   3912 ------GCCTTGA---AC-TCAGAAATC----CA----------------   3931
+                           ..|||||   || ||.|.||||    ||                
+Human_Dnmt3a    5875 TTTAGAAACTTGATATACTTCCGGAATCTTGACAAAAAAAGGAATTTGAC   5924
+
+MusMusculus_D   3932 -----------CCTG----------------CCTCT-------GCCTCCC   3947
+                                |.||                |.|.|       |||..||
+Human_Dnmt3a    5925 ATAGTTATATGCATGAGGGTTTTATAAAAGTCATTTACAAAAAGCCATCC   5974
+
+MusMusculus_D   3948 ----------------------GAGCA-----------------------   3952
+                                           |.|||                       
+Human_Dnmt3a    5975 TATGTAATAGTTTATAATAAAAGGGCAGGTGGTCATCTGTTGTCAGTTTA   6024
+
+MusMusculus_D   3953 -----------CTGGGGTTAAAGG----------TGTGTGCC--------   3973
+                                |||.|.|.|||||          ||||.|||        
+Human_Dnmt3a    6025 AGTTAAATGAGCTGAGTTGAAAGGATATTGGGTCTGTGAGCCTTTACAAT   6074
+
+MusMusculus_D   3974 -----------------------AGGAAAGAGT------TTTAAAAAGTA   3994
+                                            |||..|||.|      |||...||||.
+Human_Dnmt3a    6075 GCTGTGACTTGTGACTCTTCAGAAGGGTAGACTATAGTGTTTGTGAAGTT   6124
+
+MusMusculus_D   3995 T---------------TTCTGG----------------------------   4001
+                     |               |||||.                            
+Human_Dnmt3a    6125 TGATTATGTCCCTTTGTTCTGAAGATTTAGTGGATGTGTTATACCCATCA   6174
+
+MusMusculus_D   4002 ---CTGG------------------------------GGGTGG-------   4011
+                        ||||                              ||||.|       
+Human_Dnmt3a    6175 AGCCTGGTATGTTTTATGGTGAGCAGTTAATGAGATTGGGTTGAAAGAAA   6224
+
+MusMusculus_D   4012 ---------------TCTA-----------------------CAAAGTGA   4023
+                                    ||||                       |||.||..
+Human_Dnmt3a    6225 ATATGATTAAATAGCTCTATATTCATTTTACAAGTTGTTACTCAAGGTTT   6274
+
+MusMusculus_D   4024 G---TTCC-----AGGA---------------------------------   4032
+                     |   ||||     ||||                                 
+Human_Dnmt3a    6275 GTTATTCCCTAAAAGGATTTTGTCTTATGGTTTTATGTAGATATTTATTG   6324
+
+MusMusculus_D   4033 --------------CACCCAGGGCTACACAGA------------------   4050
+                                   |....||||.||...|||                  
+Human_Dnmt3a    6325 ACAAAAATAAGATTCTAAAAGGGATATTAAGATTTTCTTGGGATTTAAAA   6374
+
+MusMusculus_D   4051 --------GAAACA----TTGGTATC--------------GAAAAAA---   4071
+                             ||||||    |||.|..|              ||..|||   
+Human_Dnmt3a    6375 TATGGTTGGAAACAATATTTGATGACTTTATATTAAACTAGATCAAACTA   6424
+
+MusMusculus_D   4072 -----AAAAACA--------------------AAATTTCTG---------   4087
+                          |.|||||                    |||.|.|||         
+Human_Dnmt3a    6425 TTGTTACAAACAGTTAATACGCACACTGGTATAAAGTACTGTTTATAATT   6474
+
+MusMusculus_D   4088 ---------------------------GCATT---TACTTTGGCTAATCA   4107
+                                                |||||   |||||||..|...|.
+Human_Dnmt3a    6475 GGTCTTATGTGTGCCAGTACCAGTAATGCATTGAATACTTTGATTTGGCT   6524
+
+MusMusculus_D   4108 CCAAAATTTCTCTTGCTAAT----GGATG---CATA-----TTATT----   4141
+                     |..|..|||.||.|.|...|    ||.||   ||||     |||||    
+Human_Dnmt3a    6525 CTCAGCTTTGTCCTTCAGTTCTGAGGTTGGTCCATATGCATTTATTGAAA   6574
+
+MusMusculus_D   4142 ----CTTTCAGAA----------AAAAGTAAAACTTGATGAA--------   4169
+                         .|.|.||||          |||||..||.||..|||||        
+Human_Dnmt3a    6575 ACAAATATAAGAACATGCACTTTAAAAGAGAACCTGCATGAAAGATCAAA   6624
+
+MusMusculus_D   4170 ---GATGATGAGG----ACGATGATG--------------------AGGA   4192
+                        |..|.|.|||    |.|.||.||                    |.||
+Human_Dnmt3a    6625 TTGGGAGTTTAGGTTTTAAGCTGGTGGTTCTTCAAAATCTTTGAGCATGA   6674
+
+MusMusculus_D   4193 CGATG-AGGATGATG--AGGAGTAAG-------------------TATAA   4220
+                     ||||| |||..||..  ||||..|||                   ||.||
+Human_Dnmt3a    6675 CGATGAAGGCAGAAAACAGGAAAAAGGCCGAAAGAGCCGAAAGCTTAAAA   6724
+
+MusMusculus_D   4221 GTAC----TATGATC------------TCAAAAACTTGAT-CTTAC----   4249
+                     .|.|    |||||.|            |||.|..|.|.|| ||.||    
+Human_Dnmt3a    6725 ATTCAAAGTATGACCAGGCGCAGTGGTTCACACCCGTAATCCTAACACCC   6774
+
+MusMusculus_D   4250 ------------AGGTACTTGTAAG--------GGT----TTAGGAGG--   4273
+                                 |||..||..|.||        |||    .|||.|.|  
+Human_Dnmt3a    6775 AGCCAAGATGAGAGGATCTCTTGAGGCCAGCCCGGTCAAAATAGCAAGAC   6824
+
+MusMusculus_D   4274 -----------------------ATT-----GACTTGCCAGT--GGTTGA   4293
+                                            |||     .||||||..||  ...|.|
+Human_Dnmt3a    6825 CCAATCTCAAAAGAAAAATAAAAATTCAAAGTACTTGCATGTCAAACTTA   6874
+
+MusMusculus_D   4294 TGTTTGAAAGTAAA---------AGATTTTGAC-----C----TATGATT   4325
+                     |...||||.|.|||         ||..||||||     |    |.||.||
+Human_Dnmt3a    6875 TAAATGAACGCAAACTTAAAGGTAGTATTTGACTGTTGCTGTTTTTGTTT   6924
+
+MusMusculus_D   4326 CCATGTTT------------------------------------------   4333
+                     .|.|.|||                                          
+Human_Dnmt3a    6925 TCTTTTTTTTTTTTTTTTTTTTTGAGATGGAGTCTCCAGTTGCTCAGGCT   6974
+
+MusMusculus_D   4334 -------------GCCTT-----------ACAA----------------A   4343
+                                  |||.|           ||||                .
+Human_Dnmt3a    6975 GGAGTGCGGTGGCGCCATCTCGGCTCACCACAACCTCTGCCTCCTGGGTT   7024
+
+MusMusculus_D   4344 CAAGCTATT-TATT---------------GTATGTGGGACATTGATGG--   4375
+                     |||||.||| |..|               |||..||||||  ||..||  
+Human_Dnmt3a    7025 CAAGCGATTGTCCTGCCTCAGCCTCCCGGGTAGCTGGGAC--TGCAGGCT   7072
+
+MusMusculus_D   4376 -GGGG-----------GTTGAATTAATTTATTTTTTTGAGACAGGGTTTC   4413
+                      ||||           |.| ||||..|.|||||..|.|||||||||||||
+Human_Dnmt3a    7073 CGGGGCACCATGCCCTGCT-AATTTTTGTATTTAGTAGAGACAGGGTTTC   7121
+
+MusMusculus_D   4414 TCTGTGTAGCCCTGGCTGTCCTGGAACTC--------------------A   4443
+                     ..|.|||.|..|.|||||..||.||||||                    .
+Human_Dnmt3a    7122 AGTATGTTGGTCCGGCTGGTCTTGAACTCCTAACCTCGTGATCTACCTGC   7171
+
+MusMusculus_D   4444 CTCTGT-------AGTTCAGG------------------CTG-GCC----   4463
+                     |||.||       |||.|.||                  ||| |||    
+Human_Dnmt3a    7172 CTCGGTCTCCCAAAGTGCTGGGATTGCAGATGTGAACCACTGCGCCCAGC   7221
+
+MusMusculus_D   4464 -------------------------TGG----------------------   4466
+                                              |||                      
+Human_Dnmt3a    7222 CAAATTTTTGTATTTTTAATAGACATGGGGTTTCACCACGTTGGCTAGGC   7271
+
+MusMusculus_D   4467 --------AACTC---------GGAAATCTGCCTGCCTCTGCCTCCC-AA   4498
+                             |||||         ||..|||||....||||..|||||| ||
+Human_Dnmt3a    7272 TATTCTCAAACTCCTAACCTCGGGCGATCTGGTCACCTCATCCTCCCAAA   7321
+
+MusMusculus_D   4499 GTG-TG------------TGCGCCACTGTGCCCGGC------------TG   4523
+                     ||| ||            ||.|||||.|||||||||            ||
+Human_Dnmt3a    7322 GTGCTGGGATTACAGGCATGAGCCACCGTGCCCGGCCACTTTTTTTCTTG   7371
+
+MusMusculus_D   4524 GGACATTGATTTTTCTTG--------------------------------   4541
+                     .||...||.|||..|.||                                
+Human_Dnmt3a    7372 AGATGGTGTTTTACCATGCTACTCAGACTGGACTTGAATCTCTGGGCACA   7421
+
+MusMusculus_D   4542 ---------------------------------GGAGTTA----------   4548
+                                                      ||.||||          
+Human_Dnmt3a    7422 AGCTATCCTCCCCTCTCAGACTATGAAGCAGGTGGGGTTACAGGAGCATA   7471
+
+MusMusculus_D   4549 ------------TTGTTAGG---------------------------AGT   4559
+                                 |||||.||                           |||
+Human_Dnmt3a    7472 ACCAAGCCCAGCTTGTTTGGTTATCACTTTTAAGAATATTTCTCGTTAGT   7521
+
+MusMusculus_D   4560 AAGATTT--TATGTGTTC-------AATATAAGTAACA-GCTA-------   4592
+                     ||||.||  .||...|||       |..||..|.|||| ||||       
+Human_Dnmt3a    7522 AAGAATTGAAATACATTCCAAGAGAAGAATGGGAAACAGGCTAAAAACAC   7571
+
+MusMusculus_D   4593 --------------GATGGGAAGTATGGAATTCGTTAAAAATATTTTT--   4626
+                                   |||||.|.|..|.|.|||.|||.|...|..||||  
+Human_Dnmt3a    7572 AAATTAGAAATAGGGATGGTATGGTTCGGATTGGTTTAGTCTGATTTTGA   7621
+
+MusMusculus_D   4627 ATTACATATTTTCC------------------TCAATTACATT-TCCAAT   4657
+                     .||||.|.|.|.|.                  |.|||..|||| .||.|.
+Human_Dnmt3a    7622 GTTACCTTTGTACAAGTTTATAAAATAAGTGTTTAATAGCATTCACCGAG   7671
+
+MusMusculus_D   4658 GCT------------ATCCC------------------AAAAGTCC----   4673
+                     |||            |||||                  ..|.|.||    
+Human_Dnmt3a    7672 GCTCGGGGACAAGCAATCCCTTCCAGAAAGGCTTTGGAGTAGGACCTGAT   7721
+
+MusMusculus_D   4674 -----------CCC-----------------ATACCCT------------   4683
+                                |||                 ||..|||            
+Human_Dnmt3a    7722 TGTAGTATTGACCCTGTTGGGGCTTTGGAAGATTTCCTTTTTTAAAAATT   7771
+
+MusMusculus_D   4684 ------------CC-------------------------CCCCGAAGTAT   4696
+                                 ||                         |||.|.|.|.|
+Human_Dnmt3a    7772 GATATAATTAGGCCAGGCATGGTGGCTCACGCCTGTAATCCCAGCACTTT   7821
+
+MusMusculus_D   4697 GGAA-------------TTATTATTTGTAGTCTTATATTTGTTACCTTCC   4733
+                     ||.|             ..||.|.|||..|||.....||....|||..||
+Human_Dnmt3a    7822 GGGAGGCTGAGGTGGGTGGATCACTTGAGGTCAGGAGTTCAAGACCAGCC   7871
+
+MusMusculus_D   4734 TG----------------------TCTTATAGAAGTT----------CTG   4751
+                     ||                      |||..||.||.|.          |||
+Human_Dnmt3a    7872 TGGCCAACATGGTGAAACCCGGTATCTACTAAAAATACAAAAATTAGCTG   7921
+
+MusMusculus_D   4752 G-----------------AATTGGT-CAAGTATATT--------------   4769
+                     |                 .|||||| |.|||...||              
+Human_Dnmt3a    7922 GGTATCGTGGTGCCTGCCTATTGGTCCCAGTTACTTAGGAGGTTGAGTCA   7971
+
+MusMusculus_D   4770 ----------------CTG-------------------AGCTAAGATAAC   4784
+                                     |||                   |||.||||...|
+Human_Dnmt3a    7972 GGAGAATTGCTTGAACCTGGGAGGTGGAGGTTGCAGCAAGCCAAGAATGC   8021
+
+MusMusculus_D   4785 -------TGTTCAAAGCAAACTTGGGAACT-----AGTCT------TCAT   4816
+                            |||||    ||..||.||.|||.     ||.||      |||.
+Human_Dnmt3a    8022 GCCACCGTGTTC----CATCCTGGGCAACAGAGGGAGACTCCCATCTCAG   8067
+
+MusMusculus_D   4817 TATATTG------ATTAC----TGTATTCATAGTG---------------   4841
+                     .|.|.||      |.|.|    ||||..||.|.||               
+Human_Dnmt3a    8068 AAAAATGGGTATAAATTCATGATGTAACCACAATGTAATTTTGTTTGTCT   8117
+
+MusMusculus_D   4842 ------GGGACATAGTAAGG---GACAAATAATAGTCTTGAGGT---TAT   4879
+                           .||.|||.|..|||   ||.||.|.....|.|..||||   .||
+Human_Dnmt3a    8118 TTAAGTTGGGCATTGATAGGAATGAAAAGTGTAGATATCAAGGTCCAAAT   8167
+
+MusMusculus_D   4880 CAG-----GGTT-----------------------------AG--TAGTT   4893
+                     |||     ||||                             ||  |.|.|
+Human_Dnmt3a    8168 CAGTACCTGGTTTTTTTTGTGGGATTTTTTTTTTTTCGGCAAGTCTCGCT   8217
+
+MusMusculus_D   4894 CTT----------CTGGTGTG-------ATAAT-----------------   4909
+                     |||          ||||||||       ||.||                 
+Human_Dnmt3a    8218 CTTGTGCCCCAGGCTGGTGTGCAATGGTATGATCTCTGCTCGCTGCAACC   8267
+
+MusMusculus_D   4910 -----------GGTTCAT------------------CATACAGAGATGAT   4930
+                                ||||||.                  |.|.|||||..|.|
+Human_Dnmt3a    8268 TCTGCCTTCCAGGTTCAAGTGATTCTCCTGCCTCGGCCTCCAGAGTAGCT   8317
+
+MusMusculus_D   4931 ----------GC--------CCACG----------------------AGA   4940
+                               ||        |||||                      ||.
+Human_Dnmt3a    8318 TGGATTACAGGCACTTGCCACCACGCCTGGCTAAGTTTTGTATTTTTAGT   8367
+
+MusMusculus_D   4941 ATAAA------------ATGAT-----AGCTG------------------   4955
+                     |.|.|            |||.|     |||||                  
+Human_Dnmt3a    8368 AGAGACGGGGTTTCACCATGTTGGCCAAGCTGGTCTCGAACTCCAAAGTG   8417
+
+MusMusculus_D   4956 --AAGATTA------------------------------TTTACTATTTA   4973
+                       ..|||||                              |||.| ||.||
+Human_Dnmt3a    8418 CTGGGATTACAGGCGTGAGCCACCATGCACCGCCGCAAGTTTTC-ATATA   8466
+
+MusMusculus_D   4974 AGTTG--GAGAGTTTAATCA------CAT------------TGCC-----   4998
+                     |||||  ||.|||.||.|.|      |||            ||||     
+Human_Dnmt3a    8467 AGTTGAAGAAAGTGTACTAAGGTCTGCATAGTAGTAAAGGATGCCTTGAG   8516
+
+MusMusculus_D   4999 ----------------AGAAAGTTCTG------GAT--CAAAG-------   5017
+                                     |||||.|||.|      |||  |||.|       
+Human_Dnmt3a    8517 GGAAACAAATATTAATAGAAACTTCAGTGGTGAGATGGCAAGGGCCCAGC   8566
+
+MusMusculus_D   5018 -------------------AATGCAAAGAGG-------------------   5029
+                                        ||||||||||||                   
+Human_Dnmt3a    8567 ATAGATAGATGGCAATGAAAATGCAAAGAGGTGCATGAAGGTTCGTTATA   8616
+
+MusMusculus_D   5030 ----CTTTAAACACATAC--TCTGTATACAAGCCTATGG---ATTAAAGT   5070
+                         |||..||..|..||  |.||.|.|||...|.|.||   |||....|
+Human_Dnmt3a    8617 GTTACTTAGAAATCTAACCTTTTGAACACAGATCAAAGGGGAATTTGGTT   8666
+
+MusMusculus_D   5071 CCT-----------------------------GGATCAGATAATTCAAAT   5091
+                     |||                             ||.||||||.|.||    
+Human_Dnmt3a    8667 CCTTTTTGAGGATGGAATGGGTATATGGTGTGGGCTCAGATGACTC----   8712
+
+MusMusculus_D   5092 TGTTTGATTT---CAAGATTGACTT-------------------------   5113
+                        |||||||   |||||..|.||.                         
+Human_Dnmt3a    8713 ---TTGATTTAAGCAAGAAAGGCTATGTAATGTGCATAGTGCTGATGTAT   8759
+
+MusMusculus_D   5114 --------------TATATATTTCATT----GTATATAG-----------   5134
+                                   |||.||.|.|.||    ||||.|.|           
+Human_Dnmt3a    8760 ACTATACATAGATGTATGTAATACGTTGATAGTATGTGGCCCTTAAATGT   8809
+
+MusMusculus_D   5135 -TTTAACAATGTTTGGGGA-------------------------------   5152
+                      |||...|||.||||||||                               
+Human_Dnmt3a    8810 CTTTTTTAATTTTTGGGGAATTTCTTAAGTAAAGCTGAATTTTTTTTTTT   8859
+
+MusMusculus_D   5153 -------------------GTAGCC--------AG---------------   5160
+                                        ||.|||        ||               
+Human_Dnmt3a    8860 TTTTTTGGAGACAGTCTCTGTTGCCCCGGCTGAAGTGCATTGTTGGCTAG   8909
+
+MusMusculus_D   5161 --------GCAGTGGTG---------------------------------   5169
+                             |||||||||                                 
+Human_Dnmt3a    8910 GCTGGAGTGCAGTGGTGCAATCATGGCTCACTGTAACTTCTGCCTCCCGG   8959
+
+MusMusculus_D   5170 -----------TCGCATGC-----ACT----------TGGG-----AGGC   5188
+                                ||.|.|||     .||          ||||     ||||
+Human_Dnmt3a    8960 GTTCAAGTGATTCTCCTGCCTCAGCCTCCCAAGTAGCTGGGATTACAGGC   9009
+
+MusMusculus_D   5189 A---------GAGGCAGGTTGATTTCT-------------GTG-------   5209
+                     |         ..|.||||.|.||||.|             |.|       
+Human_Dnmt3a    9010 ATGTGCCAGCATGCCAGGCTAATTTTTTGTATTTTTAATAGAGATGGGGT   9059
+
+MusMusculus_D   5210 TTCG------AGGCCAGCCTGGTCTACAGTGAGTTCCAG-----------   5242
+                     ||||      .||.|||.||.||||    |||..|||.|           
+Human_Dnmt3a    9060 TTCGCCATGTTGGTCAGGCTAGTCT----TGAACTCCTGACCTCAGGTGA   9105
+
+MusMusculus_D   5243 ---GACAGCCAGGGCTACACAGAG--------------------------   5263
+                        |.|..||...||..|.|||||                          
+Human_Dnmt3a    9106 TCTGCCCACCCCAGCCTCCCAGAGTGCTGAGATTACAGGTGTGAGCCACC   9155
+
+MusMusculus_D   5264 AAACCCTGTC-GAAAAAC--------------------------------   5280
+                     |.||||||.| |.|||.|                                
+Human_Dnmt3a    9156 ACACCCTGCCAGTAAAGCTGTTTTGATAGTAGTTTTGATAGCTATTTTGA   9205
+
+MusMusculus_D   5281 -------------------------CAAA----AAAAATTG------GGG   5295
+                                              ||||    |||||.||      ...
+Human_Dnmt3a    9206 TAGTAGTTTAATAGACTTGTTTTAACAAATAAGAAAAAATGTTTAAAAAA   9255
+
+MusMusculus_D   5296 AG-----------------TAGAACAGATGAG--------------TGGG   5314
+                     ||                 |||.||||..|||              ||||
+Human_Dnmt3a    9256 AGCATTCTCATCTTGTTTCTAGCACAGGGGAGGCACCTGCAGGGATTGGG   9305
+
+MusMusculus_D   5315 TTATATTGCAA-------ATAATGACAT--------TTA----------T   5339
+                     ||.||.|||.|       .||.|||||.        |||          |
+Human_Dnmt3a    9306 TTCTAATGCCAGAAACTTGTACTGACAAAATCACTGTTAAAAAGCCACTT   9355
+
+MusMusculus_D   5340 GCAGAGATTTTTTTGACTATTTTGCCATTTAAGA-GCTT-----------   5377
+                     |.||.|.|.|||.||||...|||...|.|||.|| .|||           
+Human_Dnmt3a    9356 GAAGGGCTATTTGTGACAGCTTTTTAAGTTATGATACTTTTTCTAAATAC   9405
+
+MusMusculus_D   5378 AGAAGATAACCCTGAGGAATGTTGTTAGAACTAAGTATTGAATGC-----   5422
+                     ||.|.|||...||..||.|| |.|..|||  ||.||.||...|.|     
+Human_Dnmt3a    9406 AGCAAATATTTCTTCGGTAT-TGGAAAGA--TAGGTGTTTCTTACATGAA   9452
+
+MusMusculus_D   5423 --TGCTGTA-------CTAAAGGACAG-----------------ATATAT   5446
+                       |||||||       .||.||..|||                 .||.|.
+Human_Dnmt3a    9453 GTTGCTGTATTGGGATTTAGAGACCAGTACGTTCAGTTGTTGAATTAAAC   9502
+
+MusMusculus_D   5447 GTGGTCTC------ATAAGATGGTA----------------TTGCCTT--   5472
+                     |||..|.|      ||..|.|..||                |||||.|  
+Human_Dnmt3a    9503 GTGAACCCCTTGGTATTTGCTAATAGAGACTTCTGCCTGACTTGCCCTCC   9552
+
+MusMusculus_D   5473 ------TTGGTTTTATTA------GACATTTT-----TATTTACATTTCA   5505
+                           |.|.|||.||||      ..||||.|     ||||.|||.||||
+Human_Dnmt3a    9553 AGTGACTCGATTTGATTACTCCCCTCCATTGTTTACCTATTAACAGTTCA   9602
+
+MusMusculus_D   5506 AA-----TATCCC----CTTT------TCTA-------GTTTCCCC----   5529
+                     .|     .|||||    ||||      ||.|       ...||.||    
+Human_Dnmt3a    9603 CACCTGTAATCCCAGCACTTTGGGTGGTCGATGCGGGCAGATCACCTGAG   9652
+
+MusMusculus_D   5530 -TC------TGAAAACCC-CCT--------------ATCCCCCTCTCCAT   5557
+                      ||      ||||.|||. |||              |.||||.||||  |
+Human_Dnmt3a    9653 GTCAGGAGTTGAAGACCAGCCTGGCCAATATGGTGAAACCCCGTCTC--T   9700
+
+MusMusculus_D   5558 GCTCACCAACACC----------------------CATTCC---------   5576
+                     |||.||..|||.|                      ||.|||         
+Human_Dnmt3a    9701 GCTAACATACAGCTGGGTGTGATGGTGGGCGCTTGCAATCCCAGCTGCTG   9750
+
+MusMusculus_D   5577 ---------------------TGCTT---CCTGG----------------   5586
+                                          |||||   ||.||                
+Human_Dnmt3a    9751 GGGAGGCTGAGGCAGGAGAATTGCTTGAACCCGGGAGGCGGAGGTTGCAG   9800
+
+MusMusculus_D   5587 ---------------CCCTGGCATTCCTCTATACTGGG------GCATAA   5615
+                                    ||.|.|||||||   |.|.||||      |..|||
+Human_Dnmt3a    9801 TGAGCCGAGATCGCACCATTGCATTCC---AGATTGGGCAACAAGAGTAA   9847
+
+MusMusculus_D   5616 AAC-CACCA-----------GCA--TCAAGGG------------------   5633
+                     ||| ||..|           |||  |||..||                  
+Human_Dnmt3a    9848 AACTCAAAAAAAAATAGTGTGCAGTTCAGTGGTTTTAGTATGCATAGTTG   9897
+
+MusMusculus_D   5634 -----------CCTTTTTAATCTTAAGG-------ATAAAATCATT--GG   5663
+                                ||.|..|.|..||.||.       ||.|..|||.|  |.
+Human_Dnmt3a    9898 TGTAGCCATCACCATAATCAATTTTAGAACATTTCATCACCTCAATGAGA   9947
+
+MusMusculus_D   5664 AATAGTGTTTTGGTGGTATGA---CTGATACTACTACATGGTTTAGGATA   5710
+                     |||.||..|.|...|||||.|   ||.||.|| ||.|| |.|.|||...|
+Human_Dnmt3a    9948 AATCGTACTCTATAGGTATTACCCCTCATGCT-CTTCA-GCTCTAGTCAA   9995
+
+MusMusculus_D   5711 GAAGAAAAGA---------GTAGTTTTATAGAAATTAGTATTGT------   5745
+                     ..|..||.||         .|||.|||...|....|..||||.|      
+Human_Dnmt3a    9996 CCACGAATGAACTTTGTCTATAGGTTTCCTGTCCCTCATATTTTGCACGA  10045
+
+MusMusculus_D   5746 ------TTCTGGTAC----------------------CAAG---CATC--   5762
+                           |||||..||                      ||||   ||||  
+Human_Dnmt3a   10046 ATGGACTTCTGTGACTGTTTTCTTAGCACAGTGTTTTCAAGTTTCATCCA  10095
+
+MusMusculus_D   5763 ------------------------------------------TACATGGA   5770
+                                                               |||||.|.
+Human_Dnmt3a   10096 TGTTATAGCATTATCAGTACTCCATTTATTTATATGGTTGAATACATTGT  10145
+
+MusMusculus_D   5771 TTGGG--TGTAAGGTAA----------GGT---CATT----TTTATACTA   5801
+                     .||||  |||..|||.|          |||   ||||    ||..|.|| 
+Human_Dnmt3a   10146 ATGGGTATGTTTGGTTATTCATCAGTTGGTGAGCATTTGAGTTGCTTCT-  10194
+
+MusMusculus_D   5802 ACCTGTAGTGTTAAATTACC-----AAAACCACTGGATTTACATGTAGCA   5846
+                     ||.|||.|..|...||.|.|     .|.||...|...|||||.||.|...
+Human_Dnmt3a   10195 ACTTGTTGACTGCTATGAACGCTTGTAGACATGTCATTTTACTTGGATGT  10244
+
+MusMusculus_D   5847 GATCCTAAC-AAGAGAGAATCTC----------CCCAC------TGAAAA   5879
+                     ...|||||. .||||.|..||.|          |||||      ||.|..
+Human_Dnmt3a   10245 ACACCTAAAGCAGAGTGGCTCACCCATTGTATTCCCACTAGCAGTGTATG  10294
+
+MusMusculus_D   5880 GG-----TAATTT-------ACATGAAGTT---------CAAACTTTTGA   5908
+                     ||     |.||||       ||.|...|.|         |...|..|||.
+Human_Dnmt3a   10295 GGGCTTCTGATTTCACTCCAACCTACTGATTTCACTACACCCTCACTTGC  10344
+
+MusMusculus_D   5909 CTTTA----ACACTAGT----GTGGAAAATGTAGTCACTGTTGGTGATTT   5950
+                     |.|||    ||.|||.|    ||||  .|||.||| .|||.|.|||..||
+Human_Dnmt3a   10345 CATTATCTGACTCTAATCCTGGTGG--TATGAAGT-GCTGATTGTGGGTT  10391
+
+MusMusculus_D   5951 TGCTTAC----------AGACTTTGTATGAGCA---------------AT   5975
+                     ||.||.|          .||||....|||||||               ||
+Human_Dnmt3a   10392 TGATTGCGTCTCCCTGTGGACTAATAATGAGCATCTTTTCATGTATTCAT  10441
+
+MusMusculus_D   5976 TGGACAT-------------------------------------------   5982
+                     |||.|||                                           
+Human_Dnmt3a   10442 TGGCCATATATCTTTGGAGAAATGTTTTTGCCCACTTAAATCCATTTACT  10491
+
+MusMusculus_D   5983 --------TATATACTTAGGTATA--------------------------   5998
+                             |.|.||||.||.|.||                          
+Human_Dnmt3a   10492 TCTCTTTGTCTTTACTAAGTTGTAAGAATTCTTTTTTCTTTTTTCTTTTT  10541
+
+MusMusculus_D   5999 GACATG------------------GAGATG-----TTTCAG---TGGCCA   6022
+                     ||.|||                  ||||.|     ||.|..   ||||||
+Human_Dnmt3a   10542 GATATGATTTTTGTATTTTTAGTAGAGAAGGGGTTTTGCCATGTTGGCCA  10591
+
+MusMusculus_D   6023 --------------TACTGAAT---GTGATTTGCCCCCTTCT-------A   6048
+                                   |.|||..|   |||||...||.||.|||       |
+Human_Dnmt3a   10592 GGCTGTTCTTAAACTCCTGTCTTCAGTGATCCACCTCCCTCTGCCTCCCA  10641
+
+MusMusculus_D   6049 AA------AAATCACAG-----------TATGCCTG--AAGAA--CATTT   6077
+                     ||      |.||.||||           |.||||||  |||||  |.|||
+Human_Dnmt3a   10642 AACTGCTGAGATTACAGCTGTGAGCCACTGTGCCTGGCAAGAATTCTTTT  10691
+
+MusMusculus_D   6078 TGTATT--------------------------------------------   6083
+                     |.|.||                                            
+Human_Dnmt3a   10692 TTTTTTTTTTTTGACAAGTCTCTGTTGCCCAGGCTTGAGTGCAGTGATGT  10741
+
+MusMusculus_D   6084 ------------------CCTC-----------TTAAAGCAAGT------   6098
+                                       ||||           ||.||||||.|      
+Human_Dnmt3a   10742 GATCTTGGCTCACTGCAACCTCCTCCTCCCTTGTTCAAGCAATTCTTCTG  10791
+
+MusMusculus_D   6099 --------------------------------------------------   6098
+                                                                       
+Human_Dnmt3a   10792 CCTCTCCCAAGTAGTTGGGATTACAGGCACCCCCCCCACCACGCCCGGCT  10841
+
+MusMusculus_D   6099 ---------------------------------GCCATGT----------   6105
+                                                      |||||||          
+Human_Dnmt3a   10842 AATTTTCTGTATTTTAAATAGAGACCGGGTTTCGCCATGTTGGCCAGGCT  10891
+
+MusMusculus_D   6106 -GACTTTATATCATAATCTCAG--------------CTCTAAATTG----   6136
+                      |.|||.|..||.|.|..||||              |.|..||.||    
+Human_Dnmt3a   10892 GGTCTTGAACTCCTGAGGTCAGGCCCGCCTCGGCCTCCCACAAGTGCTGG  10941
+
+MusMusculus_D   6137 -------GAAGTGAGAAGCAGCA-----CCCT-------TTTTTG-----   6162
+                            |..|||||...|.|||     |||.       |||.||     
+Human_Dnmt3a   10942 GATTACAGGCGTGAGCCACTGCACTGGGCCCAAGAATTCTTTATGTATTC  10991
+
+MusMusculus_D   6163 ----AGCTAG----------GACG------TTACA---------------   6177
+                         |.|.||          |||.      |||||               
+Human_Dnmt3a   10992 TGCAAACAAGTCCCTTATCAGACACAAGATTTACAGATTATCTTCCACCA  11041
+
+MusMusculus_D   6178 --CTAAGTATT---------------TGGAGGTGGACT--------GTTG   6202
+                       |...|.|||               ||..|||||.||        |||.
+Human_Dnmt3a   11042 TTCCGTGAATTGTTACTTAACTTTCATGATGGTGGCCTTTGAACAAGTTT  11091
+
+MusMusculus_D   6203 TTAATT-----------------------------------------TCA   6211
+                     ||||||                                         |||
+Human_Dnmt3a   11092 TTAATTTTTATGACGTCCGATTTCTTTTGTTGCTTGTGCCTTTGGTGTCA  11141
+
+MusMusculus_D   6212 ATC------TGGCA--GCTTAATTCCAG------------TGCCAC----   6237
+                     |||      ...||  |||.|||||.|.            ||||.|    
+Human_Dnmt3a   11142 ATCCTAAGAAATCATTGCTAAATTCAAAGTTGTGAAAATTTGCCCCCTTA  11191
+
+MusMusculus_D   6238 -------------------ATATATATGTCTTT-----------------   6251
+                                        ||||.||.|.||||                 
+Human_Dnmt3a   11192 ATTCTGAGTTTTGTCCTTTATATTTAGGGCTTTGTTCCATTTTGAGTAAA  11241
+
+MusMusculus_D   6252 -------------------AGGAGGAGCC--AATAAAG------------   6268
+                                        .|||||.|.|  ||||.||            
+Human_Dnmt3a   11242 CTTATGTGTATGGTGTGAATGGAGGGGTCTAAATATAGACTTTGGATGTA  11291
+
+MusMusculus_D   6269 --TTAGC-----------CTTG------TCAAACACTGCACATAACACAT   6299
+                       |||||           |.||      |||||.|||.....|..|.|||
+Human_Dnmt3a   11292 GATTAGCAGTTGCCCCAACATGATTTGTTCAAAAACTATTTTTTCCCCAT  11341
+
+MusMusculus_D   6300 TGGAATGA----------------------------------AGTGT---   6312
+                     | ||||||                                  .||||   
+Human_Dnmt3a   11342 T-GAATGATCTTGGCAACCTTTAAAAGAGTCACTTATGGCTGGGTGTGGT  11390
+
+MusMusculus_D   6313 ------------------------------AAGCAGAAGC------ATCT   6326
+                                                   |.||.||.||      |||.
+Human_Dnmt3a   11391 GGCTCACACCTGTAATCCCGGCACTTTGAGAGGCTGAGGCAGGCGGATCA  11440
+
+MusMusculus_D   6327 TTACAGTAAGACAGGTAGAATC--AACAAATGTAGTAAAA-----TTTTT   6369
+                     |.||....|||..|..|..|||  ..|.|||.|.||.|||     |.|.|
+Human_Dnmt3a   11441 TGACCAGGAGATTGAGACTATCCTGGCCAATTTGGTGAAACCCTGTCTCT  11490
+
+MusMusculus_D   6370 ACTATA-----GAATTTTTGAT------------------CAAT------   6390
+                     ||||.|     .||||||.|.|                  |..|      
+Human_Dnmt3a   11491 ACTAAAAATACAAATTTTAGCTGGGCATGGTAGCGTGTGCCTGTAGTCCC  11540
+
+MusMusculus_D   6391 --------------CTTTGGC-------TACATTTAAA------------   6407
+                                   ||..|||       |.|..||.||            
+Human_Dnmt3a   11541 AGCTACTCAGGAGGCTGAGGCTGGAGAATTCGCTTGAACCTGGGAGGCAG  11590
+
+MusMusculus_D   6408 ---------TTATTTGAGTATTTTGCAACATTTCA---------------   6433
+                              |.||.||||   .|||||.||.|.||               
+Human_Dnmt3a   11591 AGGTTGCAGTGATCTGAG---ATTGCACCACTGCACTCCAGCCTGGCGAC  11637
+
+MusMusculus_D   6434 --------TCACCACC---------------------ATTTC-GGTCTG-   6452
+                             .|.||.||                     .|||| ||.||| 
+Human_Dnmt3a   11638 AGAGCGAGACTCCGCCTCAAAAAACAAAAAAATCACTGTTTCTGGACTGT  11687
+
+MusMusculus_D   6453 GCT-TTGATTT-------------TTG----------ACAGAATTGATCC   6478
+                     .|| |||||.|             .||          |||..|.||.|||
+Human_Dnmt3a   11688 TCTGTTGATGTGTCTATCCTTAACATGTAAGAACAGTACAACACTGTTCC  11737
+
+MusMusculus_D   6479 -CTATAGTTTTTA---------------------AG--------------   6492
+                      ||.|.|||||||                     ||              
+Human_Dnmt3a   11738 TCTGTGGTTTTTATTTATTTATTTTTTTGAAATGAGTCTCACTGTCACCC  11787
+
+MusMusculus_D   6493 -GGCT---GAAAAGT--CATGTGCATGTGTCATTG------------ACT   6524
+                      ||||   |.|.|||  |.||..|.||..|||.||            .||
+Human_Dnmt3a   11788 AGGCTGTAGCACAGTGGCGTGATCTTGGCTCACTGCAACCTCCGCCTCCT  11837
+
+MusMusculus_D   6525 G---------------------TAGGTATTTGGGGTTGCTG----TCACC   6549
+                     |                     |..|||..||||.||.|.|    .|.||
+Human_Dnmt3a   11838 GGTTCCTCCTGCTTCAGCTTCCTGAGTAGCTGGGATTACAGGCGCCCGCC  11887
+
+MusMusculus_D   6550 ACCTTG-------------------------------TGGG---------   6559
+                     |||.||                               ||||         
+Human_Dnmt3a   11888 ACCATGCCCGGCTAATTTTTGTATTTTTAGTAGAGACTGGGTTTCCCCAT  11937
+
+MusMusculus_D   6560 ---------AGTTCT-----TCCTAAATTTA-------------------   6576
+                              .|.|||     ||||.|..|.|                   
+Human_Dnmt3a   11938 TAGCCAGGCTGGTCTCAAACTCCTGACCTCAGGTGATCTGGCCGTCTCGG  11987
+
+MusMusculus_D   6577 CCTCTTGAAGAGT------------AATGTGTGAAGCAGT--------AT   6606
+                     ||||.|.||.|||            |..|||.|...|.||        ..
+Human_Dnmt3a   11988 CCTCCTAAAAAGTGCCGGGATTACAAGCGTGAGCCACGGTGCCTTGGCCC  12037
+
+MusMusculus_D   6607 CTTTGTTTGGTTTATTCC--------------CTAG-GTGA-----CTAA   6636
+                     ||||||..|..||||..|              |.|| ||||     |||.
+Human_Dnmt3a   12038 CTTTGTAGGTCTTATAGCTGATTTTTTGAAATCAAGTGTGAGTTTTCTAG  12087
+
+MusMusculus_D   6637 CAGTCTTACAT----GTTTAC---TGACC---------------------   6658
+                     |..||||.|.|    |.||.|   ||.||                     
+Human_Dnmt3a   12088 CTTTCTTCCTTTCCAGATTGCATTTGGCCTCTTTGGGTCCCTTAAGTGTC  12137
+
+MusMusculus_D   6659 --------ATATGTTTGGGGAGAAATGGTCT-------------------   6681
+                             .|.|||||...||||.|.|||||                   
+Human_Dnmt3a   12138 TTTTTTGTTTTTGTTTTTTGAGATAGGGTCTTGCTCTGTCACCCAGGCTG  12187
+
+MusMusculus_D   6682 -----------------------------GTTCAAATT------------   6690
+                                                  |||||...|            
+Human_Dnmt3a   12188 GAGTGCAGTGGCAGAATTACACAGTTACAGTTCACTGTCTCAAGCAGATC  12237
+
+MusMusculus_D   6691 -TCTTGCATAAG--------------------------------------   6701
+                      ||.|||.|.||                                      
+Human_Dnmt3a   12238 CTCCTGCCTTAGCTTTTCAAATAGCTAGGACTACAGGCGCACACCACCAC  12287
+
+MusMusculus_D   6702 ------TAATTAGTATCTTT-------------GCTCTAGTTA------C   6726
+                           ||||||..|..|||             |.|||..|||      |
+Human_Dnmt3a   12288 GCCTGCTAATTAAAAATTTTTTTTGTAGAGAGGGTTCTCATTATGTTGCC  12337
+
+MusMusculus_D   6727 TGGGAT----ATG----TAAAAGTTAATCCCTACACTGC-----------   6757
+                     |.||.|    .||    .|||.|.|..||||..|.|.||           
+Human_Dnmt3a   12338 TAGGCTGGTCTTGAACTAAAACGATCCTCCCACCTCAGCCTCCCAAAGTG  12387
+
+MusMusculus_D   6758 --------AGAGGAGAG-GACACT----------AAAGGCATATATGTA-   6787
+                             |.|||.|.| ||||||          ...||..|.|.|.|| 
+Human_Dnmt3a   12388 TTAGGATTATAGGTGTGAGACACTGTGCCAGTTCTTGGGTTTGTTTATAA  12437
+
+MusMusculus_D   6788 --------------------------------------------CTAAC-   6792
+                                                                 ||||| 
+Human_Dnmt3a   12438 ATTTTAGGATCTGTTTCTACAGAGAAACCAGCTTGGGGAGTCTTCTAACG  12487
+
+MusMusculus_D   6793 ----------ACCTGGCTA-------AATGTTAAC-TCT-----------   6813
+                               |||||..||       |.||||..| |||           
+Human_Dnmt3a   12488 ATTGTATTTAACCTGTATATTCGGGGAGTGTTTCCATCTTGGCAATATCT  12537
+
+MusMusculus_D   6814 -AAAAAGCCTAGTTTCTTTATGG----------------TTTGGTACAAA   6846
+                      ||.|.|....||||||.|.|.|                |||...|||||
+Human_Dnmt3a   12538 GAACATGGAATGTTTCTATTTAGGTCTTTAATTTTTTTTTTTAACACAAA  12587
+
+MusMusculus_D   6847 -----GCTGA--------TTTGGTTGAAGCTAT---TTATTTACTAATA-   6879
+                          .||||        |||..|.||| ||||   |||.|||...||| 
+Human_Dnmt3a   12588 TTCACTCTGAGTGTACAGTTTAATAGAA-CTATACATTACTTAAATATAC  12636
+
+MusMusculus_D   6880 --ACAT-------------------------TGCAAAATTAAT-------   6895
+                       ||||                         |||||||.||.|       
+Human_Dnmt3a   12637 ATACATTATACAGTGGTATAGTGTGTATTTATGCAAAACTACTCATTGAG  12686
+
+MusMusculus_D   6896 CAACTACA-----CAACCCTTTG-AAACA-----ATAC--TCT-------   6925
+                     |||||.||     ||.|||.|.| .|.||     ||||  |||       
+Human_Dnmt3a   12687 CAACTTCATTTCCCAGCCCCTAGCGATCACAATTATACCTTCTATTTCTT  12736
+
+MusMusculus_D   6926 ---------CAAGTATTATATA------------------AAAATGTTTG   6948
+                              |.|.|.|||.|||                  |.|.||||||
+Human_Dnmt3a   12737 TGAGTTTGACTACTTTTAGATACTTAATGAATAGAATCATACAGTGTTTG  12786
+
+MusMusculus_D   6949 TT----------AGGTTTCTTAAGTATTGATC-----------------C   6971
+                     ||          .||.||.||.....|||.||                 |
+Human_Dnmt3a   12787 TTCTTTTGTGGCTGGCTTATTTCACTTTGTTCAAGGTTCAGTCATGTAGC  12836
+
+MusMusculus_D   6972 ATTCAA----------ATACTG-GTGCAAATTCA----CTTTTA-----T   7001
+                     ||.|||          ||..|| ||.||.||.||    |.||||     |
+Human_Dnmt3a   12837 ATGCAAGAGGATTTTCATTGTGTGTACATATACATTTTCATTTAGTCATT  12886
+
+MusMusculus_D   7002 TAACAATTG---TGCT---------------------ACAGTG----GAT   7023
+                     |||||.|||   ||||                     |||.||    |||
+Human_Dnmt3a   12887 TAACACTTGGGTTGCTTTCACCTCTTGGCTGTTGTGAACAATGCTTCGAT  12936
+
+MusMusculus_D   7024 GAATATGG------------------------------TTTAGTTCTTTT   7043
+                     .||.||||                              ||.|.|||||.|
+Human_Dnmt3a   12937 AAACATGGGTGCACAAATAATCACTTCAAGGTCCTGCTTTCAATTCTTGT  12986
+
+MusMusculus_D   7044 GTAAAATTGACTAAAAATTT--AAGTTCT--GTGTGTTGGCTTATTTCAT   7089
+                     ||..|.|   |..|||.|||  ||||.||  .|||.|||.|  |||||||
+Human_Dnmt3a   12987 GTCTACT---CCCAAATTTTGAAAGTGCTTAATGTCTTGAC--ATTTCAT  13031
+
+MusMusculus_D   7090 TTATAGTGATGATGATGATGATTTTGATGAAGAGGAAACTGAAGAAAAGG   7139
+                     ||.|||||||||||||||||||||||||||.||||||.||||||||||.|
+Human_Dnmt3a   13032 TTGTAGTGATGATGATGATGATTTTGATGATGAGGAAGCTGAAGAAAAAG  13081
+
+MusMusculus_D   7140 TCCCAGTGAAGAAAGTGAGTACATGAGATACTATGAGGTTTATCATGGGT   7189
+                     ..|||||||||||||||||||.||...||.|||..|||||..|      .
+Human_Dnmt3a   13082 CGCCAGTGAAGAAAGTGAGTAGATACAATGCTACAAGGTTGTT------A  13125
+
+MusMusculus_D   7190 AGCTAGTAAAAG-GATGGGAATTTCTTAGTGCTA------------GTAG   7226
+                     |.|||..||.|| .||||..||||.|||||||||            ||||
+Human_Dnmt3a   13126 AACTAACAATAGAAATGGTGATTTTTTAGTGCTATTTGCTTGTTTTGTAG  13175
+
+MusMusculus_D   7227 TAAAAACTGGCTGAATTG-------ATCT-----TAAAAATTGGTTCT--   7262
+                     |.||.....||||...||       ||||     |.||||||.||.||  
+Human_Dnmt3a   13176 TTAAGGGAAGCTGGTGTGGGAGATCATCTCATACTGAAAATTAGTCCTGA  13225
+
+MusMusculus_D   7263 -GAGCTAAACAGGAAAATTT------GAGAACG--CTAT-----------   7292
+                      |||....||||.|||.||.      |.|||.|  ||.|           
+Human_Dnmt3a   13226 GGAGGATTACAGAAAACTTAAGAGTGGGGAATGGTCTGTTTTCTTTATCC  13275
+
+MusMusculus_D   7293 ---------------CTGTATGTGAGT----------------TACAA--   7309
+                                    |.||.|||.|||                |.|||  
+Human_Dnmt3a   13276 ATGTGGCCCTCCACCCAGTTTGTTAGTCTTGTGTAACCTTTTGTCCAAGT  13325
+
+MusMusculus_D   7310 --------------------TTTATTAGTTTGTTTTAGGACAG-------   7332
+                                         |||.||..|||.||||..|||.|       
+Human_Dnmt3a   13326 GGTTGCTGCTTTTTCCTTCCTTTTTTTTTTTTTTTTGAGACGGAGTCTCA  13375
+
+MusMusculus_D   7333 -TTTAATCTGAGTT---------------GATCTCTACTC----------   7356
+                      |.|.|.|.|.|.|               ||||||..|||          
+Human_Dnmt3a   13376 ATGTCACCCGGGCTGGAGTACAGTGGCGCGATCTCAGCTCACTGCAACTT  13425
+
+MusMusculus_D   7357 -------------TGGAGAGG-----------------------------   7364
+                                  ||.||.|.                             
+Human_Dnmt3a   13426 CTGCCTCCCGGGTTGAAGCGATTCTCCTGCCTCAGCCTCCTGAGTAGCTG  13475
+
+MusMusculus_D   7365 --------------------------------------GCATAT------   7370
+                                                           ||||.|      
+Human_Dnmt3a   13476 GAATTACAGACTCATGCCACCACACCCAGCTAATTTTTGCATTTTTAGTA  13525
+
+MusMusculus_D   7371 --------------------------------------------------   7370
+                                                                       
+Human_Dnmt3a   13526 GACCACCATGTCGGCCAGGCTGGTCTCGAACTCCTGACCTCGTGATCCAC  13575
+
+MusMusculus_D   7371 ------------------------GGATTA-AGGC---------------   7380
+                                             |||||| ||||               
+Human_Dnmt3a   13576 CTGCCTCGGCCTCCCAAAGTCCTGGGATTACAGGCATGAGCCACCACGCC  13625
+
+MusMusculus_D   7381 -------------------------CAT----------------------   7383
+                                              |||                      
+Human_Dnmt3a   13626 AAGCCTGTGGTTGCTGCTTGTCTTACATGGCTTGGACAGCTTTGTTTGCA  13675
+
+MusMusculus_D   7384 -----------------------------------TTTCTACTTGCAGTC   7398
+                                                        ||||||.||||||||
+Human_Dnmt3a   13676 CTGTTGTTGGGGTCAGGGACAGTGATTAAGATAAATTTCTAATTGCAGTC  13725
+
+MusMusculus_D   7399 TGTACGAGATACCCCAGCCAAAAATGCACAAAAATCAAACCAAAATGGAA   7448
+                     |.||||||||||.||||||||||||||||||||.|||||.||.|||||||
+Human_Dnmt3a   13726 TATACGAGATACTCCAGCCAAAAATGCACAAAAGTCAAATCAGAATGGAA  13775
+
+MusMusculus_D   7449 AAGACTTAAAAC---CATCAACACCGAGATCAAAGGTAAG----TAC---   7488
+                     ||||||.|||||   ||||||||||.||||||||.|||||    |||   
+Human_Dnmt3a   13776 AAGACTCAAAACCATCATCAACACCAAGATCAAAAGTAAGTGGCTACATT  13825
+
+MusMusculus_D   7489 --------------------------------------------------   7488
+                                                                       
+Human_Dnmt3a   13826 TACACGTGGGTCTCATTGATCTAGTTGGGGAAAAAGATTCTACTGTGGAA  13875
+
+MusMusculus_D   7489 --------------------------------------------------   7488
+                                                                       
+Human_Dnmt3a   13876 GAATCTAGTGTGTCTGAAATTTGATAGGCCTTTATAGAACCCCTGTAATT  13925
+
+MusMusculus_D   7489 --------------------------------------------------   7488
+                                                                       
+Human_Dnmt3a   13926 GCTGTTTAAAAGTTAAAATCAGCTTGCTGCAGCCAGGCTCAGTGGCTCAC  13975
+
+MusMusculus_D   7489 --------------------------------------------------   7488
+                                                                       
+Human_Dnmt3a   13976 TCCTGTAATCCCAGCACTTTGGGAGGGAGGCCAAGGTGGGTGGGATCACC  14025
+
+MusMusculus_D   7489 ----------------------------CCAACAAC---AGACC------   7501
+                                                 ||||||.|   |.|||      
+Human_Dnmt3a   14026 TGAGGTCAGGAGTTTGAGACTAGCCCGGCCAACATCGTGAAACCCTGTCT  14075
+
+MusMusculus_D   7502 -TACTAAATTCA--------------------------GTGCCT------   7518
+                      |||||||..||                          ||||||      
+Human_Dnmt3a   14076 TTACTAAAAACACAAAAATTAGCCAGGCATGGTGGTATGTGCCTGTAATT  14125
+
+MusMusculus_D   7519 --------------------------------------------------   7518
+                                                                       
+Human_Dnmt3a   14126 CCACCTACTCAGGAGGTGGAGACAGGAGAATTGCTTGAACCTGGGAGGTG  14175
+
+MusMusculus_D   7519 --------------------------------------------------   7518
+                                                                       
+Human_Dnmt3a   14176 GAGTGCAGTGAGATTGCACCACTGCACTCCAGCTTGGGCAAAAGAGCGAG  14225
+
+MusMusculus_D   7519 -----------AAAAAA---------------------------------   7524
+                                ||||||                                 
+Human_Dnmt3a   14226 ACTCCGCCTCCAAAAAAAAAAATCAGCTTGTTGTGTGTTGTAGGTACACA  14275
+
+MusMusculus_D   7525 --------------------------------------------------   7524
+                                                                       
+Human_Dnmt3a   14276 CACACACACAAACATACTAAATGTAAGGTGGTGGGGCGGGGGGAGCCAAT  14325
+
+MusMusculus_D   7525 ---------------------------ACTTTGT----------------   7531
+                                                |||||||                
+Human_Dnmt3a   14326 AGACTTTTTTGAAAGAGATGGACCCTCACTTTGTCACTCAGTCTGGGTTA  14375
+
+MusMusculus_D   7532 ----------------GCTT------------------------------   7535
+                                     ||||                              
+Human_Dnmt3a   14376 GAGTTGCGTGATCTCGGCTTACTGCAACCTTCACTTCCCGGGTTCAAGCG  14425
+
+MusMusculus_D   7536 --------------------------------------------------   7535
+                                                                       
+Human_Dnmt3a   14426 ATTCTCCTGCCTCAGCTTCCCAAGTAGCTGGGACTACATGCGCGTGCCAC  14475
+
+MusMusculus_D   7536 --------------------------------------------------   7535
+                                                                       
+Human_Dnmt3a   14476 CAGGCCCAGCGTATTTTTGTATTTTTGAGTAGAGATGGGGTTTCACTCTA  14525
+
+MusMusculus_D   7536 --------------------------------------------------   7535
+                                                                       
+Human_Dnmt3a   14526 TATGTTGGCCAGGCTGGTCTCAAACCCCTGACTGCAGGTGATCCGCCCTC  14575
+
+MusMusculus_D   7536 ---------------TGTG-------------------------------   7539
+                                    ||||                               
+Human_Dnmt3a   14576 CTGGGCCTCTCAAAGTGTGTGAGCCACCACGCCTGGCCTGAATTTTTTGT  14625
+
+MusMusculus_D   7540 --------------------------------------------------   7539
+                                                                       
+Human_Dnmt3a   14626 GATTGTGAAGTCAATAGTTGTTTCCTGTAAGGAATCTTTGTTGAAAGGTA  14675
+
+MusMusculus_D   7540 ------------------GTACTTAACCTTGCCTACATAATAG-------   7564
+                                       ||.||.|||||||.||.|||..|||       
+Human_Dnmt3a   14676 TGTCTGCATAGAGTAGAAGTTCTCAACCTTGGCTGCATGTTAGCTTGAAG  14725
+
+MusMusculus_D   7565 ----ACTATAG------------------------------------TGC   7574
+                         ||..|.|                                    |.|
+Human_Dnmt3a   14726 TAGAACATTTGGGCCTAGACAGGGTGTATTGATCTCATTCCTGACCCTAC  14775
+
+MusMusculus_D   7575 ACACT--------------------------------------AAGATAG   7586
+                     .||||                                      |||..|.
+Human_Dnmt3a   14776 CCACTTCCCTGCAGAAAATGGAATTTAAAGGAAAAAAAGTTTAAAGGAAC  14825
+
+MusMusculus_D   7587 CCCAATAC-----ATAAATTTGTGAAGTGTGTC------ATGTTCTGTGG   7625
+                     ||||.|||     .|..|.||.||.||..||||      |||.||||.||
+Human_Dnmt3a   14826 CCCAGTACTTGTGCTCTACTTATGGAGATTGTCATAAAAATGGTCTGGGG  14875
+
+MusMusculus_D   7626 TGGATTCCAAG-----------GTTGAC----------------------   7642
+                     |||...|||.|           ..||||                      
+Human_Dnmt3a   14876 TGGGCGCCAGGCATCAGACTACAGTGACTTTCTTGCTTTATTCTTAGGGA  14925
+
+MusMusculus_D   7643 -------------------TTATTTTGTAGACTTGTTGAA----------   7663
+                                        ||.||||.|..||.||.||||          
+Human_Dnmt3a   14926 TTTTCTGATTTCCTTTTTTTTTTTTTTTTAACCTGATGAAATAGTTTATT  14975
+
+MusMusculus_D   7664 --------------------TTC-------------------------TG   7668
+                                         |||                         ||
+Human_Dnmt3a   14976 TACAATTTAAACGAATAAATTTCATATTCTACAACACATATAATCTATTG  15025
+
+MusMusculus_D   7669 AC------------------------------------------------   7670
+                     ||                                                
+Human_Dnmt3a   15026 ACTAAATGTAACTAATGATGAACCTCCATACAAACAACCCCACTAAAAAG  15075
+
+MusMusculus_D   7671 --------------------------------------------------   7670
+                                                                       
+Human_Dnmt3a   15076 TGGGCAAAGGACATAAACAGACACTTTTCAAAAGACATACAAGTGGCCAA  15125
+
+MusMusculus_D   7671 --------------------------------------------------   7670
+                                                                       
+Human_Dnmt3a   15126 AAAGCATATGAAAAACAGCTCAATATCACTGATTAGAGAAATGCAAATCG  15175
+
+MusMusculus_D   7671 ---------------------------------------CTGTTAT----   7677
+                                                            ||.||||    
+Human_Dnmt3a   15176 AAACCACAATGAGATACCATCTCACACCAGTCAGAATAGCTATTATTAAA  15225
+
+MusMusculus_D   7678 ----------------------------------------------AGCT   7681
+                                                                   .|||
+Human_Dnmt3a   15226 AACTCAAAAAACAACAGCTGCTGGCAAGGTTGCAGAAAAAAGGGAATGCT  15275
+
+MusMusculus_D   7682 TTCACGATCTGGGTGGTGTGTGTGTAT-----------TTGTAGA-----   7715
+                     |.|||..|||.||||| |.||||..||           ||||.||     
+Human_Dnmt3a   15276 TACACACTCTTGGTGG-GAGTGTAAATTAGTTCAACCATTGTGGAAAGCA  15324
+
+MusMusculus_D   7716 --------------------------------------------------   7715
+                                                                       
+Human_Dnmt3a   15325 GAGTGGCGATTCCTCAAAGAGCTAAAAACAGAACTACCATTTGACCCAGC  15374
+
+MusMusculus_D   7716 --------------------------------------------------   7715
+                                                                       
+Human_Dnmt3a   15375 AATCCCATTACATTCCCAAAGGAATATAAATCATTCTACCATAAAGATAC  15424
+
+MusMusculus_D   7716 --------------------------------------------------   7715
+                                                                       
+Human_Dnmt3a   15425 ATGCACACAAATATTCACTGCAGCACTATTCACAATAGCAAAGACATGGA  15474
+
+MusMusculus_D   7716 --------------------GGTCAGGAGTTGT-----------CTT---   7731
+                                         ||||.||..||||           |.|   
+Human_Dnmt3a   15475 ATCAACCTAATACCTGATATGGTCTGGCTTTGTGTCCCCACCCACATCTC  15524
+
+MusMusculus_D   7732 ----------------------------AAGAGG----------------   7737
+                                                 ||||||                
+Human_Dnmt3a   15525 ATCTCAAATTGTAATCCCCACGTGTTGGAAGAGGGGCCTGGTGGGAGGTA  15574
+
+MusMusculus_D   7738 -------------------------CTTG----TCAG-------------   7745
+                                              ||||    ||.|             
+Human_Dnmt3a   15575 ATTGGATCATGGGGTAGATTTCCCTCTTGCTGTTCTGTTGATAGTGAATT  15624
+
+MusMusculus_D   7746 ------------GATTGATTGA----------------------------   7755
+                                 |.|||.||||                            
+Human_Dnmt3a   15625 CTCATGAGATCTGGTTGTTTGAAAGTGTGTAGCACCTCCCCCTTTGTGCT  15674
+
+MusMusculus_D   7756 --CTTTATTTTGAAGC----------------------------------   7769
+                       ||.|.||.||..||                                  
+Human_Dnmt3a   15675 CTCTCTCTTCTGCTGCCATGTAAGATGTGCCTTGCTTCCCCTTTGCCTTC  15724
+
+MusMusculus_D   7770 --------------------------------------------------   7769
+                                                                       
+Human_Dnmt3a   15725 TGCCATGATTGTAAATTTCCTGTGGCCTCCTAGCCATGCTTCCTATACAG  15774
+
+MusMusculus_D   7770 ------------------------ATCTCTT---------------CCAA   7780
+                                             |.|||||               ||||
+Human_Dnmt3a   15775 CCTACAGCACTGTAAGTCAATTAAACCTCTTTTCTTCATAAATTACCCAA  15824
+
+MusMusculus_D   7781 TC--------------------TTTTAC----------------------   7788
+                     ||                    ||||.|                      
+Human_Dnmt3a   15825 TCTCAGGTAGTTCTTTTTTTTTTTTTTCATTTTATTTATTTATTTATTTA  15874
+
+MusMusculus_D   7789 ------------------TTTAAGATTTATTTATATA-------------   7807
+                                       |||...||||||||.|.||             
+Human_Dnmt3a   15875 TTTTTTATTTTTATTTTTTTTTTAATTTATTTTTTTATTGATAATTCTTG  15924
+
+MusMusculus_D   7808 -----------------------------------AGTACACTAG-----   7817
+                                                        .|.|||.|||     
+Human_Dnmt3a   15925 GGTGTTTCTCACAGAGGGGGATTTGGCAGGGTCATGGGACAATAGTGGAG  15974
+
+MusMusculus_D   7818 -----------------------------------CTGTTTTTC--AGAC   7830
+                                                        |||.|||||  ||.|
+Human_Dnmt3a   15975 GGAAGGTCAGCAGATAAACAAGTGAACAAAGGTCTCTGGTTTTCCTAGGC  16024
+
+MusMusculus_D   7831 AGA---------------------TGGTTGTG------------------   7841
+                     |||                     ||.|||||                  
+Human_Dnmt3a   16025 AGAGGACCCTGCGGCCTTCCGCAGTGTTTGTGTACCTGATTACTTGAGAT  16074
+
+MusMusculus_D   7842 --------------------------------------------------   7841
+                                                                       
+Human_Dnmt3a   16075 TAGGGATTGGTGATGACTCTTAACGAGCATGCTGCCTTCAAGCATCTGTT  16124
+
+MusMusculus_D   7842 --------------------------------------------------   7841
+                                                                       
+Human_Dnmt3a   16125 TAACAAAGCACATCTTGCACCGCCCTTAATCCATTTAACCCTGAGTGGAC  16174
+
+MusMusculus_D   7842 --------------------------------------------------   7841
+                                                                       
+Human_Dnmt3a   16175 ACAGCACATGTTTCAGAGAGCACAGGGTTGGGGGTAAGGTCACAGATCAA  16224
+
+MusMusculus_D   7842 --------------------------------------------------   7841
+                                                                       
+Human_Dnmt3a   16225 CAGGATCCCAAGGCAGAGGAATTTTTCTTAGTGCAGAACAAAATGAAAAG  16274
+
+MusMusculus_D   7842 --------------------------------------------------   7841
+                                                                       
+Human_Dnmt3a   16275 TCTCCCATGTCTACTTCTTTCTACACAGACACGGCAACCATCCGATTTCT  16324
+
+MusMusculus_D   7842 ---------------------------------------AGCTACCAT--   7850
+                                                            ||||.||||  
+Human_Dnmt3a   16325 CAATCTTTTCCCCACCTTTCCTGCCTTTCTATTCCACAAAGCTGCCATCG  16374
+
+MusMusculus_D   7851 -------------------------------------------------G   7851
+                                                                      |
+Human_Dnmt3a   16375 TCATCCTGGCCCGTTCTCAATGAGCTGTTGGGCACACCTCCCAGACGGGG  16424
+
+MusMusculus_D   7852 TGGTTGCTGGGAATTG--------AACT----------------------   7871
+                     ||||.||.|||.|..|        .|||                      
+Human_Dnmt3a   16425 TGGTGGCCGGGCAGAGGGGCTCCTCACTTCCCAGTAGGGGCGGCTGGGCA  16474
+
+MusMusculus_D   7872 -----------------------------------------------CTG   7874
+                                                                    |||
+Human_Dnmt3a   16475 GAGGCGCCCCTCACCTCCCGGACGGGGCGGCTGGCCGGGCAGGGGGGCTG  16524
+
+MusMusculus_D   7875 ACC-----------------------------------------------   7877
+                     |||                                               
+Human_Dnmt3a   16525 ACCCCCCCCACCTCCCTCCCGGACGGGGCGGCTGGCCAGGCGGGGGGCTG  16574
+
+MusMusculus_D   7878 --------------------------------------------------   7877
+                                                                       
+Human_Dnmt3a   16575 ACCCCCCCACCTCCCTCCCGGACAGGGCGGCCGGCCGGGCGGGGGGCTGA  16624
+
+MusMusculus_D   7878 ------------------------------------------------TC   7879
+                                                                     .|
+Human_Dnmt3a   16625 CCCCCCCACCTCCCTCCCGGACGGGGCGGCTGGCCGGGCAGAGGGGCTCC  16674
+
+MusMusculus_D   7880 TAACT---------------------------------------------   7884
+                     |.|||                                             
+Human_Dnmt3a   16675 TCACTTCCCAGTAGGGGCGGCCGGGCAGAGGCGCCCCTCACCTCCCAGAC  16724
+
+MusMusculus_D   7885 --------------------------------------------------   7884
+                                                                       
+Human_Dnmt3a   16725 GGGGCGGCTGGCCGGGCGGAGGGCTGACCCCCCCACCTCCCTCCCGGACG  16774
+
+MusMusculus_D   7885 ---------------------GCTTA------------------------   7889
+                                          |||||                        
+Human_Dnmt3a   16775 GGGCGGCCGGCCAGGCGGGGGGCTTACCCCCCCACCTCCCTCCCGGACGG  16824
+
+MusMusculus_D   7890 ------TG------------------------CATCTTCAG---------   7900
+                           ||                        |||||.|.|         
+Human_Dnmt3a   16825 GGCGGCTGGCCGGGTGGGGGGGCTGACCCCCCCATCTCCCGGACGGGGTG  16874
+
+MusMusculus_D   7901 --------------------------------------------------   7900
+                                                                       
+Human_Dnmt3a   16875 GCTGGCCGGGCTGAGGGGCTCCTCACTTCCCAGTAGGGGCGGCCGGGCAG  16924
+
+MusMusculus_D   7901 ------CCCTCTAGTC-----------------------------CTGAC   7915
+                           |||||...||                             |||||
+Human_Dnmt3a   16925 AGGCAACCCTCACCTCCCGGACGGGGCGGCTGGCCGGGCGGGGGGCTGAC  16974
+
+MusMusculus_D   7916 --------------------------------------------------   7915
+                                                                       
+Human_Dnmt3a   16975 CCCCCCACCTCCCTCCCGGACGGCACGGCTGGCCAGGTGGGGGGCTGACC  17024
+
+MusMusculus_D   7916 --------------------------------------------------   7915
+                                                                       
+Human_Dnmt3a   17025 CCCCCACCTCCCTCCCGGATGGCACGGCTGGCCGGTCGGGGGGGCTGACC  17074
+
+MusMusculus_D   7916 --------------------------------------------------   7915
+                                                                       
+Human_Dnmt3a   17075 CCCCACCTCCCTCCCAGATAGGGCGGCTGGCCGGGCGGGGGGTTGACCCC  17124
+
+MusMusculus_D   7916 --------------------------------------------------   7915
+                                                                       
+Human_Dnmt3a   17125 CCCCCACCTCCCTCCCGGACGGGGTGGCTGCTGGGCGGAGATGCTCCTCA  17174
+
+MusMusculus_D   7916 ------------------------------AGGCT------TTCT-----   7924
+                                                   |||||      ||||     
+Human_Dnmt3a   17175 CTTCCCAGATGGGGTGGCTGCCGGGCGGAGAGGCTCCTCACTTCTCAGAC  17224
+
+MusMusculus_D   7925 -----AGCT---------AGG-----AACAATTAGCA-------------   7942
+                          ||||         |||     ..||.||..||             
+Human_Dnmt3a   17225 GGGGCAGCTGCCGGGCGGAGGGGCTCCTCACTTCTCAGACGGGGTGGTTG  17274
+
+MusMusculus_D   7943 -------------------ACTTCTC------------------------   7949
+                                        |||||||                        
+Human_Dnmt3a   17275 CCAGGCAGAGGGTCTCCTCACTTCTCAGACGGGGCGGCCAGGCAGAGACG  17324
+
+MusMusculus_D   7950 --------------------------------------------------   7949
+                                                                       
+Human_Dnmt3a   17325 CTCCTCACCTCCCAGACGGGGTCTCGGCCGGGCAGAGGCGCTCCTCACAT  17374
+
+MusMusculus_D   7950 --------------------------------------------------   7949
+                                                                       
+Human_Dnmt3a   17375 CCCAGATGGGGCGGCGGGGCAGAGGCGCTCCCCACATCTCAGACGATGGG  17424
+
+MusMusculus_D   7950 --------------------------------TGTGCT------------   7955
+                                                     ||||.|            
+Human_Dnmt3a   17425 CGGCCGGGCAGAGACGCTCCTCACTTCCTAGATGTGATGGCGGCTGGGAA  17474
+
+MusMusculus_D   7956 -----------------CTATAAGGGAT----------------------   7966
+                                      |||.|.|||||                      
+Human_Dnmt3a   17475 GAGGCGCTCCTCACTTCCTAGATGGGATGGCGGCCGGGCGGAGACGCTCC  17524
+
+MusMusculus_D   7967 ----TTT-------------------------------------------   7969
+                         |||                                           
+Human_Dnmt3a   17525 TCACTTTCCAGACTGGGCAGCCAGGCAGAGGGGCTCCTCACATTCCAGAC  17574
+
+MusMusculus_D   7970 ---------------------------------------AGGGAGGAGG-   7979
+                                                            .|||.||.|| 
+Human_Dnmt3a   17575 GATGGGCGGCCAGGCAGAGACACTCCTCACTTCCCAGACGGGGTGGCGGC  17624
+
+MusMusculus_D   7980 ------------GAAATCTTGGTAATT-----------------------   7994
+                                 |.|||||.||.|.||                       
+Human_Dnmt3a   17625 CGGGCAGAGGCTGCAATCTCGGCACTTTGGGAGGCCAAGGCAGGCGGCTG  17674
+
+MusMusculus_D   7995 --------------------------------------------------   7994
+                                                                       
+Human_Dnmt3a   17675 GGAGGTGTAGGTTGTAGTGAGCCGAGATCACGCCACTGCACTCCAGCCTG  17724
+
+MusMusculus_D   7995 ---------------------------ACTTTGT----------------   8001
+                                                |||.|||                
+Human_Dnmt3a   17725 GGCACCATTGAGCACTGAGTGAACGAGACTCTGTCTGCCCTGATTTCCTT  17774
+
+MusMusculus_D   8002 ------------TAAGAACTGT----------------------------   8011
+                                 |.||.|||||                            
+Human_Dnmt3a   17775 TTTTGAACTGACTTAGTACTGTGCATAAAAGCAAACTCCCAAGTTACTCT  17824
+
+MusMusculus_D   8012 --------------------------------------------------   8011
+                                                                       
+Human_Dnmt3a   17825 TTTTTTTTTTATTTAAAGAGATGGGTGGCCTACTCTTGCCCAGGTTGAAG  17874
+
+MusMusculus_D   8012 --------------------------------------------------   8011
+                                                                       
+Human_Dnmt3a   17875 TACAGTGGTATGATCATAGCTCACTACAGCCTCCAGCTGCTGGGCTTAAG  17924
+
+MusMusculus_D   8012 --------------------------------------------------   8011
+                                                                       
+Human_Dnmt3a   17925 CAATCCTCCTGCCTTAGCCTCCTGAGTAGCTGGGATTACAGGCATGCACC  17974
+
+MusMusculus_D   8012 ----------ACTAATAATCTT----------------------------   8023
+                               .|||||.|||||                            
+Human_Dnmt3a   17975 ACCATGCCTAGCTAATCATCTTATTCCTTCCTTAAAGGAAAGATTTTAAG  18024
+
+MusMusculus_D   8024 -----------------TGAA-----------------------------   8027
+                                      ||||                             
+Human_Dnmt3a   18025 AACAAAATTATATGGCGTGAATTTATTGATGATAATTCCAGTTGTATAAT  18074
+
+MusMusculus_D   8028 -AACTTT-------------------------------------------   8033
+                      |.||||                                           
+Human_Dnmt3a   18075 TAGCTTTATAAGGGAGTTTTGTGAGAATATTTGAGGAAATCCAGATAGAA  18124
+
+MusMusculus_D   8034 --------------------------TTC---------------------   8036
+                                               |||                     
+Human_Dnmt3a   18125 TGGGTTTTAATTAGGAATTGTATTTATTCTTATGACCTTTTGGAAATTCA  18174
+
+MusMusculus_D   8037 ---------CAGGGTCAAGAGTCCTTCAAAAAACAGGAAAAGACTCCTAA   8077
+                              |||||.|||||.||||||||.|||||||||||.||||||||
+Human_Dnmt3a   18175 TTTCTTTTTCAGGGACAAGAATCCTTCAAGAAACAGGAAAAAACTCCTAA  18224
+
+MusMusculus_D   8078 AACACCAAAAGGACCTAGTTCTGTAGAAGACATTAAGGCAAAAATGCAAG   8127
+                     ||||||||||||||||||||||||||||||||||||.|||||||||||||
+Human_Dnmt3a   18225 AACACCAAAAGGACCTAGTTCTGTAGAAGACATTAAAGCAAAAATGCAAG  18274
+
+MusMusculus_D   8128 CAAGTATAGAAAAAGTGAGTAAAATTAAC---------CTTTGAAT----   8164
+                     |||||||||||||||||||||||.|||.|         |||||..|    
+Human_Dnmt3a   18275 CAAGTATAGAAAAAGTGAGTAAAGTTATCTTAAAAAAACTTTGTCTCCCC  18324
+
+MusMusculus_D   8165 ------ATTAGAAAT-TCT-----------ACT--AATG-----------   8183
+                           |||..|..| |||           |||  ||||           
+Human_Dnmt3a   18325 CCTCAAATTGCACGTGTCTGGTTTGCATAGACTTGAATGTTTCTTGTTTT  18374
+
+MusMusculus_D   8184 --TGGGAATTTGGGTTAAAAGTA-------GATTATAAGTAAGAA--TAT   8222
+                       ||....|||.||||.||..||       |.||....|||.|||  |.|
+Human_Dnmt3a   18375 TTTGTTTGTTTTGGTTTAATATACTTGCCTGGTTCGTGGTATGAATTTTT  18424
+
+MusMusculus_D   8223 TCATAAATTACTCCAATAAAATGTATAAGGGT------------------   8254
+                     |||.|||||.||...|.||.||.|||||..||                  
+Human_Dnmt3a   18425 TCAAAAATTTCTTATAAAACATTTATAATCGTGTCTGTGGTGATTTTTGC  18474
+
+MusMusculus_D   8255 -------------------ACTTTTTTT----------------------   8263
+                                        .|||.||||                      
+Human_Dnmt3a   18475 ATATGCAAAATTAAATATGCCTTATTTTCCATTATGCAAGGAACGTAGTG  18524
+
+MusMusculus_D   8264 -ACTGG--------------------------------------------   8268
+                      |||||                                            
+Human_Dnmt3a   18525 CACTGGTTGCAAGATAACATTCTGACCTTCCATGTTAAAATAGATCAGTG  18574
+
+MusMusculus_D   8269 -------------------GGT-------TATGCTGTAGAACAAGCAGAG   8292
+                                        |||       ||||||..|||||.|.|||||
+Human_Dnmt3a   18575 AAAACCCTTTGCCTATTCTGGTTGTAAGATATGCTAGAGAACCAACAGAG  18624
+
+MusMusculus_D   8293 GGTGTTT-TGTTTTCAGTAAAATTAAAAACAGCTGGAAAAGTAAGAGTAA   8341
+                     ||.||.| .|..||||.||||||||.||||||||||||||||        
+Human_Dnmt3a   18625 GGCGTATGAGACTTCATTAAAATTACAAACAGCTGGAAAAGT--------  18666
+
+MusMusculus_D   8342 AGTGGTTGGC---TGCCTGAGGTTATTTTATAGCTAAGAAAAAAAGAATC   8388
+                     ||..|.||||   |||.||     .|.||||||.||| .|...|.||.|.
+Human_Dnmt3a   18667 AGATGCTGGCTGTTGCTTG-----GTATTATAGTTAA-TATTCATGATTG  18710
+
+MusMusculus_D   8389 ACCTTT-----AAGTATTTCACAACAATTTGAGTTATT--TCTGTGCCCT   8431
+                     |||.|.     ||||..||..||.||..|||||..|||  |||.||||||
+Human_Dnmt3a   18711 ACCCTAGTCAGAAGTGATTTTCAGCAGATTGAGACATTTCTCTTTGCCCT  18760
+
+MusMusculus_D   8432 CTGTTCCAAAGCTCCCTCAGTCCATGACCTGAAAT----------TTGTG   8471
+                     .|...||||.....|..||||..|| ||.||.|.|          ||..|
+Human_Dnmt3a   18761 TTACACCAAGTTGTCACCAGTTAAT-ACATGTAGTAATAGCTAGATTTCG  18809
+
+MusMusculus_D   8472 TGTGTGGCTAATAGGCTTTCATCTAGTTTGAAATAGAATTTATCTT---T   8518
+                     ||..||.|||||||||||..|||||||||      ...|||.||||   |
+Human_Dnmt3a   18810 TGAATGACTAATAGGCTTAAATCTAGTTT------CCTTTTGTCTTAAAT  18853
+
+MusMusculus_D   8519 CTTGGCATT---------TGGCTGGGACTAAATACATTTATATAAACCTG   8559
+                     ..|||.|.|         .||.|.||.||.   .|||.|...|.|  |||
+Human_Dnmt3a   18854 AATGGAAATGTGGGAAGAGGGTTAGGTCTC---TCATCTGCTTGA--CTG  18898
+
+MusMusculus_D   8560 GG----TTGTGTAG--AATGGAATAA----TACAAATGATTTTTTTTTTT   8599
+                     ||    |||.||||  .|||||||||    |..|||||..||........
+Human_Dnmt3a   18899 GGGGATTTGAGTAGGATATGGAATAAATGGTTTAAATGCCTTGGAAGCAC  18948
+
+MusMusculus_D   8600 TTTGGAGAGCTAAGTTTATCTCCATTATGATTCTAACATGTGAATTAC--   8647
+                     .||.|||||  |||.||...|.|  |||||.|...||.|.|..|.|.|  
+Human_Dnmt3a   18949 ATTTGAGAG--AAGCTTTAATTC--TATGAATAATACTTTTAGACTCCAA  18994
+
+MusMusculus_D   8648 ---TTGAATAC--ATGTGGAATGTTATGCAGATTGCCCATTCTTTTTCCT   8692
+                        ||||...|  ||||||..||.|. ..|.||||||.|.||.|||.||.
+Human_Dnmt3a   18995 CTATTGAGAGCAAATGTGGGGTGGTG-AAAAATTGCCAACTCATTTCCCC  19043
+
+MusMusculus_D   8693 ATTTTTTTCCTGTCT--TGTAGTTCTCACATGGCTTCAGAAGATTTTCTT   8740
+                     ||.||||||.|||..  |.|||.|.|..|.|||||||||.|||     ||
+Human_Dnmt3a   19044 ATGTTTTTCTTGTAATCTATAGATTTTTCGTGGCTTCAGTAGA-----TT  19088
+
+MusMusculus_D   8741 CCTTTGTGCAG--------CCACAAATGG--ATTGGAATTTAGCACTTGG   8780
+                     || ||||.|||        ||||   |||  |..|.|.|||||.|||.| 
+Human_Dnmt3a   19089 CC-TTGTACAGTGATAAGTCCAC---TGGAAAAAGAATTTTAGAACTGG-  19133
+
+MusMusculus_D   8781 CAGCACATTTCATATTTCTTATTAAACTGTAAAC---TTAAGTTTCCTGG   8827
+                      |.||.|||||    ||.|..|.|.|||||||||   |||...|||||||
+Human_Dnmt3a   19134 -AACATATTTC----TTTTAGTCACACTGTAAACCCTTTAGCCTTCCTGG  19178
+
+MusMusculus_D   8828 -TGTCACTGATTTATTTTTTATCCCTTGCATACACTGCTAAAAT------   8870
+                      |.|||||||     |||||.|||||||.|||||.|||||||||      
+Human_Dnmt3a   19179 TTATCACTGA-----TTTTTGTCCCTTGGATACAATGCTAAAATGACATC  19223
+
+MusMusculus_D   8871 -----GATGCCCCTCCCCCCCATTTTAATGTGGTCCTATCTCCTTGGTTT   8915
+                          |||||||||||||.||||||||||.||||||||||||||||||||
+Human_Dnmt3a   19224 TTTTAGATGCCCCTCCCCTCCATTTTAATATGGTCCTATCTCCTTGGTTT  19273
+
+MusMusculus_D   8916 AATTGCAGGCGCATTGAACATTCCTGGGCACTACTGGTAAATTAAGCCCA   8965
+                     ||||||||||||||||||||.|||||||||||||..||||||||||||||
+Human_Dnmt3a   19274 AATTGCAGGCGCATTGAACAGTCCTGGGCACTACATGTAAATTAAGCCCA  19323
+
+MusMusculus_D   8966 AAGATGGGGAAAGAGGAAAAGGAGAAACAAATATAGTAC-----------   9004
+                     ||||||||||.|.||||||||||||.|||||||||||.|           
+Human_Dnmt3a   19324 AAGATGGGGAGAAAGGAAAAGGAGAGACAAATATAGTCCATACTGAGTGT  19373
+
+MusMusculus_D   9005 CATCAACAATCCAGAC-----------------ATCTCAATCCCCTTTCC   9037
+                     ||||||||||||||||                 |||||||||||||||.|
+Human_Dnmt3a   19374 CATCAACAATCCAGACTGAAGTCTTCTATTTTAATCTCAATCCCCTTTTC  19423
+
+MusMusculus_D   9038 TGATTGGCCATCCATTCCCCCTTGCAGGCTGGAAGCAATCTTGT-TTTTC   9086
+                     |||||.||||.||||.||.|.|  ||||||||||.||||||..| .||.|
+Human_Dnmt3a   19424 TGATTTGCCACCCATGCCTCTT--CAGGCTGGAAACAATCTCTTGGTTCC  19471
+
+MusMusculus_D   9087 CTAAAGCATTTTTCTTTTACTTTTGTGATGCAGAAAAC---------TAC   9127
+                     ||||||||.|||..|.|.|||..||||||.|||..|||         |.|
+Human_Dnmt3a   19472 CTAAAGCACTTTCTTCTGACTGCTGTGATTCAGTGAACCTTGCCCTTTGC  19521
+
+MusMusculus_D   9128 TTCTCTACCACTTGTGCATATGCCTCATTTCTTTGACCATGTTTTAA---   9174
+                     || ||||..||||||||||.|||||||   | .||||.|||||||||   
+Human_Dnmt3a   19522 TT-TCTATTACTTGTGCATTTGCCTCA---C-CTGACAATGTTTTAAATC  19566
+
+MusMusculus_D   9175 -CCTTTGTA--TCCTTAGCTACTCTCAATAAATTTTTAAATGAATCAA-T   9220
+                      ||||||||  |||||||||.  ||||||||||.|||.||||.||||| |
+Human_Dnmt3a   19567 GCCTTTGTATCTCCTTAGCTG--CTCAATAAATATTTGAATGCATCAATT  19614
+
+MusMusculus_D   9221 AAGGATGTATGTGACAAT-ATTTTCAAATTACCGTAGTGA--ATTATTTT   9267
+                     |||.|||||||||||||| |||||.||||.....|.||||  .|||||||
+Human_Dnmt3a   19615 AAGAATGTATGTGACAATAATTTTGAAATGGAAATTGTGAGGTTTATTTT  19664
+
+MusMusculus_D   9268 -CTAGGTGA-TGAAGGCAATTGAGTACCTTAATACTCAAGGTGATTC---   9312
+                      ||||||.| ||.|||||.||.|||..||||||.||..|..||||||   
+Human_Dnmt3a   19665 ACTAGGTTATTGGAGGCAGTTAAGTTTCTTAATGCTATACCTGATTCTGC  19714
+
+MusMusculus_D   9313 ----------TGGA-ATTTGGAAGCCTTAGTCTTGCTAAGTGCATAGAAA   9351
+                               |||| |||||.||.||||. ||...||.     .||.|||
+Human_Dnmt3a   19715 CAAAGTCCCTTGGACATTTGAAAACCTTT-TCAATCTT-----TTAAAAA  19758
+
+MusMusculus_D   9352 TGCAAAAAGGTTAAAATTTAGAGAAGTGGATTTTATATGAAATAGGGGAT   9401
+                     ||||.|||.|.||.   ||||||.....|.|.|||..|.||.|..|..|.
+Human_Dnmt3a   19759 TGCATAAAAGATAC---TTAGAGGGAAAGGTATTAATTAAATTTAGTAAA  19805
+
+MusMusculus_D   9402 AATCTGTAGTGACA---CTTT--ATGC--------TGATAAGT--TAACA   9436
+                     ||....||....||   ||||  ||.|        ||||||.|  .||||
+Human_Dnmt3a   19806 AACAAATATATTCAATGCTTTAAATTCCAAAGTAGTGATAAATACAAACA  19855
+
+MusMusculus_D   9437 TTTGCA------TTGCAGTATCTTAATTTGTAAGAATTTTGGCAGCAAA-   9479
+                     ||| ||      |||||  ||..||||.|.|...||||||||...|||| 
+Human_Dnmt3a   19856 TTT-CAAGATATTTGCA--ATAGTAATGTTTTGAAATTTTGGTTACAAAG  19902
+
+MusMusculus_D   9480 -------ACTTGCTGATA--ATTGTGGTT--TAGTCTACATTCATAATTG   9518
+                            .|||||..|||  .||||.|||  |.|.|||.||.|.|||||.
+Human_Dnmt3a   19903 TCACAGGTCTTGCCAATACTGTTGTAGTTTCTTGCCTATATCCGTAATTT  19952
+
+MusMusculus_D   9519 GAAGCATGCCAAATCGATGCTACAGTTAGTAATAAGGTACCTACT---TT   9565
+                     ||||      .||..|.||..|..|.|...|..|..|||..||||   .|
+Human_Dnmt3a   19953 GAAG------GAAATGGTGAGAGTGATTAGAGAAGTGTAATTACTGTAAT  19996
+
+MusMusculus_D   9566 TAAATCCCTTCAATTG------CGTGC---TTTCCTAGGTAATTGGAAAA   9606
+                     |...||||  |.||||      |.|||   |.|||   .|||||.|||..
+Human_Dnmt3a   19997 TTTTTCCC--CTATTGTAGTTTCTTGCCTGTATCC---ATAATTTGAAGG  20041
+
+MusMusculus_D   9607 CACT--TATGAACAGGTCGT---ATCTAATT--TGTTTTTTGGTGATAGG   9649
+                     .|.|  ||.||.....|.||   ||.|||||  |||..|||..|......
+Human_Dnmt3a   20042 AAATGGTAAGAGTGATTAGTGAAATGTAATTACTGTAATTTTTTCCCCAT  20091
+
+MusMusculus_D   9650 TGATAACATGAATTTGTATATTAGGC-----ACCCAA-----GTGG--CT   9687
+                     |  .|||.|   |.|.|||.||...|     |||..|     ||.|  ||
+Human_Dnmt3a   20092 T--CAACTT---TATATATCTTTAACTGATGACCAGATCATTGTTGTTCT  20136
+
+MusMusculus_D   9688 GTACTTGCAT---GCCAG-TAGAGCCCTCTGTAGTTTAAATTGGCTGTTT   9733
+                     |.||..|..|   |.||| .||.|...|.||..||||...|||..|||||
+Human_Dnmt3a   20137 GAACCAGTTTGTGGTCAGCAAGTGTTTTGTGGGGTTTTGTTTGTTTGTTT  20186
+
+MusMusculus_D   9734 GGAAGGAAC----TGGG-CATTAAGCAATAAAAAACCATGGTCT-TTCTG   9777
+                     ..||.||||    |||| ||.|...||........|.|.||..| ||.||
+Human_Dnmt3a   20187 TTAAAGAACAGTTTGGGTCACTTGACATGGTTCTCCAAAGGGATGTTATG  20236
+
+MusMusculus_D   9778 GGT----TTGGGCCCAGAGTTGGTTTTTTTTTGTTGTGTTTTGTTTTTCC   9823
+                     |||    ||.||..|.|.||..........|||||...|..|.|...|..
+Human_Dnmt3a   20237 GGTTGTATTTGGTTCTGGGTGATAACCGACTTGTTAGATAATTTAGATAA  20286
+
+MusMusculus_D   9824 AAGACAGGGTTTC----TCTGGCTGTCCTGGAACTCA------------C   9857
+                     ...||.|.|||.|    |.||..||||  |.|.||||            .
+Human_Dnmt3a   20287 GCAACCGAGTTGCCATGTTTGTTTGTC--GAATCTCAAGTGTAGCTTATA  20334
+
+MusMusculus_D   9858 TTTTGTAGACC-----AGGCTAAACTCAG---AAATCCGCCTGCCTCTGC   9899
+                     ||||.|...||     |||.|.   ||||   |.||..|.|  |||.||.
+Human_Dnmt3a   20335 TTTTATGTTCCTAGAGAGGTTG---TCAGGGAAGATTTGAC--CCTTTGG  20379
+
+MusMusculus_D   9900 CTC--CCAAATGC--TGGGATTAAAGGCGTGCGCCACCAT---GC---CT   9939
+                     |..  |....||.  .|.|||...||.|.|||..|.|.||   ||   ||
+Human_Dnmt3a   20380 CAAATCTGTTTGAATAGAGATACTAGCCATGCTGCCCAATAGGGCTTTCT  20429
+
+MusMusculus_D   9940 GGCTTTAATGTTGGTTTTTAATCAAATGGGAATGTTAAAGGGTTATAGTT   9989
+                     |||..|.|....|.|....|.|....|.||||.|||.|||||..|.||..
+Human_Dnmt3a   20430 GGCCCTGAAAAAGATACGGAGTATTCTTGGAAAGTTGAAGGGAAAAAGAA  20479
+
+MusMusculus_D   9990 T----------GTGTAATGGCATGTAAAACTTTGGAAGTTTTTTCTAATG  10029
+                     |          .||||.|.|||||.|.|...|| ||.|..||||||||.|
+Human_Dnmt3a   20480 TAAACTGATCCATGTAGTAGCATGCAGATTATT-GAGGAATTTTCTAAAG  20528
+
+MusMusculus_D  10030 ATGTCTCAAAC----AATTGCTGTT-TGTCCT-TAATAATGCTTTTTTTC  10073
+                     .|.||||...|    .|||.||.|. |..||| |||||||||||||.|  
+Human_Dnmt3a   20529 GTATCTCTCTCGGTGTATTTCTCTACTTACCTGTAATAATGCTTTTGT--  20576
+
+MusMusculus_D  10074 CCCTCAATAGGGCGGTTCTCTTCCCAAAGTGGAAGCCAAGTTCATTAATT  10123
+                       ||.|||||||.||||||||||||||||||||||||||.|||||.||||
+Human_Dnmt3a   20577 --CTTAATAGGGTGGTTCTCTTCCCAAAGTGGAAGCCAAATTCATCAATT  20624
+
+MusMusculus_D  10124 ATGTGAAGAATTGTTTCCGGATGACTGACCAGGAGGTAACTGAATTTTCT  10173
+                     |||||||||||||.|||||||||||||||||.||||||||||.|||||||
+Human_Dnmt3a   20625 ATGTGAAGAATTGCTTCCGGATGACTGACCAAGAGGTAACTGGATTTTCT  20674
+
+MusMusculus_D  10174 GTGGACGTGACCAAATCTAAAATTTTCATTGATTTATTATGA-----CTT  10218
+                     |.||||.|||..|||||.||..||||...|||||||||||||     |.|
+Human_Dnmt3a   20675 GGGGACATGATTAAATCCAAGTTTTTTTGTGATTTATTATGATTCTGCCT  20724
+
+MusMusculus_D  10219 TTAGTC---TCAAGTTGTTGGCTCCTTGTAAAAAGTTCCTAACCACAGAC  10265
+                     |||..|   |.||| |||||||||.||.|||||||||||||||||||||.
+Human_Dnmt3a   20725 TTACCCTTTTTAAG-TGTTGGCTCTTTTTAAAAAGTTCCTAACCACAGAT  20773
+
+MusMusculus_D  10266 AGTACTT---------AAATACATGGAAA-----GAATTTAA--------  10293
+                     |.||.||         ||||||.||.|||     |.||||||        
+Human_Dnmt3a   20774 AATATTTCATTTAATGAAATACCTGAAAACTCATGTATTTAATGAAATGC  20823
+
+MusMusculus_D  10294 -------------TTGGCAGACTGAGCAAATAATTTTTTAGTGCACATTT  10330
+                                  |||||||.|||||...||||  .||||||  |.||||
+Human_Dnmt3a   20824 ATGAAGAATACAGTTGGCAGTCTGAGATGATAA--CTTTAGT--ATATTT  20869
+
+MusMusculus_D  10331 TTCCCAGGTTTTAAATAGTTGGTAAATTATCTCTTGGTTACTGAACTTAG  10380
+                     |||||||.|||...||||||||||||||||.|||||||||.||||.|.||
+Human_Dnmt3a   20870 TTCCCAGATTTCCTATAGTTGGTAAATTATTTCTTGGTTATTGAATTCAG  20919
+
+MusMusculus_D  10381 TTTTAC--TCTTAGTAGTGTATTGGCTAAGGAAATAGGATATGGTTTTTA  10428
+                     ||||||  |.||.|||.|.|.||||.|||||||||. |.|.|||||||..
+Human_Dnmt3a   20920 TTTTACTTTTTTGGTACTATGTTGGTTAAGGAAATT-GCTGTGGTTTTCC  20968
+
+MusMusculus_D  10429 TT--TGCTCCATTTGGCTGCTT--TACAGTCTGAT---------------  10459
+                     ||  ||.||||||||.||||||  ..|||||||.|               
+Human_Dnmt3a   20969 TTGCTGTTCCATTTGACTGCTTGGGGCAGTCTGGTCTTGGCTTTTTTGGG  21018
+
+MusMusculus_D  10460 ----------GAT-------------------------------------  10462
+                               |||                                     
+Human_Dnmt3a   21019 AGTTGGTAGAGATCTTTTTTTTTTTTTTCCTAGATCTTATGGGAAATACA  21068
+
+MusMusculus_D  10463 -------------------ACTTGGACTCTTGGAAG---------TGGTA  10484
+                                        ||.||.|.|| ||||||         ...|.
+Human_Dnmt3a   21069 TTATGCCAAAATCATCCTAACATGAAATC-TGGAAGCAAGACACTAAATT  21117
+
+MusMusculus_D  10485 GTATCTTCT-CCAGATAGCAAAG---GAG---------------------  10509
+                     ||..||.|| |||||||...|||   |||                     
+Human_Dnmt3a   21118 GTGGCTACTACCAGATACATAAGCTTGAGTTAGCTGTTAGATTTTACAGT  21167
+
+MusMusculus_D  10510 -GGTAAAATTGGTAG----AATCAACCTAGATGGGTTAAAGC--------  10546
+                      .|||.|..||..||    |.|||||.||.|   |.|.|.||        
+Human_Dnmt3a   21168 TAGTACATGTGAAAGTCTTAGTCAACATAAA---GATTATGCATTTATTT  21214
+
+MusMusculus_D  10547 ---CTCTTG-------------CAT---------GTCAA-----------  10560
+                        |||||.             |||         |.|||           
+Human_Dnmt3a   21215 TTGCTCTTATTTACAGTTGACTCATAAGTGTAAGGACAATGTAAAAGTGG  21264
+
+MusMusculus_D  10561 ----------------------------------GTTACTG---------  10567
+                                                       |.|.|||         
+Human_Dnmt3a   21265 TTAAATAGGGATGTTAGGTATCGTGTGGAGAACGGATGCTGCATTTAATG  21314
+
+MusMusculus_D  10568 ----TTATGTTTATTGTGGT----------------ATTAGGATACTTGG  10597
+                         |||.||||..||||||                |||||||.|.||.|
+Human_Dnmt3a   21315 GTCTTTAGGTTTCCTGTGGTCAGCTTTTTTCAAAAAATTAGGAAAATTTG  21364
+
+MusMusculus_D  10598 GCCAT--GCAAG----------GGCAAA-------GCACTACCAGTGAT-  10627
+                     ||.||  ||..|          |.||.|       |||||.|.|.|..| 
+Human_Dnmt3a   21365 GCAATTAGCTGGTTTTTTTTCTGCCATAGTATTTTGCACTTCAATTATTT  21414
+
+MusMusculus_D  10628 -----CTCTT---------------------------CCCAG----TGG-  10640
+                          |.|||                           |||.|    ||| 
+Human_Dnmt3a   21415 AATTGCACTTCAATTTTTAGTTTTCGGGTTCGTAAAACCCTGATAATGGT  21464
+
+MusMusculus_D  10641 ----TATGAATTTA-CAGTGTTAAA----TAGTAA------ATATAATG-  10674
+                         |.|||.|||| |..|||.|||    ||||.|      |||..||| 
+Human_Dnmt3a   21465 TAATTTTGAGTTTAGCTTTGTGAAAGTTGTAGTGATGGGCTATAAGATGA  21514
+
+MusMusculus_D  10675 ---------------GGTTAATGTT--------------------AGACC  10689
+                                    ||||..||||                    |..||
+Human_Dnmt3a   21515 TCAGGTTCAGTCTTTGGTTGCTGTTCTGTTTTTTCTCTACATTTGAATCC  21564
+
+MusMusculus_D  10690 TTCTG----------------------------------AATGAACAGTT  10705
+                     |...|                                  |.|.|||| ||
+Human_Dnmt3a   21565 TAAAGTTTAAAGTGTGAGTTTTGGGAGTTTATTTGGAATACTAAACA-TT  21613
+
+MusMusculus_D  10706 GATT-----TAATTGGTTT-----------------CATCAG--------  10725
+                     ||||     |||.|..|||                 ||.|.|        
+Human_Dnmt3a   21614 GATTAATCATAAATTATTTTGAAACTCCGCGTTATGCAACTGTTTATTTA  21663
+
+MusMusculus_D  10726 -TATTGGCTATAGAGG--TGTC---------TATTCAAAAAGAATTAAAA  10763
+                      |||||...||||.||  .|||         ||..||..|.|.|.|||.|
+Human_Dnmt3a   21664 ATATTGAAAATAGTGGAAAGTCAGACATAAATAACCAGCATGTACTAACA  21713
+
+MusMusculus_D  10764 G--GAACAATATA------GC------------------AGTAGAGT---  10784
+                     |  .|.||..|||      ||                  ||.|.|||   
+Human_Dnmt3a   21714 GCTAAGCAGCATAAGAGATGCATTCTTCAACTACTGCCAAGGAAAGTGAT  21763
+
+MusMusculus_D  10785 -----ATTAAATGATAGTATTGC--------------CTATTTAA-----  10810
+                          |||.||||||....||||              ||.|.|||     
+Human_Dnmt3a   21764 GATAAATTTAATGATTAAGTTGCAGTAGTCTTCTGTACTTTATAACAAAG  21813
+
+MusMusculus_D  10811 -ATTATAGCTCCCAGGT-TTGTAG--------------------------  10832
+                      .||.|||||.|.|.|| ||||||                          
+Human_Dnmt3a   21814 GCTTGTAGCTACAAAGTCTTGTAGCTATTAAATTACTGAACCAGCACTTC  21863
+
+MusMusculus_D  10833 ----------------------TCAAAAGT-----------GGTTAGGAT  10849
+                                           |.||||||           ||||.|..|
+Human_Dnmt3a   21864 TACAAGAAGTATTTTCTTTTTATAAAAAGTATTTTTGGCCAGGTTGGTCT  21913
+
+MusMusculus_D  10850 TGA------GG---CAGACTGTC--------------------AATGATT  10870
+                     |||      ||   ||..|.|||                    |.||.|.
+Human_Dnmt3a   21914 TGAACTCCTGGCCTCAAGCAGTCCTCCCATCTTTTCCTCCCAAAGTGCTA  21963
+
+MusMusculus_D  10871 G-----------------------------------GAAGT---------  10876
+                     |                                   |||||         
+Human_Dnmt3a   21964 GGATTACAGGCACGAGCCACCTTGCCCAGCCTACCAGAAGTATTTTTTTG  22013
+
+MusMusculus_D  10877 -------------AGTGATGTCA----TC-------AAATTCAG------  10896
+                                  ||||.|.|||    ||       ||.|||.|      
+Human_Dnmt3a   22014 CTCTAGAATTGAAAGTGTTCTCAAGTGTCAGAATGAAATTTCTGGAATAA  22063
+
+MusMusculus_D  10897 --------------------------------------------------  10896
+                                                                       
+Human_Dnmt3a   22064 ATAGTAAATGTTTAATAACTTGAACTTGAATTGCTGTTACAGAGATTATC  22113
+
+MusMusculus_D  10897 -------------TCCTTT-------------------------------  10902
+                                  ||||.|                               
+Human_Dnmt3a   22114 AAAACTAAATGCTTCCTGTTTTTGACATAGAGATGCATGATGCAAGCAAC  22163
+
+MusMusculus_D  10903 ----------------------------------------------CGTG  10906
+                                                                   ||||
+Human_Dnmt3a   22164 GACAATGTATATTTGTTTGAACCTGATGATAAGATCTCTGGCTGGGCGTG  22213
+
+MusMusculus_D  10907 TTAG----------------------------------------------  10910
+                     .|||                                              
+Human_Dnmt3a   22214 GTAGTTCATGCCTATAATCCCAGCACTTTGGGAGGCAACATGGCAAAACT  22263
+
+MusMusculus_D  10911 ------CTAC----------------------------------------  10914
+                           ||||                                        
+Human_Dnmt3a   22264 CTGTCTCTACTAAAAATACTAAATTTAGCTGGGCATGGTGGCATGTACCT  22313
+
+MusMusculus_D  10915 -------------------------------------AGATTG-ACCT--  10924
+                                                          .|.||| ||||  
+Human_Dnmt3a   22314 GTAATCCCACCTACTCAAGAGGCGGAGGCAGGAGGATCGCTTGAACCTGG  22363
+
+MusMusculus_D  10925 -------AAGTTTTAGAATTCACCACTG----------------------  10945
+                            |.|||..||....|.||||||                      
+Human_Dnmt3a   22364 GAGGCAGAGGTTGCAGTGAGCGCCACTGCACTCCAGTCTGGGTGGCAGAG  22413
+
+MusMusculus_D  10946 -----------------AAG--AGAATACT-TGATATTT----------T  10965
+                                      |||  |||.|.|| ||||||||          |
+Human_Dnmt3a   22414 TGAGAGTCTATCTCAGAAAGAAAGATTTCTATGATATTTAATATTGGCAT  22463
+
+MusMusculus_D  10966 TAAGTTTTTA-------------------------------GAAACA---  10981
+                     |..||.||.|                               ||||||   
+Human_Dnmt3a   22464 TCGGTATTCAGTTACCTTGTACCTGAGAACCCATTGGCTGTGAAACAGTG  22513
+
+MusMusculus_D  10982 -----------------------------------------------TAC  10984
+                                                                    |.|
+Human_Dnmt3a   22514 ACAGCTGAGAGAATCCTGAGTCATCTCATTTCTAGTTCTTGGTGAACTTC  22563
+
+MusMusculus_D  10985 TGG-CTTGTCTTAAGTA---------------------------------  11000
+                     ||| |||.||||.||.|                                 
+Human_Dnmt3a   22564 TGGACTTTTCTTCAGAACCACCTTGCCATGTTGGCCAGGCTGGTCTTGAA  22613
+
+MusMusculus_D  11001 ----TGTC------------------CCTT---------------TGGG-  11012
+                         ||.|                  ||||               |||| 
+Human_Dnmt3a   22614 CTCCTGACCTCTCAGGTGATCCAACACCTTGGCCTCTTAAAGTGCTGGGA  22663
+
+MusMusculus_D  11013 ------------------------------------TTTTTCTAGGTTGT  11026
+                                                         |||||.|.|||| |
+Human_Dnmt3a   22664 TTACAGGCATGAGCCACCATGCCTGGCCAGCTGTTTTTTTTGTTGGTT-T  22712
+
+MusMusculus_D  11027 GATTTTTTTTTT--------------------------------------  11038
+                     |.|||||.||||                                      
+Human_Dnmt3a   22713 GTTTTTTGTTTTGGTACCCATCTGTAGTGTGATCTTGGCTCACTGCAACC  22762
+
+MusMusculus_D  11039 --------------------------------------------------  11038
+                                                                       
+Human_Dnmt3a   22763 TCTGCCTCTTGGGCTCAGGCAGTCCTCCCACCTCAGCCTCCTGAGTAGCT  22812
+
+MusMusculus_D  11039 -------------------------------------TTTTTGCTTT---  11048
+                                                          |||||||.||   
+Human_Dnmt3a   22813 GGGCCTCCTGTAGTTGCACACCACCAAGCCTGGCTAATTTTTGCATTTTT  22862
+
+MusMusculus_D  11049 --------------------------------------------------  11048
+                                                                       
+Human_Dnmt3a   22863 AGTAGACAGGGTTTCACCATGTTGCCCAGGCTGGTCTCAAATTCCTGAGC  22912
+
+MusMusculus_D  11049 ----GTAAT-----------------------------------------  11053
+                         ||.||                                         
+Human_Dnmt3a   22913 TGAAGTGATCTGCCCGCCTCAGTCTCCCAAAGTGTAGGGATTACAGGCGT  22962
+
+MusMusculus_D  11054 -----ACTTTGCCTAGACTT----------------------TAAACATT  11076
+                          ||..|||||||.||.                      ||.||||.
+Human_Dnmt3a   22963 GAGCCACCATGCCTAGCCTCAGCATATAGTTTTTTCTAAATGTACACATG  23012
+
+MusMusculus_D  11077 CTCA--CTCA-----------AATTC---------------------TGA  11092
+                     |.||  |.||           |||||                     ||.
+Human_Dnmt3a   23013 CCCAGGCACACATGCACAGGCAATTCAGAATAAGTTTCTGGTGTTTATGT  23062
+
+MusMusculus_D  11093 AAC--------CTAAATAGGGCTGACCCACAGGCTGA-------------  11121
+                     |||        |.||||..|||..||.|..|.|||||             
+Human_Dnmt3a   23063 AACTTTATTTGCCAAATCTGGCCAACTCTAAAGCTGATCTCGGGAGATGA  23112
+
+MusMusculus_D  11122 ----GGAGGCAACACTGGCCATAAAG--------TATTTAAGCC-ATTTA  11158
+                         |||.|.||||.||||||||..|        |.|||..|.. ||||.
+Human_Dnmt3a   23113 AGTTGGAAGTAACATTGGCCATATGGGTCTCTGTTCTTTCTGTTGATTTC  23162
+
+MusMusculus_D  11159 ATTAAGGAAACTCATGCTA-------------------------------  11177
+                     .|||||.||| |.||||||                               
+Human_Dnmt3a   23163 CTTAAGTAAA-TAATGCTAAACTATTAAATAATTATTAGTATATTGTTCA  23211
+
+MusMusculus_D  11178 -------------------------------TGAGTTAATTCTGTAT---  11193
+                                                    |.|.|||..||||..|   
+Human_Dnmt3a   23212 CATTTTTATGACTGATTAAAGTGTTTGGAATTAAATTACATCTGAGTATA  23261
+
+MusMusculus_D  11194 --TTTTC------------CTTT----------------------GTAAA  11207
+                       |||||            ||||                      |||.|
+Human_Dnmt3a   23262 AATTTTCTTGGAGTCATATCTTTATCTAGAGTTAACTCTCTGGTGGTAGA  23311
+
+MusMusculus_D  11208 ATGAAAAATA----TTTAACT------GAAGAAATGAAATTTGTTTAATT  11247
+                     ||||||||||    ||.||||      ..|||.||..|||||.||.|..|
+Human_Dnmt3a   23312 ATGAAAAATAGATGTTGAACTATGCAAAGAGACATTTAATTTATTGATGT  23361
+
+MusMusculus_D  11248 CTATAAA--GTTAACATTTCTTTACCA----TTTTTTTCCTCCTTTACAG  11291
+                     ||||.||  |||....||.|||.||||    |.|||||..|..|||.|||
+Human_Dnmt3a   23362 CTATGAAGTGTTGTGGTTCCTTAACCACATTTCTTTTTTTTTTTTTCCAG  23411
+
+MusMusculus_D  11292 GCTATTCAAGATCTCTGGCAGTGGAGGAAATCTCTTTAAGAAAAGGGTTT  11341
+                     |||||||||||||||||||||||||||||.||||||||||||||..||||
+Human_Dnmt3a   23412 GCTATTCAAGATCTCTGGCAGTGGAGGAAGTCTCTTTAAGAAAATAGTTT  23461
+
+MusMusculus_D  11342 AAACAGTTTG-----AAATATTCTGTC----TTCATTTCTGTAATAGTTA  11382
+                     |||||.||||     ||||.|||.|||    |||||||||||||.||||.
+Human_Dnmt3a   23462 AAACAATTTGTTAAAAAATTTTCCGTCTTATTTCATTTCTGTAACAGTTG  23511
+
+MusMusculus_D  11383 ATATCTGGCTGTCCTTTTTATAATGCAAAGTGAGAACTTTCCCTACTGTG  11432
+                     |||||||||||||||||||||||||||.||||||||||||||||||.|||
+Human_Dnmt3a   23512 ATATCTGGCTGTCCTTTTTATAATGCAGAGTGAGAACTTTCCCTACCGTG  23561
+
+MusMusculus_D  11433 TTTGATAAATGTTGTCCAGGTTCACTTGCCAAGAATGTGTTGTCTAAAAT  11482
+                     |||||||||||||||||||||||..|||||||||||||||||||.|||||
+Human_Dnmt3a   23562 TTTGATAAATGTTGTCCAGGTTCTATTGCCAAGAATGTGTTGTCCAAAAT  23611
+
+MusMusculus_D  11483 GCCTGTTTAGTTTTCAAGGATGGAACTCCACCCTTTACTTGGTTTTAAGT  11532
+                     ||||||||||||||.||.||||||||||||||||||.|||||||||||||
+Human_Dnmt3a   23612 GCCTGTTTAGTTTTTAAAGATGGAACTCCACCCTTTGCTTGGTTTTAAGT  23661
+
+MusMusculus_D  11533 ATGTATGGAATGTTATGATAGGACATAGTAATA---GTGGTCAGATGTGG  11579
+                     ||||||||||||||||||||||||||||||.||   |||||||||..|||
+Human_Dnmt3a   23662 ATGTATGGAATGTTATGATAGGACATAGTAGTAGCGGTGGTCAGACATGG  23711
+
+MusMusculus_D  11580 AAATGGTAGGGAGAC--AAATATACATGTGAAAT-AAACTCAGTATTTTA  11626
+                     |||||||.|||||||  ||||||||||||||||| |||||||||||||||
+Human_Dnmt3a   23712 AAATGGTGGGGAGACAAAAATATACATGTGAAATAAAACTCAGTATTTTA  23761
+
+MusMusculus_D  11627 ATAAAGTAGCACTGTTTCTA----  11646
+                     ||||||||||||.|||||||    
+Human_Dnmt3a   23762 ATAAAGTAGCACGGTTTCTATTGA  23785
