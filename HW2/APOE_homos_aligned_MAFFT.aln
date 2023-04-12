@@ -1,0 +1,1679 @@
+CLUSTAL W 2.0 multiple sequence alignment
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 70
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 70
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 70
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 70
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 70
+NW_018151423.1:Pogona_vitticeps              --------------------GCAAATGATGCGGG------------------------------------ 70
+NC_030683.2:Xenopus_tropicalis               ------------------------GTGATGCCAG------------------------------------ 70
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 70
+NC_007130.7:Danio_rerio                      ---------------AGAACGACTGCGATCCAAGCAGTAT------------------------------ 70
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 70
+NC_000073.7:Mus_musculus                     CATCAACAGCTGGGAACAGGGAACCTTGTGCAGGCAGTGCTTCTAGCAAGCTTGCTGTGGTCTCTGAGCC 70
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 140
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 140
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 140
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 140
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 140
+NW_018151423.1:Pogona_vitticeps              ---------------------------GATGACT------CTTGCTGA---------------------- 140
+NC_030683.2:Xenopus_tropicalis               ------------------------------GGTT------AATTCTGAGG-------------------- 140
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 140
+NC_007130.7:Danio_rerio                      -----------------------AAATAACAGCT------CTTTCCAA---------------------- 140
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 140
+NC_000073.7:Mus_musculus                     CCTTGTCCTACCTGACTTCCCAGGTACAATGGCTTTCCCACTTTTTGGGGGTTTTGTTGTTGTTGGGTTT 140
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 210
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 210
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 210
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 210
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 210
+NW_018151423.1:Pogona_vitticeps              ----------------CTCTGCCAATCCTGCCGCCTCCTTTTTCCT------------------------ 210
+NC_030683.2:Xenopus_tropicalis               -------------AGGTTAAGATTGCTCAGCAGACTTCGTTCCCT------------------------- 210
+NW_005819514.1:Latimeria_chalumnae           ------------------------CGCTGGCAGAGCT--------------------------------- 210
+NC_007130.7:Danio_rerio                      ------------------AGGACTTCCTTACAGAGCCCATCTGTCT------------------------ 210
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 210
+NC_000073.7:Mus_musculus                     TTTTTTGTTTTTCAAGACAGGGTTTCTCTGTGTAGTCCTGTCGGTCCTGGAACTCACTTTGTAGACCAGG 210
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    --------CTACTCA------------------------------------------------------- 280
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 280
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 280
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 280
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 280
+NW_018151423.1:Pogona_vitticeps              ---CTCTCTTCCCCAACCCCCCCCCCAT------------------------------------------ 280
+NC_030683.2:Xenopus_tropicalis               --------CCAGCCAAACTCTGCTATGTGTCATCTGCCTCAAGGTAC----------------------- 280
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 280
+NC_007130.7:Danio_rerio                      --GGTGTACTGTCCAAATACAATCATG--------------AAGTTT----------------------- 280
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 280
+NC_000073.7:Mus_musculus                     CTGGCCTCCAACTCAGAAATTCACCTGC---CTCTGCCTCCAAGTGCTGGGATTATGGGATTAAAGGCAT 280
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 350
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 350
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 350
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 350
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 350
+NW_018151423.1:Pogona_vitticeps              ---------------------------------------------------------------CATCACC 350
+NC_030683.2:Xenopus_tropicalis               ----------------------------------------------------------AAGAGCGTGACC 350
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 350
+NC_007130.7:Danio_rerio                      ----------------------------------------------------------GTGGCTGTAATT 350
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 350
+NC_000073.7:Mus_musculus                     GTGCCACCACGCCCAGCTGGCTTTTCCACTTTTTAGCCAGGACTTCATTCTATTACCTGAGCTCGGGATC 350
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 420
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 420
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 420
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 420
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 420
+NW_018151423.1:Pogona_vitticeps              ACCTCCTTTCCCACCAGCTGAGCTGTATATATAAGTCTGGAGAAAACAGCCTGGCTGAAAGACACTTTCT 420
+NC_030683.2:Xenopus_tropicalis               CTCCTGCTGCACAGCTGCCTCCCTGCACAT-TATATAAAGAGAGGGGAGCAGGG---------------- 420
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 420
+NC_007130.7:Danio_rerio                      GTTGCGCT-------------------------------------------------------------- 420
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 420
+NC_000073.7:Mus_musculus                     TTCCTGCCTCA--------GCTTTGCATAT---------------------------------------- 420
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 490
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 490
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 490
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 490
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 490
+NW_018151423.1:Pogona_vitticeps              GGGACCCAGCAGCAAAGAAGGTAAAGACAAAGAGAGAGAGAGAGC------------------------- 490
+NC_030683.2:Xenopus_tropicalis               AGATAGTATTGCTATTACAGGCAAGGTGAGAGAAGGAGGCTCAGC------------------------- 490
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 490
+NC_007130.7:Danio_rerio                      ------CGCCGTCATTTCAGGT------------------------------------------------ 490
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 490
+NC_000073.7:Mus_musculus                     GGCTAGCACTATAGACCCATGT---TCCAGTGAATGACTTATGGCTTGTCTTTTTTTTTTTTTTTTTTTT 490
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 560
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 560
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 560
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 560
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 560
+NW_018151423.1:Pogona_vitticeps              -------------------------------------------AAAGAAGGACATGTTG----TCTTGTT 560
+NC_030683.2:Xenopus_tropicalis               -------------------------------------------AAGGGAA-------------------- 560
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 560
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 560
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 560
+NC_000073.7:Mus_musculus                     TTTTTATGTGCATTAGTGTTTTGCCTGCATGTATGCCTTCGTGAGGGTAGCAGATCTTGGTGTTACAGTT 560
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 630
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 630
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 630
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 630
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 630
+NW_018151423.1:Pogona_vitticeps              GAGACTTGCTTTACAGAC-CGATGATGCACAGGCTTGGACACGCAGGCTGGGG----------------- 630
+NC_030683.2:Xenopus_tropicalis               --------------------AGTGGGATTAAGACAAGAAAGTGTAAGGCGGGG----------------- 630
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 630
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 630
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 630
+NC_000073.7:Mus_musculus                     GTGAGCTGCTGTGTGGGTGCTGCGATTTTGAACCTAGGTCCTGTGAAATGCAGTCAGTGCTCCTAACCTC 630
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 700
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 700
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 700
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 700
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 700
+NW_018151423.1:Pogona_vitticeps              ----------------------------------CGGATGGAAACAAGGGCAAAGTGTAGCTCTGGATTA 700
+NC_030683.2:Xenopus_tropicalis               ----------------------------------GGGTGAGAAACTAAACAGAGAAGTAACCACTCATGA 700
+NW_005819514.1:Latimeria_chalumnae           ----------------------------------------GGAAAAAAA--------------------- 700
+NC_007130.7:Danio_rerio                      ---------------------------------------AGGAAATAAACAACAATGCAAATTCCTTTG- 700
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 700
+NC_000073.7:Mus_musculus                     TGAGTCATCTCTCCAGCTCCTGCTCTTCTGCTTTTATGAGGAAAAAGAAAAGAGAAGTGGCTTGAGAGTG 700
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------------------------------------GCCCCAGCGGAGGTGA-- 770
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------GTAGAGCCCTATAACTGGAAGAG-- 770
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 770
+NW_020665249.1:Terrapene_carolina_triunguis  --------------------------------------------------------CAGCGA--GTGG-- 770
+NW_005843381.1:Alligator_sinensis            -------------------------------------------------TGCCCTGCAGCCGCCTCGG-- 770
+NW_018151423.1:Pogona_vitticeps              AGAAAGTTAGTCTTAAAGGGCATTTGGTGG---------------ACAACTTTTTTTAACCAGAGGG--- 770
+NC_030683.2:Xenopus_tropicalis               AA----------TGATAGAACATAGAGTAG---------------AATCTTCTCTAATGTTAGGAAAAGA 770
+NW_005819514.1:Latimeria_chalumnae           -----------------------------------------------------TCCCTGTTAAGAC---- 770
+NC_007130.7:Danio_rerio                      ----------------------------------------------CTTTTTTTACCTGTTATAACC--- 770
+NC_072417.1:Pan_troglodytes                  --------------------------------------------------------CAGCGGAGGTGA-- 770
+NC_000073.7:Mus_musculus                     GAAAAT-----------GCACATGCAGGGGTGCACACCTGCAGTCCCAGCATGCTACAGCAGAGGCAGAA 770
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 840
+NW_018344052.1:Phascolarctos_cinereus        --------------------------GGCCCCA------------------------------------- 840
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 840
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 840
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 840
+NW_018151423.1:Pogona_vitticeps              -----GAAGTTTAGAATTG--------ACTGTAGAATTTATCTTCAATTGATTCTGTCTGTGTGGCTGTA 840
+NC_030683.2:Xenopus_tropicalis               GACTGGGAGTTTAGAATCAG------AATCCAAATGTTTA---------------------------GTA 840
+NW_005819514.1:Latimeria_chalumnae           ----------TTGTCAGTA----------------ATTT------------------------------- 840
+NC_007130.7:Danio_rerio                      ---------TTTATAATTA----------------ATTTA---------------------------GCA 840
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 840
+NC_000073.7:Mus_musculus                     G----GACCTTTGTGGGTTAGAGGGCAGCCTGAGAATCTTATCTC------------------------- 840
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -------------------------------------------------------------AGGACGTCC 910
+NW_018344052.1:Phascolarctos_cinereus        -------------------------------------------------------------AGCCCGGGT 910
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------CCCGCCC 910
+NW_020665249.1:Terrapene_carolina_triunguis  -------------------------------------------------------------GGTTGGTGG 910
+NW_005843381.1:Alligator_sinensis            -------------------------------------------------------------AGCTGGTGC 910
+NW_018151423.1:Pogona_vitticeps              CAGGGTGAGCGAGATTCTTGCAACCCAAAGGAAATTCCATCTCCTCCACTTTTATTCCCTTCCCTGATTT 910
+NC_030683.2:Xenopus_tropicalis               AG--------GGTGTTTTT-----------------------------------------------ATTA 910
+NW_005819514.1:Latimeria_chalumnae           ----------GAGATTATT-----------------------------------------------ACTT 910
+NC_007130.7:Danio_rerio                      AACATTAATAGAGATT-TT-----------------------------------------------ATTT 910
+NC_072417.1:Pan_troglodytes                  -------------------------------------------------------------AGGACGTCC 910
+NC_000073.7:Mus_musculus                     ------AAAACAACTTTTTAAAATGTG----------------------CTCTGTAGGGGTAGCTCTTCC 910
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TTCCCCAGG--------------------------AGCCGGTGAGAAGCGCAGTCGGG-GGCACGGGGAT 980
+NW_018344052.1:Phascolarctos_cinereus        CCTACTCAGCCC-----------------------AGGAGAGGATCT---------------------CT 980
+NC_041732.1:Ornithorhynchus_anatinus         TCCCCTCCG--------------------------AGGAGGGCAACTCTATAACTAGGTCGAACGAGACT 980
+NW_020665249.1:Terrapene_carolina_triunguis  CACTTTAGA---------------------------------------------------GCCCAGGACT 980
+NW_005843381.1:Alligator_sinensis            CTCCCCCGGCGC-----------------------------------------------CGCGCCGTACT 980
+NW_018151423.1:Pogona_vitticeps              TTCTTCTTCTCC--------------TCTTTTTCCAGAAGGAGCCGA-------TCGGTCAGTCATGAAG 980
+NC_030683.2:Xenopus_tropicalis               CTTTTTCTGCTT--------------ATTATAGACAGTAGGACC-----------CACTTCTTCATAGGA 980
+NW_005819514.1:Latimeria_chalumnae           TGTTCCTGGGCT--------------ATAAAAGGAGCGAA----------------------TTAAGGAT 980
+NC_007130.7:Danio_rerio                      CTCTTTTGGACC--------------AAATCATTTAAATG----------------------TTAGCATT 980
+NC_072417.1:Pan_troglodytes                  TTCCCCAGG--------------------------AGCCGGTGAGAAGCGCAGTCGGG-GGCACGGGGAT 980
+NC_000073.7:Mus_musculus                     CTCCCAAGGTGACACATCTGGCAATCGCCAGAAACAGATCAGGAGCATCAACGCTTGGTTTCCCAGGGCT 980
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GAGCTCAGGG-------------------------GCCTCTAGAAAG----AGC----------TGGGAC 1050
+NW_018344052.1:Phascolarctos_cinereus        CTGACTAACACAGAG------------------------------------------------------- 1050
+NC_041732.1:Ornithorhynchus_anatinus         TGGATCAGCA-------------------------CTTTCTCAGCGG----------------------- 1050
+NW_020665249.1:Terrapene_carolina_triunguis  AGGAGCCCAGCAGAG--------------------GT------------------------------GAG 1050
+NW_005843381.1:Alligator_sinensis            TAAGGCGCCGCCGGG--------------------ACCTCTGGGCTCAGACTCC----------CGGGAC 1050
+NW_018151423.1:Pogona_vitticeps              GCTTTCACCTTGCTTTTC--------GCGGCAGC-GCTATTGGGAGGTGAGTACCTAAACCCGATGGCAC 1050
+NC_030683.2:Xenopus_tropicalis               TGATTTAGCTTG----------------------------------------------------TGGATT 1050
+NW_005819514.1:Latimeria_chalumnae           GGACTCAGTCAG----------------------------------------------------TAGCAG 1050
+NC_007130.7:Danio_rerio                      TTTTTCAGCACT----------------------------------------------------TCGAAC 1050
+NC_072417.1:Pan_troglodytes                  GAGCTCAGGG-------------------------GCCTCTAGAAAGATGTAGC----------TGGGAC 1050
+NC_000073.7:Mus_musculus                     TGGCTTAATGTATGGCTTCAAACCCATCGGGAGCCACCACTGAACAGCTCCTGA----------AGGAAC 1050
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    CCTGGGAACCCCTGGCCTCCAGG----------------------------------------------- 1120
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 1120
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 1120
+NW_020665249.1:Terrapene_carolina_triunguis  GGCAGGGGGCACTGG-------------------------------------------------AGAGAC 1120
+NW_005843381.1:Alligator_sinensis            TGCCCGTCGTCTCCG-------------------------------------------------AGGAGC 1120
+NW_018151423.1:Pogona_vitticeps              CCTAAAGATCCCAAATCTAG----------------TCTTTAAGGACAGTAAAGTTCGTCTTTAAGGAAC 1120
+NC_030683.2:Xenopus_tropicalis               GGCAGTTATTATTTATTGAGATCTAACAAGAGTTCTTTTTTCATTACATGAA-------TATAAAGAAGA 1120
+NW_005819514.1:Latimeria_chalumnae           CGCGGGGAGCAAAGAGGCAG---------------------------------------CATAAGAGGGT 1120
+NC_007130.7:Danio_rerio                      TACATTGATTACATTGACAGTTTTATTGACTGTCTTTCTTTAAGAACTTGATG-----CTATAAATGCGC 1120
+NC_072417.1:Pan_troglodytes                  CTTGGGAAGCCCTGGCCTCCAGG----------------------------------------------- 1120
+NC_000073.7:Mus_musculus                     TGGAGCACGTCCCAGCCTTGGAATGGAAAGAGTTCACCTGTGGTGGAGGAAT----CAACAACGAGGGAT 1120
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    --------------------------------------TAGTCTCAGGA--GAGCTACTCGGGGTCGGGC 1190
+NW_018344052.1:Phascolarctos_cinereus        --------------------------------------GAAGGCCCAGC--TGACCAGCCCAGGCCAAGG 1190
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------AGCCCCGGGA--CGTCTGGCCGAGGTGAGGA 1190
+NW_020665249.1:Terrapene_carolina_triunguis  ACCCTAAG------------------------------GAGTAACGGGT--GGTGCAGCCCAGAGGAGAA 1190
+NW_005843381.1:Alligator_sinensis            CTGCGAAG------------------------------GAGGTGCGCCG--CGCCGCGCCGGGGCCGGGC 1190
+NW_018151423.1:Pogona_vitticeps              ATCCAGATGTGGGTCCTCCCTTCG-----CCCCTATCTGGATGCTCCTTAAAGGCTAGCTTTGCTGGAAA 1190
+NC_030683.2:Xenopus_tropicalis               ACAATGAAGCTGATGATCCTCTTG-----CTCACGCTTGGGCTCCT---------------------GGC 1190
+NW_005819514.1:Latimeria_chalumnae           AAAC---------------------------------------------------------------TGG 1190
+NC_007130.7:Danio_rerio                      TAACAAACACTGTTGCTGCTTGT------------TGTAAACTGTTCAT-----------------ATAA 1190
+NC_072417.1:Pan_troglodytes                  --------------------------------------TAGTCTCAGGA--GAGCTACTCGGGGTCGGGC 1190
+NC_000073.7:Mus_musculus                     CCCAGAACAACGATCTTCACCCCAGAAGCTGAGCCTCTTAGCCCCCACC--CACCCATTTCCATTTAGGC 1190
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TTGGGGA------------------------------------GAGGAGGAGCGG--------------- 1260
+NW_018344052.1:Phascolarctos_cinereus        TAAAGGA------------------------------ACCCCAGGGGACAGGCTGT-------------- 1260
+NC_041732.1:Ornithorhynchus_anatinus         TGGGGGATCTTT-------------------------GGACGGGAGGGGAAGGGGC-------------- 1260
+NW_020665249.1:Terrapene_carolina_triunguis  GGGTGAG------------------------------GGGCAGGGGCAGTGGTAGT-------------- 1260
+NW_005843381.1:Alligator_sinensis            GTGTTGG------------------------------AGCCGGGACACGGGGTGGT-------------- 1260
+NW_018151423.1:Pogona_vitticeps              ATTCAGTCGGCTGCATGAT------------TCGGAGAGTCTGAGGGGGGGCTTTCTTTTGGGGGGT--- 1260
+NC_030683.2:Xenopus_tropicalis               AGGTAAGTACCTTAATGGTG----------GAACAATATTCAGAAGGAAATATACGTTGTTCTAA----- 1260
+NW_005819514.1:Latimeria_chalumnae           AGAAAAATGTTTGAGTATC--------------TGCGTGTCTGATGGAGAAAT----------------- 1260
+NC_007130.7:Danio_rerio                      AATGAAACAACTAAATTCT--------------CAAGGTTTTTGGGGACAACTTAATTGTTTTATGT--- 1260
+NC_072417.1:Pan_troglodytes                  TTGGGGA------------------------------------GAGGAGGAGCGG--------------- 1260
+NC_000073.7:Mus_musculus                     TGCCAGCTCTTTTCTTTACAATGCACCAGACCCCGCGGGGAAAGGGAAGGAGCGGTTCTCAGTGCCCCAG 1260
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----------------------------------------------GGGTGAGGCAAGCAGCAGGGGAC 1330
+NW_018344052.1:Phascolarctos_cinereus        -----------------------------------------GAGGATGGGTGAATAGAAATACAGGCTTG 1330
+NC_041732.1:Ornithorhynchus_anatinus         ------------------------------------------TTGGCGGGAGGATGGAGAAACGGGGGCT 1330
+NW_020665249.1:Terrapene_carolina_triunguis  --------------------------------------------GGTGGGAGGGGCTGGGGATTGGAGCC 1330
+NW_005843381.1:Alligator_sinensis            --------------------------------------------GGAGCCGTGGAGTGGGTGCTGGGGCC 1330
+NW_018151423.1:Pogona_vitticeps              --------------------------ATGACCATACCCAGAATCCCCCAGCCACCATGGGTGTTGTAGTC 1330
+NC_030683.2:Xenopus_tropicalis               ----------------------------------ACTCAGATTTGGTAGTTAAGTTGATTTCCCAGGGTT 1330
+NW_005819514.1:Latimeria_chalumnae           ----------------------------------AATAAAAATCATTAATAAAATTGGG--TACACAATT 1330
+NC_007130.7:Danio_rerio                      --------------------------ACATGC-CAATTAAATTTGTCAAAACAATTAAGATATCTTAATC 1330
+NC_072417.1:Pan_troglodytes                  -----------------------------------------------GGGTGAGGCAAGCAGCAGGGGAC 1330
+NC_000073.7:Mus_musculus                     TACCAAGGCCTGGATTATTCAATGAGGTGTCCGCTCCCTTTGTTGGCGGGGGAGGGGAGCGGGGGGTCAC 1330
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TGGAC----------------------------------------------------------------- 1400
+NW_018344052.1:Phascolarctos_cinereus        GGGAGCCTTGGACTCGCCTCAAACCAGCCGCGAATTGGCTCCTTGCCTTGCAGCAGCTTCAGTGTTCCCA 1400
+NC_041732.1:Ornithorhynchus_anatinus         CAGAC----------------------------------------------------------------- 1400
+NW_020665249.1:Terrapene_carolina_triunguis  GTGAGGAGGC------------------------------------------------------------ 1400
+NW_005843381.1:Alligator_sinensis            GGGACACGGG------------------------------------------------------------ 1400
+NW_018151423.1:Pogona_vitticeps              TCCAAAAGGGACTTCCCC----------------------------------------------CTGAGT 1400
+NC_030683.2:Xenopus_tropicalis               --------------------------------------------------------------------GG 1400
+NW_005819514.1:Latimeria_chalumnae           --------------------------------------------------------------------GA 1400
+NC_007130.7:Danio_rerio                      --------------------------------------------------------------------GA 1400
+NC_072417.1:Pan_troglodytes                  TGGAC----------------------------------------------------------------- 1400
+NC_000073.7:Mus_musculus                     AAGGCATCCAAACTC--------------------CACCTCTTTCCTCTG----------------CCCT 1400
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -CTGGGAAGGGCTGGGCAGCA------------------------------------------------- 1470
+NW_018344052.1:Phascolarctos_cinereus        TCTGTGGGCTGTGGATAAAGACTGCTCCGGCTCTGACATTCTATGTCA---------------------- 1470
+NC_041732.1:Ornithorhynchus_anatinus         -CTGTG--GAGCAAGAACACA------------------------------------------------- 1470
+NW_020665249.1:Terrapene_carolina_triunguis  -TGGTGAGGGGCAGGCT----------------------------------------------------- 1470
+NW_005843381.1:Alligator_sinensis            -GTGCTGGGGGCGGNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN 1470
+NW_018151423.1:Pogona_vitticeps              TCTGTGATGAGCG--------------------------------------------------------- 1470
+NC_030683.2:Xenopus_tropicalis               TTTGGGTTG------------------------------------------------------------- 1470
+NW_005819514.1:Latimeria_chalumnae           TCTGC----------------------------------------------------------------- 1470
+NC_007130.7:Danio_rerio                      TTTGTGTTG------------------------------------------------------------- 1470
+NC_072417.1:Pan_troglodytes                  -CTGGGAAGGGCTGGGCAGCA------------------------------------------------- 1470
+NC_000073.7:Mus_musculus                     GCTGTGAAGGGGGAGAGAACAACCCGCCTCGTGAC----------------------------------- 1470
+                                                *                                                                  
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 1540
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 1540
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 1540
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 1540
+NW_005843381.1:Alligator_sinensis            NNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNN 1540
+NW_018151423.1:Pogona_vitticeps              ---------------------------------------------------------------------- 1540
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------------------------------- 1540
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 1540
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 1540
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 1540
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 1540
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------GAGACGACCCGACCCGCT------------AGAAGGTGGGGTGGG---- 1610
+NW_018344052.1:Phascolarctos_cinereus        ------------------ATGCACATAGTGGGGAAAGCTGCATT-------TGGAGTGAGGTCCTGGGT- 1610
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------GCGAGGTTGCGACCAAGA------------GCAAGGAGGATCAGAGG-- 1610
+NW_020665249.1:Terrapene_carolina_triunguis  ------------------TTGGGGCCGGTGGGGTGCAGCCCAG--------AGGAGAAGGGTGAGGGGC- 1610
+NW_005843381.1:Alligator_sinensis            NNNNNNNNNNNNNNGGGGCCGGGTGCGGCGGGGGTGGGGGTTG--------TGGAGCCGGGACACGGGG- 1610
+NW_018151423.1:Pogona_vitticeps              -----TTACCCAACAGAGAGAGGATCTGTCTTGTCAGGCATAGC-------AGAGGTTGGGGCAAAGAA- 1610
+NC_030683.2:Xenopus_tropicalis               -------TCAGATATGTAACTTGACATTTATTGCCC------------------ATTGGAAGTGTA---- 1610
+NW_005819514.1:Latimeria_chalumnae           ------------------AGTGATTCTGTAGTAT--------------------ACCTACAGTGAA---- 1610
+NC_007130.7:Danio_rerio                      -------GGACAACAAGAAGGAATTGTGTGGAACCCA---------------GGATTTACAGTGAATAT- 1610
+NC_072417.1:Pan_troglodytes                  ---------------------GAGACGACCCGACCCGCT------------AGAAGGTGGGGTGGG---- 1610
+NC_000073.7:Mus_musculus                     ------------------AGGGGGCTGGCACAGCCCGCCCTAGCCCTGAGGAGGGGGCGGGACAGGGGGA 1610
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 1680
+NW_018344052.1:Phascolarctos_cinereus        ------------------------------------------TCAAATGTCACCTCC------------- 1680
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 1680
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 1680
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 1680
+NW_018151423.1:Pogona_vitticeps              CAGTGACAATCAGTGTCGTCTTTGTATCTTTTTGTTCTGATCTTAATGAACGTTTAC---TCCAGTCTGG 1680
+NC_030683.2:Xenopus_tropicalis               -------AGTAAG------------------------TGGGCTAGTGGGCTGCT---------------G 1680
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 1680
+NC_007130.7:Danio_rerio                      TCCACACACTAAAGAATATTTGTG-----CTCCGTTTTGACTTTGCAGGCTGCC---------------A 1680
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 1680
+NC_000073.7:Mus_musculus                     GTCCTATAATTGG----------------------ACCGGTCTGGGATCCGATCCCCTGCTCAGACCCTG 1680
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------------------------GAGAGCAGCTGGACTGGGATGTAAGCCATA 1750
+NW_018344052.1:Phascolarctos_cinereus        ------------------------------GCTGC----TTAAACCTGTTTGACATGGGGCTAGTCACTT 1750
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------CCAGGACAGACAGG----TGACAGAAGCTGGATAGAAGCTCAGATCGCG 1750
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------------------------AGTGGTAGCAGTGGGAGGGGCT-------- 1750
+NW_005843381.1:Alligator_sinensis            ----------------------------------------TGCTGCAGCCGGGGTGGGGGTT-------- 1750
+NW_018151423.1:Pogona_vitticeps              GAGGC--GGTTCTTGGTGTTTTCTAGCATGGCCAT------CAGAAAAAAAAATAGCAAATTTTATCACA 1750
+NC_030683.2:Xenopus_tropicalis               AAAA-------------------------------------ACAAGAACCAGTTTGGATACCGTAGTAGA 1750
+NW_005819514.1:Latimeria_chalumnae           -----------------------------------------ATAAGGAAAAGATTGTTTACTAATTT--G 1750
+NC_007130.7:Danio_rerio                      GGGGC--GATTCCTG----TTTCAGGATGAGCCAAGAAGCCGCTGGGAAGAGGCCGTGGATCAGTTCTGG 1750
+NC_072417.1:Pan_troglodytes                  ----------------------------------------GAGAGCAGCTGGACTGGGATCTAAGCCATA 1750
+NC_000073.7:Mus_musculus                     GAGGCTAAGGACTTG----TTTCGGAAGGAGCTGG----TAAGACAAGCTGGGCTGGGGATTCACCCAGG 1750
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCAGGACTCCACGAGTTGTCACTATCATTTATCGAGCACCTACTGGGTGTCCCCAGTGTCCTCAGATCT- 1820
+NW_018344052.1:Phascolarctos_cinereus        AC---------------------CTCATCTGTAGAATGATGAC-----------AGTTTCCTTCATCTA- 1820
+NC_041732.1:Ornithorhynchus_anatinus         AC-------------------------------------------------------------------- 1820
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 1820
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 1820
+NW_018151423.1:Pogona_vitticeps              GC-------------------ACATGAT------------------------------------------ 1820
+NC_030683.2:Xenopus_tropicalis               AA-------------------TCATTTT------------------------------------------ 1820
+NW_005819514.1:Latimeria_chalumnae           AA-------------------GCATGAT------------------------------------------ 1820
+NC_007130.7:Danio_rerio                      AA-------------------CCATGTTT----------------------------------------- 1820
+NC_072417.1:Pan_troglodytes                  GCAGGACTCCACGAGTTGTCACTATCATTTATCGAGCACCTACTGGGTGTCCCCAGTGTCCTCAGATCT- 1820
+NC_000073.7:Mus_musculus                     GA-----------------------CCTTGGTAGGATGTGGGCTGGGAACCTTGAGATCCCCCGGAGTCC 1820
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ------------CCATAACTGGGGAGCCAGGGGCAGCGACAC---------------------------- 1890
+NW_018344052.1:Phascolarctos_cinereus        ------GCCAATCCCAGATCCTAAGAGCAGCAGCTCCTGTAA---------------------------- 1890
+NC_041732.1:Ornithorhynchus_anatinus         ------------------CAGAGGGACCGGAGGAAAGAAGG----------------------------- 1890
+NW_020665249.1:Terrapene_carolina_triunguis  ------GGGGGTTGCAGCCTCGAGGAG--GCTGGAAAGGTAC---------------------------- 1890
+NW_005843381.1:Alligator_sinensis            ------CTGGAGCCGGGACACGGGGTGCTGCAGCCGGGGTGG---------------------------- 1890
+NW_018151423.1:Pogona_vitticeps              ACGAGCTGGTG--TAAGGTTGGGAGGAGAGGTGAGAACAGAT--------------------ACATAGGT 1890
+NC_030683.2:Xenopus_tropicalis               -------GGTGTCCAGAATGTCTAGAATAGGCACAGGCA-------------------------ACTGGT 1890
+NW_005819514.1:Latimeria_chalumnae           --------GCATTTAATATTTAGAAAATA----------------------------------------- 1890
+NC_007130.7:Danio_rerio                      CTGAACTGACCACTAGAGCTGAGGAAATGA--------------------------------------GG 1890
+NC_072417.1:Pan_troglodytes                  ------------CCATAACTGGGGAGCCAGGGGCAGCGACAC---------------------------- 1890
+NC_000073.7:Mus_musculus                     AGGAAACAGGCACAAGAATTGGAAAAGCAGGCAGCACGATAGAAGTCTTGGGGGACAAACTAAGGACTCG 1890
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -GGTAGCTAGCC---------------------------------------------------------- 1960
+NW_018344052.1:Phascolarctos_cinereus        -------TATCCCTTACAGGGG------------------------------------------------ 1960
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 1960
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 1960
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 1960
+NW_018151423.1:Pogona_vitticeps              AAGAACAATCCTATTGTATTGGCCCCAGTTATT------------------------------------- 1960
+NC_030683.2:Xenopus_tropicalis               AGCCATACACATGTTGCACTGGCCAGT------------------------------------------- 1960
+NW_005819514.1:Latimeria_chalumnae           ------GTCATTTCTATTTGGTGCGTT------------------------------------------- 1960
+NC_007130.7:Danio_rerio                      GACAACATCAAGGCCACTCAGCTCGGCA------------------------------------------ 1960
+NC_072417.1:Pan_troglodytes                  -GGTAGCTAGCC---------------------------------------------------------- 1960
+NC_000073.7:Mus_musculus                     AGGTAACTAGCCTTTGCCAGAGTCAGAGCAGGTGGAGGGGTTACCTCCAGGAAGGAGTACGGGACTGTCG 1960
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 2030
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 2030
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 2030
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 2030
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 2030
+NW_018151423.1:Pogona_vitticeps              ---------------------------------------------------------ATCTTTTCCTACT 2030
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------------------------------- 2030
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 2030
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 2030
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 2030
+NC_000073.7:Mus_musculus                     GTGCACGGCGTACCGGCTCAACTAGGAACCATCCTATGGCGAAAAAACTCGGGATGAGCCTTAGGCTGCT 2030
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------GTCGATTGGAGAACTTTAAAATGAGGAC--- 2100
+NW_018344052.1:Phascolarctos_cinereus        ----------------------------------------------AGACAGACTTCTGGACGGGACTC- 2100
+NC_041732.1:Ornithorhynchus_anatinus         ----------------------------------------------GGAGAGGGCTAAAGCCGGG----- 2100
+NW_020665249.1:Terrapene_carolina_triunguis  -------------------------------------------------AGGCTTTGGGGCAGG------ 2100
+NW_005843381.1:Alligator_sinensis            -------------------------------------------------GGGTTCTGGAGCCGGGAC--- 2100
+NW_018151423.1:Pogona_vitticeps              TTT------------------------------------ATGTTTCCAGTAGTGCTCACGCAGATGAGCC 2100
+NC_030683.2:Xenopus_tropicalis               --------------------------------------------------AGACTGGGGGTCAGTAGG-- 2100
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 2100
+NC_007130.7:Danio_rerio                      -------------------------------------------------GAGAATTAGAGTGAGTAAACG 2100
+NC_072417.1:Pan_troglodytes                  ---------------------------------------GTCGATTGGAGAACTTTAAAATGAGGAC--- 2100
+NC_000073.7:Mus_musculus                     TTTATATAAATACCTACTGATTTCCATCACAGTCCCCAAGTAACCCGGACTGGTTTCAAACTGTGGCTCC 2100
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---TGAATTAGCTCATAAA-----------------TGGAACACGGCGCTTAACTGTGAGGTTGGAGCTT 2170
+NW_018344052.1:Phascolarctos_cinereus        ---TGGCTGAGCAAGAGAA---------------GTAGAGACATAGGAGAGCCCACGGGATTGGGG---- 2170
+NC_041732.1:Ornithorhynchus_anatinus         ----GGGCGTCCCCCCAAA-----------------GTGCAGAGAGCGCCTCGGGGACATCTGGGGAATC 2170
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------------------------------CAGGGTGCAGCCCAGAGGAGTGGGAGGAT 2170
+NW_005843381.1:Alligator_sinensis            ----------------------------------------ACGGGGTGCTGCAGCCGGGGAGGAGACGCT 2170
+NW_018151423.1:Pogona_vitticeps              ATTTAACTCCCTCCTGCCCAGAA------TGCATTAGAAAATGCAGGAGTTTGCTTATATC--AAGTGCT 2170
+NC_030683.2:Xenopus_tropicalis               -TCTAGAAAATCTAGAAGTAAGAAAGGTCAATTGTAA-----GCAGTGAGTTATATATCAA---GGTTTA 2170
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------ATTGTAGTGCACTTTCGATAAA--------C 2170
+NC_007130.7:Danio_rerio                      CTTTGAAACATCTCAACAGAACAGAAAACAATATTGGAAATTGTAGTCTAGTGTCAAGAAAGAAGACTCA 2170
+NC_072417.1:Pan_troglodytes                  ---TGAATTAGCTCATAAA-----------------TGGAACACGGCGCTTAAATGTGAGGTTGGAGCTT 2170
+NC_000073.7:Mus_musculus                     TCATGGCTGAGCTCCCTAAGTTC----TGTAGTTGTGGGAGGGTACCACTTCGCAGGGATGGAGGACGAT 2170
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    AGAATGTGAAGGGAGA--ATGAGGAATGCGAGACTG-----------------------------GGACT 2240
+NW_018344052.1:Phascolarctos_cinereus        ------------------AACAAAGGACAGAAATCTCG---------------------------GGTCT 2240
+NC_041732.1:Ornithorhynchus_anatinus         TAGGGGCTATGGG-GA--AGGGGGAGGCCGACCCCG-----------------------------GATCC 2240
+NW_020665249.1:Terrapene_carolina_triunguis  GGATGGGGGGCAGCCC--AGAGGTGA---------------------------------------GGGCT 2240
+NW_005843381.1:Alligator_sinensis            GACGGGACAGGGGTGC--AGCGTGGGCCCCGCTCTGCCTCACCCCGCGCCCTGGCCTCTTCCCACAGGTG 2240
+NW_018151423.1:Pogona_vitticeps              TGTGGTGTGCAAGGAT--AATAAGGGGTTAAGGGTATTTTAAATGTGGAAG--------------GAGCT 2240
+NC_030683.2:Xenopus_tropicalis               TTGGGGGTATGGATAT--AGCATAGGGC--AAGCCATGCTTGTTACC----------------------- 2240
+NW_005819514.1:Latimeria_chalumnae           TTTGATATTTATGCTT--ATCATAA---------TATACTTTTCACCAAGT--------------G---C 2240
+NC_007130.7:Danio_rerio                      AATGGCGTTCAAATTC--TTTGCAG---------CACACTGATCTCTGACA--------------G---C 2240
+NC_072417.1:Pan_troglodytes                  AGAATGTGAAGGGAGA--ATGAGGAATGCGAGACTG-----------------------------GGACT 2240
+NC_000073.7:Mus_musculus                     TAAAAATCGTGTTAAATTAACACAAAATGGAAAGCA-----------------------------GGACT 2240
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GAGATGGAACCGGCGGTGGGGAGGGGGTGGG--------------------------------------- 2310
+NW_018344052.1:Phascolarctos_cinereus        GGGTGACAGCAAGGAATGCATGGGTCCTGAG--------------------------------------- 2310
+NC_041732.1:Ornithorhynchus_anatinus         TGGCGGGGGGGGACAGAGGTGAAGGGGAAGC--------------------------------------- 2310
+NW_020665249.1:Terrapene_carolina_triunguis  GAGGGGCAGGATTAGGGGTAGAGTGGATGCA--------------------------------------- 2310
+NW_005843381.1:Alligator_sinensis            GAGCCGCAGCCATGAGGGTCTGGACCGTGCT--------------------------------------- 2310
+NW_018151423.1:Pogona_vitticeps              GGGATAAAATTGGATGTGAAGGCAAATATGCATTTCTTCCTTTGGCAATGTTAT-CCCTCCAGGCATGTA 2310
+NC_030683.2:Xenopus_tropicalis               ---------CTGTCTATGTGTACATGTTAACTGTTTTGTCTTTTGTACCCCTTTATTCTGTAAAGTGCTG 2310
+NW_005819514.1:Latimeria_chalumnae           ATGAC-------TAGTTGTACTAAGGAGACTGTAACTTAATACTGAACTAT------------------- 2310
+NC_007130.7:Danio_rerio                      ATGATGGAGCTGCAAATGTACAGAGATGATCTGCACTCCAAACTGGCCCCTTACGCGCAGGAGAGAGCCC 2310
+NC_072417.1:Pan_troglodytes                  GAGATGGAACCGGCGGTGGGGAGGGGGTGGG--------------------------------------- 2310
+NC_000073.7:Mus_musculus                     TAGCCGGGAAGAAAGAGGAATGTAAGCTGGACCACCC--------------------------GCTGGCC 2310
+                                                              *                                                    
+
+NC_000019.10:Homo_sapiens                    ------GGGATGGAATTTGAACCCCGGGAGAGGAAGATGGAATTTTCTAT-GGAGGCCGACCTGG--GGA 2380
+NW_018344052.1:Phascolarctos_cinereus        --------AATGAAAAATGGGTGTGAAGGGTAGCAGC-----------ATCTGAGAACCCCCCAG--ATT 2380
+NC_041732.1:Ornithorhynchus_anatinus         ------TGGATGGGAT----GCCTGGGCAGAGGCCGGCTAAAGGT-------GTGTGTGATTTGG--GGG 2380
+NW_020665249.1:Terrapene_carolina_triunguis  ----GCCCAGAGGGGTAAGGGCTTTCCCAGGGACAGGGGTGGTTGGC-CTAGCAGACGGACCTGG----- 2380
+NW_005843381.1:Alligator_sinensis            ----GCTCGGAGCCGTGCTGCTGCTGGCGGG------------------TAAGAGCCCAGCCCGG----- 2380
+NW_018151423.1:Pogona_vitticeps              AATCTTTCAGTGCCACCTTTCGTACAACGA--ACAAA-----------GCTATGCTACCACCCAGTTAGG 2380
+NC_030683.2:Xenopus_tropicalis               TATGAATTGATGGCGCTATATAAATAA------------------------------------------- 2380
+NW_005819514.1:Latimeria_chalumnae           AGTACTTTACTGGAGCTTT--------------------------------------------------- 2380
+NC_007130.7:Danio_rerio                      AGAAGTTCAACGAAGATCTGCAGTTGTTGGTCACCAA-----------GCTCCGCACACACATGG--AGG 2380
+NC_072417.1:Pan_troglodytes                  ------GGGATGGAATTTGAACCCCGGGAGAGGAAGATGGAATTTTCTAT-GGAGGCCGACCTCG--GGA 2380
+NC_000073.7:Mus_musculus                     CTCTGTGAAGTGGAATTTGAACCCTAGGAGAGGGAGCTGGAATTTTTGGCAGCGGATCCACCCCG--GGG 2380
+                                                        *                                                          
+
+NC_000019.10:Homo_sapiens                    TGGGGAGATAAGAGAAGACCAGGAGGGAGTTAAATA------------------------GGGAATGGGT 2450
+NW_018344052.1:Phascolarctos_cinereus        AGGG------------------AAGGGAAATCGGCA----------GCCTTCGCACATCTAACAGCGGAC 2450
+NC_041732.1:Ornithorhynchus_anatinus         AGGGGATGAAGAAGAGACCCTCGAATTACTCCGACAC-------CCCCCCCCACTGTCCCCCGCATACAA 2450
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------------------------------CTTCCC------------ACATGC 2450
+NW_005843381.1:Alligator_sinensis            ----------------------------------------------CCCCCCCTGCCCGTGTGAACGCTT 2450
+NW_018151423.1:Pogona_vitticeps              AGACCAAAAAGCAAATGAATTAGCCAAATGCAGATTGAGGAA--------------AGCTTCTGGTAGAT 2450
+NC_030683.2:Xenopus_tropicalis               ----TAATAATAAGATCATTGAAACTGTAATAGAAAAAGTAA------------------TATAATAAAT 2450
+NW_005819514.1:Latimeria_chalumnae           ----GAAAAATCGGAATATT-------TATTATTAGTAGTAG---------------------------- 2450
+NC_007130.7:Danio_rerio                      AGGCGAAGGATCGTGTCACT-------GAATACACAGAGGAGCTC----------CGGACCATGGTGGAG 2450
+NC_072417.1:Pan_troglodytes                  TGGGGAGATAAGAGAAGACCAGGAGGGAGTTAAATA------------------------GGGAATGGGT 2450
+NC_000073.7:Mus_musculus                     TGCCGAGATAGCGAACTCGGCAAGGGGAGGTAAACA-------------------GACCTTTGGGAAGAG 2450
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TGGGGGCGGCTTGGTAAA------TGTGCTGGGATTAGGCTGTTGCAGATAATGCAACAAGGCTTGGAAG 2520
+NW_018344052.1:Phascolarctos_cinereus        CAGCTGGCCAGAGTCAGA---------------------------------------------------- 2520
+NC_041732.1:Ornithorhynchus_anatinus         TGGAGGCGATAAGGCGGG------------GAGATAAGGGGTTGGGAGACAATGGA-------------- 2520
+NW_020665249.1:Terrapene_carolina_triunguis  TGTGCACCCTAGCTTGTA---------------------------------------------------- 2520
+NW_005843381.1:Alligator_sinensis            CACGCGCCCAGTCCGGAG---------------------------------------------------- 2520
+NW_018151423.1:Pogona_vitticeps              CAGATAGGCAGTTTTTTT--CCCTCTTAAGGGTGCACTAATTCTAGCGAC----------GTCATCCGTG 2520
+NC_030683.2:Xenopus_tropicalis               CAG------------------------------------------------------------------- 2520
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 2520
+NC_007130.7:Danio_rerio                      CAGA-----------------------------------ACTCTGATGA--------------------- 2520
+NC_072417.1:Pan_troglodytes                  TGGGGGCGGCATGGTAAAT--GTTTGTGCTGGGATTAGGCTGTTGCAGATAATGGAACAAGGCTTGGAAG 2520
+NC_000073.7:Mus_musculus                     CGGGTGCTCTGTTTTGGAGATGTTTGTGATGGCTCACAGATCTGAGA----------------------- 2520
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCTAACCTGGGGTGAGGCCGGGTTGGGGCCGGG----CTGGGGGTGGGA--------------------- 2590
+NW_018344052.1:Phascolarctos_cinereus        -----------------------------------GCCTCAGGGTTCAA--------------------- 2590
+NC_041732.1:Ornithorhynchus_anatinus         ---------GGGGGAGAAGAGGTAAGGAGCTGGGAGCCTGGAGGTTGGG--------------------- 2590
+NW_020665249.1:Terrapene_carolina_triunguis  --TCCCCTGTGGGGGACCGATGG-----------------GGGGTGTTA--------------------- 2590
+NW_005843381.1:Alligator_sinensis            --CGACTCAGGAGACGCTGACGGG-------------ACAGGGGTGCAG--------------------- 2590
+NW_018151423.1:Pogona_vitticeps              TCTCATCTAGTGAAGGCCATTGCTTGGATGCTAAGG-------------------CAGTGTGACATAGCG 2590
+NC_030683.2:Xenopus_tropicalis               ------TAAAGAACAAATTGTTTCTGCGT-TGAAGGAGTTAGGGTA--------------AGACACAACT 2590
+NW_005819514.1:Latimeria_chalumnae           -------TAATAACAATGTGTACTTGAA------------------------------------------ 2590
+NC_007130.7:Danio_rerio                      ----GCTCAAGAACAAAGCTAACTCCTATGCCAAGAAATTAAGGAAACGATTTAACAAGGACATCCAGGA 2590
+NC_072417.1:Pan_troglodytes                  GCTAACCTGGGGTGAGGCCGGGTTGGGGCCGGG----CTGGGGGTGGGA--------------------- 2590
+NC_000073.7:Mus_musculus                     ---------AGGGAAGATGGGGTT-------------CTCTGGGTGGCC--------------------- 2590
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------GGAGTCC------------------------------------TCACT 2660
+NW_018344052.1:Phascolarctos_cinereus        ----------------------AGCCTGCCTC-------------------------------------- 2660
+NC_041732.1:Ornithorhynchus_anatinus         ----------------------GG---------------------------------------------- 2660
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------GGTCCCACCCTCCCTGCCCTCATTCAC-----------CTCAGCCCCT 2660
+NW_005843381.1:Alligator_sinensis            ----------------------CGTGGGCCCCGCTCTGCC-----TCAC-----------CCCGCGCCCT 2660
+NW_018151423.1:Pogona_vitticeps              GTTAAACAGCCTTCCCCACTCTGGCACCCTCCTGATGTTT-CAGTTTACAGGTACTGCCAAGAGACCCTC 2660
+NC_030683.2:Xenopus_tropicalis               ACCTTACA--------------GGTATCCTCTTGGCTGTT-GGGT------------------------- 2660
+NW_005819514.1:Latimeria_chalumnae           ------------------------------------------------------------------CTTT 2660
+NC_007130.7:Danio_rerio                      GATCAACA--------------AGTAAGTTGCTTGTTTTT-TGGTTCAC---------------TTCTAT 2660
+NC_072417.1:Pan_troglodytes                  ----------------------GGAGTCC------------------------------------TCACT 2660
+NC_000073.7:Mus_musculus                     ----------------------GGAGTCCCT--------------CCAC-----------CCCCGCCCCC 2660
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GGCGGTTG------------------------------------------ATTGACAGTTTCTCCTTCCC 2730
+NW_018344052.1:Phascolarctos_cinereus        ----------------------------------------------------CGAGGGTGCCTGCTCCTA 2730
+NC_041732.1:Ornithorhynchus_anatinus         GACAATTA------------------------------------------GTTCAATCCTCTTTCTTCCT 2730
+NW_020665249.1:Terrapene_carolina_triunguis  TCCT--------------------------------------------------------TCTCTCCCTG 2730
+NW_005843381.1:Alligator_sinensis            GGC----------------------------------------------------------CTCTTCCCA 2730
+NW_018151423.1:Pogona_vitticeps              TAATGCTGCA-------------------------------TAGGAATGAGGGAAGGGTAGCCAAAACCA 2730
+NC_030683.2:Xenopus_tropicalis               -AAAGTTG---------------------------------GCCAGAGTAAAAAGCTGTGTTTTTAGTTA 2730
+NW_005819514.1:Latimeria_chalumnae           AAAAGTTA-------------------------------------------------------TTAATTA 2730
+NC_007130.7:Danio_rerio                      AAAAGATACACATCCTTTCATAAATAAACATAACTCCACATGGAGGATGAGGAAATAATTACTTTAATTC 2730
+NC_072417.1:Pan_troglodytes                  GGCGGTTG------------------------------------------ATTGACAGTTTCTCCCTCCC 2730
+NC_000073.7:Mus_musculus                     TGGTGTTC------------------------------------------AAAGACAATTTTTCCCTCCG 2730
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    CAGACTGGCCAAT----------------------------------CACAGGCAGGAAGATGAAGGTTC 2800
+NW_018344052.1:Phascolarctos_cinereus        CAGGG------------------------------------------------CACGTCTTTGCAAGGCA 2800
+NC_041732.1:Ornithorhynchus_anatinus         C--ACAGACCAAT------------------------------------CAGGTTCAGCCATGAAACTCC 2800
+NW_020665249.1:Terrapene_carolina_triunguis  CAGGC-------------------------------------------AAAGCTGCAGCCATGAAGGTT- 2800
+NW_005843381.1:Alligator_sinensis            CAGGT-------------------------------------------GGAGCCGCAGCCATGAGGGTC- 2800
+NW_018151423.1:Pogona_vitticeps              TATACTGTATAGAGGACATTGGTTTGGGGAAAAGAGCATTTAGAATGTCAGAATAGGATGGTAGGAGAAT 2800
+NC_030683.2:Xenopus_tropicalis               TGGA----------------------------------------TTGTATAGGTAGAACTATAAAGAAA- 2800
+NW_005819514.1:Latimeria_chalumnae           TATA----------------------------------ATCAAACTAATCAAAAATAGCATTGACAA--- 2800
+NC_007130.7:Danio_rerio                      CACAT---------------------------GGATGCATTAAATTGTTCAAAAGTAACAGTAAAGAGAC 2800
+NC_072417.1:Pan_troglodytes                  CAGACTGGCCAAT----------------------------------CACAGGCAGGAAGATGAAGGTTC 2800
+NC_000073.7:Mus_musculus                     CAGACTGGCCAAT----------------------------------CACAATTGCGAAGATGAAGGCTC 2800
+                                                                                                          *        
+
+NC_000019.10:Homo_sapiens                    T--------------------------------------------------------------------- 2870
+NW_018344052.1:Phascolarctos_cinereus        C--------------------------------------------------------------------- 2870
+NC_041732.1:Ornithorhynchus_anatinus         T--------------------------------------------------------------------- 2870
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 2870
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 2870
+NW_018151423.1:Pogona_vitticeps              CTTCGCTAGCCATGGCCTCTCTAGATGACTCCAAAACTGCCACTGTATCTCAGGTTAAGCTACCTTGCAG 2870
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------------------------------- 2870
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 2870
+NC_007130.7:Danio_rerio                      TTCTAATAG------------------------------------------------------------- 2870
+NC_072417.1:Pan_troglodytes                  T--------------------------------------------------------------------- 2870
+NC_000073.7:Mus_musculus                     T--------------------------------------------------------------------- 2870
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 2940
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 2940
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 2940
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 2940
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 2940
+NW_018151423.1:Pogona_vitticeps              GGTTGTTGTGAAGAAAGAAGGAGCAGGAGGATCTCCCGAGAAGAAGGATAGGATAAAAAAGGGAAGAGGA 2940
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------------------------------- 2940
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 2940
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 2940
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 2940
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 2940
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------GTGGGCTGCGTTGCT-----GGTCAC------ATTCCTGGCAGGTATG- 3010
+NW_018344052.1:Phascolarctos_cinereus        ----------------------TGGACCACCCTTTT-----TGC---------TCCTCTGGCAAACAAG- 3010
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------GTGGGCGTTATTCGC-----TGTGGC------CCTCCTGGCAGGTATG- 3010
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------TGGATTGTGCTGCT-----CGGGGC---AACCCTGCTGGCAGGTAAA- 3010
+NW_005843381.1:Alligator_sinensis            ----------------------TGGACCGTGCTGCT-----CGGAGCCGTGCTGCTGCTGGCGGGTAAG- 3010
+NW_018151423.1:Pogona_vitticeps              AATGGGGAAGTCAGATCAAGAGAAGGTTGTTGTGGTTACATTGCCATCAAGTCCCTTCTGACTAGGGTGA 3010
+NC_030683.2:Xenopus_tropicalis               ---------------AAATGTATATGGTGTTGCACTTG---TGTAGGTAATTCTATGTTAG--AAAGA-- 3010
+NW_005819514.1:Latimeria_chalumnae           ---------------ACAAGTAAGGGATATTTTATT-----------TATTTATTTTTTAG--------- 3010
+NC_007130.7:Danio_rerio                      AGCAAAGATTCTATGGCAAATAAATGTTGTTCTTTT-----------CAACTTTTTGTTGATCAAAGAAC 3010
+NC_072417.1:Pan_troglodytes                  ---------------------GTGGGCTGCGTTGCT-----GGTCAC------ATTCCTGGCAGGTATG- 3010
+NC_000073.7:Mus_musculus                     ---------------------GTGGGCCGTGCTGTT-----GGTCAC------ATTGCTGACAGGTATG- 3010
+                                                                                                       *           
+
+NC_000019.10:Homo_sapiens                    --GGGGCGGGGCTTGCTCGGT---------------------------------------T-CCCCCCGC 3080
+NW_018344052.1:Phascolarctos_cinereus        --GGGTGTAGATAACCTAGGT---------------------------------------GGTTCTCTGC 3080
+NC_041732.1:Ornithorhynchus_anatinus         --TGGGGA--------------------------------------------------------CATCAC 3080
+NW_020665249.1:Terrapene_carolina_triunguis  --TGGCTCG-------------------------------------------------------TTCAGT 3080
+NW_005843381.1:Alligator_sinensis            --AGCCCAG-------------------------------------------------------CCCGGC 3080
+NW_018151423.1:Pogona_vitticeps              CTCACGTAAGGGTTTGTAAGGCTTGTTTGTGAGACGTTCAAGGAGAGGTTTGCCCTTGCCAACCCTGTGC 3080
+NC_030683.2:Xenopus_tropicalis               --TGGAGAAAA----GTGTAG-----TTATGGTAGAATAAGGTGCATACAT---------AAGTTAGTGA 3080
+NW_005819514.1:Latimeria_chalumnae           --TGGACAAGATTTTCTGCAG-----CCATGAAATTC--------------------------TTCAGCG 3080
+NC_007130.7:Danio_rerio                      TCTGAATAAAACATATCATGG-----TTATAAAATATT-----------------------AATAAAAAC 3080
+NC_072417.1:Pan_troglodytes                  --GGGGCGGGGCTTGCTCGGT---------------------------------------T-CCCCCCGC 3080
+NC_000073.7:Mus_musculus                     --GAGCAAGGACTTGCTGTGG-------------------------------------------TGCCGC 3080
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TCCTCCCCCTCTCATCCTCA------------------CCTCAACCTCCTGGCCCCATTCAGGC------ 3150
+NW_018344052.1:Phascolarctos_cinereus        TCTTTCC------------------AG-----------GTCTAGGATTCTCTTCAAGGTTGGAT------ 3150
+NC_041732.1:Ornithorhynchus_anatinus         CCCTCCATCGCCCCCGATGA------------------CCCCTCTATCCTTGCCCC-------------- 3150
+NW_020665249.1:Terrapene_carolina_triunguis  TCATCTTCCCCACCAGGGCAGGGTTAGAAAC----TCCCCTTGGGGTGTCGATCAGGAGTAACCCCATTG 3150
+NW_005843381.1:Alligator_sinensis            CCCCCCTGCCCGTGTGAACG------------------CTTCACGCGCCCAGTCCGGAGCGACT------ 3150
+NW_018151423.1:Pogona_vitticeps              TTTTCCAGGACTAGAGACCAGGATTTGAACCCAGGTTTCCTGGATAC---------------CAGTCTGA 3150
+NC_030683.2:Xenopus_tropicalis               TTTTTTGGGCTTAATAGATGTGAATGTAATAGTTGAATATGGAATATATCAGCTGTCAACTGTAGTGTAT 3150
+NW_005819514.1:Latimeria_chalumnae           TGTTCTTGGCT----------------------------TTAAGTATTCTCGCAGGTAATGACTTTTTCA 3150
+NC_007130.7:Danio_rerio                      TTTTCTAGACTGATAAAA----AAATAAATAAATGATACTTGAGCAACCAAATCAGAAAGAAAATTTAGA 3150
+NC_072417.1:Pan_troglodytes                  TCCTCCCCCTCTCATCCTCA------------------CCTCAACCTCCTGGCCCCATTCAGGC------ 3150
+NC_000073.7:Mus_musculus                     TTTTTCTGCTCCTCTGTGGA------------------CTC---TATTCTAGCCCT-------------- 3150
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------AGACCCTGGGCCCCCTCT------------------------------------ 3220
+NW_018344052.1:Phascolarctos_cinereus        -----------------GATGTTGGGCAATTTCC-TTTGCCCCTCTGAGTAG---------GAGATAGGG 3220
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3220
+NW_020665249.1:Terrapene_carolina_triunguis  GAAT---------CATGGGGACTGGTTCCCCTTT-CACGCACCACGGTGT-----------AAATCAGCA 3220
+NW_005843381.1:Alligator_sinensis            -----------------------------------------CCGCGGGGC-----------AAAGCCGGA 3220
+NW_018151423.1:Pogona_vitticeps              AACTCTGCCCATGAAACCACATCGGTTCTCATGGACATCAACATCAGAGGGAG----ATGTTTGTTGGGG 3220
+NC_030683.2:Xenopus_tropicalis               TTACATAATAGAGCAATAACTACTATACCAATATACATTTGCTTACTAATTTG----TGCTATATTAGTA 3220
+NW_005819514.1:Latimeria_chalumnae           GTACTTTCTCTTTTTCCTGGAGTCGGCATAATTCACACTTCCTCCAAAGTT------GAGCATGTTGAAA 3220
+NC_007130.7:Danio_rerio                      AACGATACTTGAGCAACCAAATTTAGAAAGATCTATGAGACACTGAAAACCTGA--AGAGTGACTGAAAA 3220
+NC_072417.1:Pan_troglodytes                  ----------------AGACCCTGGGCCCCCTCTTCTTCTGCTGGTCTGTCTTCCCCTTGAGAGGAAGGC 3220
+NC_000073.7:Mus_musculus                     -----------------------AGATCTCTTCT------GCTGGTGGGTT----------GAGGCTGAG 3220
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----TCT-------------GAGGCTTCTGTGCTGCTTCC-------------------------TGGC 3290
+NW_018344052.1:Phascolarctos_cinereus        TCATGTTT------ATCTAGCGGCACCCCTTGGGTCTTCTGGAGACAATGGAGGAGATTAGGATTTTGAA 3290
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3290
+NW_020665249.1:Terrapene_carolina_triunguis  GTGTGACCC----AGTGGGGAGGGGTCC------------------------------------------ 3290
+NW_005843381.1:Alligator_sinensis            GCGAGGCT-------------GGGGCCCGT---------------------------------------- 3290
+NW_018151423.1:Pogona_vitticeps              TTGAGTTCTTTGACCCGAGGAGAAAGTTCTGGGTAGATTGAATTCCTATGATGAACCAAGTTACTTTTCC 3290
+NC_030683.2:Xenopus_tropicalis               TTGTGTC-----ATTACAAAGGTAATTTGTAATTTGTTTGA---TCTGCCATGAATATTCTTTCTTT--- 3290
+NW_005819514.1:Latimeria_chalumnae           TCC---------------AAACTGAATGCTAAT-------A---TATGCAATAAAGCTATATTTATC--- 3290
+NC_007130.7:Danio_rerio                      TTTTGCTTAAAAGTAGTAAAACTGTTTTCTAA-------------ACATACTGAACATAATTTTTTT--- 3290
+NC_072417.1:Pan_troglodytes                  CCAGGTCT-------------GAGGCTTCTGTGCTGCTTCC-------------------------TGGC 3290
+NC_000073.7:Mus_musculus                     GCGGTTCT-------------GAGACCTCTCTGAGATTCAA-------------------------TAGC 3290
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TCTGAACAGCGATTT--GACGCTCTCTGGGCCTCGGTTTCC-----CCCATCCTTGAGATAGGAGTTAGA 3360
+NW_018344052.1:Phascolarctos_cinereus        TGGAAGAAATGGAATTCAGGACGTGGGAGGGCTTGAACTTTAGAATCCAAATTTGAGGAAAAGAGCAA-- 3360
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3360
+NW_020665249.1:Terrapene_carolina_triunguis  -------------------TGCCTGGGGACTGCTGGTTTCTA--TCCCCAGCTCTGGGAGGGGAGTGG-- 3360
+NW_005843381.1:Alligator_sinensis            ----------AGTTGTAGGGGCATGGGGACTCTTCCCTTCT-------------TGCACGCGGGGAAG-- 3360
+NW_018151423.1:Pogona_vitticeps              ACCCATCCCTAGTCTCCAATGTTTGGAGAAGTTCCTTTATT---TGATCTACACTGGCCATGGTTAAAGG 3360
+NC_030683.2:Xenopus_tropicalis               --------------CCAGGGGCCCAGGCCAGATCTCTCTTC---CGAGATGCACCAAAGACAAAATGGGA 3360
+NW_005819514.1:Latimeria_chalumnae           --------------TCAGATATTTGGG------------------------------------------T 3360
+NC_007130.7:Danio_rerio                      --------------TTACATTTCTGTGAGCATTCATTTTGT---TATCATGT-TTAGTTGAAAAATGACA 3360
+NC_072417.1:Pan_troglodytes                  TCTGAACAGCGATTT--GACGCTCTCTGGGCCTCGGTTTCC-----CCCATCCTTGAGACAGGAGTTAGA 3360
+NC_000073.7:Mus_musculus                     CCTGAGCAGCTGTTTTATATACTCTTTAGGCCTTGATTTCC-----CCTAACTATAAGA----------- 3360
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    AGTTG-TTTTGTTGTTG--TTGTTTGTTGTTGTTGTTTTGTTTTTTTGAGATGAAG---------TCTCG 3430
+NW_018344052.1:Phascolarctos_cinereus        --------------------------------------CAATGGGGAGAGCTTAAGATTTAGAA------ 3430
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3430
+NW_020665249.1:Terrapene_carolina_triunguis  --------------------------GGTCTGGTGGGTTAGTGCTGGGAGCCAGGAGTCCTGGGTTCTGT 3430
+NW_005843381.1:Alligator_sinensis            --------------------------GAAGCAGCAGCTCTGCACAAGGAGCCGAGAGCCCTGGGGTCCTG 3430
+NW_018151423.1:Pogona_vitticeps              TACTTGCAGGAGGCTTACACCATTTAGGAACATTGAGTTGTGAAAGAAGGT------------------- 3430
+NC_030683.2:Xenopus_tropicalis               GACTGCCCTGGATAGTTTCTGGCTAACAGTCAACAAAATGGAGGAGGCAGCTGATGAG------------ 3430
+NW_005819514.1:Latimeria_chalumnae           TACCG-TTTGGATATTGATTTATTA--------------------------------------------- 3430
+NC_007130.7:Danio_rerio                      AACTG-CATAGTTGCTGTATTGTCATACATCAACA----------------------------------- 3430
+NC_072417.1:Pan_troglodytes                  AGTTG-TTTTGTTGTTG--TTGT---TTGTTGTTGTTTTGTTTTTTTGAGATGAAG---------TCTCG 3430
+NC_000073.7:Mus_musculus                     --------------------------GGATTGATGGCTTAGTGGGTAAAGGTG----------------- 3430
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    CTCTGTCG--------------------------------------CCCAGGCTGG-------------- 3500
+NW_018344052.1:Phascolarctos_cinereus        ------------------------------TGCCCCAGGTATGGAACCTAGGCTCC-------CTAACAG 3500
+NC_041732.1:Ornithorhynchus_anatinus         --------------------------------------------TCCCCAGAGTG--------------- 3500
+NW_020665249.1:Terrapene_carolina_triunguis  CCCTAGCTCTGCTACT---GACTTGCTCATGACCCTGGGTGAGTCACTTAGGCTTTGTCTTCACTGTCAA 3500
+NW_005843381.1:Alligator_sinensis            CCCCAGCACAAGGAGCCGGGACTCTTGGGTCCTGCTGGAAACGACCTTCAGCCCTTGCCCTCATCAGCAA 3500
+NW_018151423.1:Pogona_vitticeps              ------------AATGAAAA------ATGAGCATGTTTGGGGAATGCAGCACCTGTGC------------ 3500
+NC_030683.2:Xenopus_tropicalis               -GCGAGAGCCAAAATGAAGG------ATTCACCAATCAGTAAAGAGCTGGAGTGA-GT------------ 3500
+NW_005819514.1:Latimeria_chalumnae           --------------------------ATTATACTACTGATAATTTTATAAGGTTA--------------- 3500
+NC_007130.7:Danio_rerio                      ------CCCCAAAATGGATGAGCAATATCACACAAGTAGCAGTGCGATGTGGCTGTAT------------ 3500
+NC_072417.1:Pan_troglodytes                  CTCTGTCGCCCAGGCTGGAGTGCA----------------GTGGCTCCCAGGCTGG-------------- 3500
+NC_000073.7:Mus_musculus                     -CTTATCATAAAGCTTGAAGACT------------------TAACTCTGAGACCA--------------- 3500
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ------------AGTGCAGTGGCGGGATC-------------------------------TCGGCTCAC- 3570
+NW_018344052.1:Phascolarctos_cinereus        AGATA-------AATGTAGTGAGGTTAGGAGTACAGAAT------------------------------- 3570
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3570
+NW_020665249.1:Terrapene_carolina_triunguis  AAGCCGGTGTGTTTTCCAATGGGAGAACCAACCCATGTTAGC-------TGTTACTATCAGTTGTTACC- 3570
+NW_005843381.1:Alligator_sinensis            GG---------------AATGGGGCGATCCGCCC--------------------------GCTTCTCCC- 3570
+NW_018151423.1:Pogona_vitticeps              ------GTGTGTGTGTGTGTGTGTGTGTGCGCGCGCGTGTGTGTGTGTGTGTGTGTGTGTGTGTTTCATA 3570
+NC_030683.2:Xenopus_tropicalis               ------ATTTCA----TAGGAGGGAGATCATCACATATCCTTGTGGCCATGATGCTGTGTGTATGCCAT- 3570
+NW_005819514.1:Latimeria_chalumnae           ------ATATCAATGGCGCGGTGAAAGTTG--------------------GAAAGTGCTGTTATCTTAA- 3570
+NC_007130.7:Danio_rerio                      ------ATATCAGCACTGGTGGAAGGCTTGCCGCAGGC-----------CGAGTGCCTTAGTGTCCCAG- 3570
+NC_072417.1:Pan_troglodytes                  ------------AGTGCAGTGGCGGGATC-------------------------------TCGGCTCAC- 3570
+NC_000073.7:Mus_musculus                     -------------ACATAGTGGAAGGA------------------------------------------- 3570
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------TGCAAGCTCCGCCTCCCAGGTCCACGCCATTCTC-------------- 3640
+NW_018344052.1:Phascolarctos_cinereus        -----------------------TTAGGGGGCAGCTGCTTCCCCTTATCTGTTGGTG------------- 3640
+NC_041732.1:Ornithorhynchus_anatinus         --------------------------------ACCCCCCCAATCCACCATAATCC--------------- 3640
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------ATCAGGCTGTAAAGGCCAAGCCAAGACTGT------------------ 3640
+NW_005843381.1:Alligator_sinensis            ----------------------CCCAGGCTGTAAACCCTGGCGCTGGGCTGTGTG--------------- 3640
+NW_018151423.1:Pogona_vitticeps              TATAGGGTTGTGAACGAGCAGGCCTTGGAACCAAAGCCCAAAGAGGTGATGCCCGGTTTCCAGGGCATCA 3640
+NC_030683.2:Xenopus_tropicalis               -------------------------------CTATATGCACTCACAGTGTGCTCTGTGCTT--GTTATAA 3640
+NW_005819514.1:Latimeria_chalumnae           ------------------------------TCAATAGCTGATAAAATTGTG------------------- 3640
+NC_007130.7:Danio_rerio                      -------------------------------CAATGACTGCTACGAGTGTGATTT--------------- 3640
+NC_072417.1:Pan_troglodytes                  ----------------------TGCAAGCTCCGCCTCCCAGGTCCACGCCATTCTC-------------- 3640
+NC_000073.7:Mus_musculus                     -------------------------GAGAGCCAATTCCCTCTAGAACTCTGACCT--------------- 3640
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 3710
+NW_018344052.1:Phascolarctos_cinereus        ------------GGAGTT---------------------------------------------------- 3710
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3710
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 3710
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 3710
+NW_018151423.1:Pogona_vitticeps              ACCAACATCTCAGGAATTAGTTGGACTTCCTCAGGTGTCCAGTTGACATTTGTGCAAGGGGACTTTCAAG 3710
+NC_030683.2:Xenopus_tropicalis               GCCAA----------------------------------------------------------------- 3710
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 3710
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 3710
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 3710
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 3710
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----------------CTGCCTCAGCCTCCCAAGTAGCTGGGACTACAGGCACATGCCACCACACCCGA 3780
+NW_018344052.1:Phascolarctos_cinereus        ---------------GACTGATGGGATTAGTGGGGGAAGATAGAAAAGAGAGGTGGTCACTGACTTCAGC 3780
+NC_041732.1:Ornithorhynchus_anatinus         -------------------------------------------------------TGCCACCACCCCCG- 3780
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------AATTTTGCCATGAGATCAACCAGCAGCAGGGTGCAGCACTGACCTGCC 3780
+NW_005843381.1:Alligator_sinensis            ------------------AGCCGCGCCCGCCCGGGGAGATGAGGAGATAAGGGTGCAGCATCGCCCT--- 3780
+NW_018151423.1:Pogona_vitticeps              TCCAGATGCCCAAGCGCCATCTATTCCTAGCTGGTGTGCTGGCTCGGTGGAAGGATTTTTGTGCGTGTAC 3780
+NC_030683.2:Xenopus_tropicalis               ---------------GCCAACTACTTTTGGCTAATAATTACATTATTCCATTACTTCTGGTTTTGTTAGC 3780
+NW_005819514.1:Latimeria_chalumnae           ------------------------------CAGACAGATTCGTTGCATTATTAGGTC------------- 3780
+NC_007130.7:Danio_rerio                      ---------------------TGCGTTTATATGACAGTTCGACAGCATAATCGTGT-------------- 3780
+NC_072417.1:Pan_troglodytes                  -----------------CTGCCTCAGCCTCCCAAGTAGCTGGGACTACAGGCACATGCCACCACACCCGA 3780
+NC_000073.7:Mus_musculus                     --------------------------------------CCAAGGGTACACACACACACACACACACACA- 3780
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    CTAACTTTTTT--------------GTATTTTCAGTAGAGACGGGGTTTCACCATGTTGGCCAGGC--TG 3850
+NW_018344052.1:Phascolarctos_cinereus        CAGAC----------------------------------------CTCTCTCTGCCCTAGTCAGAC---- 3850
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3850
+NW_020665249.1:Terrapene_carolina_triunguis  TAGCTACCTCC--------------TGGTAAACAGTCCAGGTGCCTTGTCTCCAACAGGATCGTACAGCA 3850
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 3850
+NW_018151423.1:Pogona_vitticeps              TGTATTCAGTTCACCAAGAAGGCCAGAGTGAGGGGAAGGGACTGGGAGTGTCATTCCTG----------- 3850
+NC_030683.2:Xenopus_tropicalis               TATAT--------------------AAATAAATAGGAGAAATAATGTATGTCCAGTTTT----------- 3850
+NW_005819514.1:Latimeria_chalumnae           --------------------------------------------CTGATATCGATTTCT----------- 3850
+NC_007130.7:Danio_rerio                      -----------------------------------------------GTATCTTTTTTC----------- 3850
+NC_072417.1:Pan_troglodytes                  CTAACTTTTTT--------------GTATTTTTAGTAGAGACGGGGTTTCACCATGTTGGCCAGGC--TG 3850
+NC_000073.7:Mus_musculus                     ------CACAC--------------ACACACACAATAAAAA----------------------------- 3850
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GTCTGGAACTCCTGACCTCAGGTGATCTGCCCGTTT---------CGATCTCCCAAAGTGCTGGGATTAC 3920
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------CGATCACCAGCTGTGCTGTGAAGAT 3920
+NC_041732.1:Ornithorhynchus_anatinus         --------TCCCCCATTCCAACCCCGTCGCCCCCAC---------CCACCTCCCA--------------- 3920
+NW_020665249.1:Terrapene_carolina_triunguis  GGCTGGCAATCCCTATTGTGTGTTAGTTATTGCACTGTAAAAACACCACCTCTTGCTGTGAGGACACAGC 3920
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------CCACCCCCTGCAGCCAAGGGGCAGC 3920
+NW_018151423.1:Pogona_vitticeps              ---------------------------------------------TTGTGCTCTATGGAACAGGGCCAGC 3920
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------CAGTAAGGTATTGGTTAAGCTCAG- 3920
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------CCATTACGTTTCG------------ 3920
+NC_007130.7:Danio_rerio                      ---------------------------------------------CCACTAGCTTTTAA----------- 3920
+NC_072417.1:Pan_troglodytes                  GTCTGGAACTCCTGACCTCAGGTGATCTGCCCGTTT---------CGATCTCCCAAAGTGCTGGGATTAC 3920
+NC_000073.7:Mus_musculus                     ----------------------------------GT---------TGATTTCTTA--------------- 3920
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----------------------------AGGCGTGAGCCACCGCACCTGGCTGGGAGTTAGAGGTTT-- 3990
+NW_018344052.1:Phascolarctos_cinereus        GAAGCTCCT----------GTGGACCTTATGGGCATTGGCAGCCCTCTTGACTGG--------------- 3990
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 3990
+NW_020665249.1:Terrapene_carolina_triunguis  CCCAACCCTTCCATGGCTTGTGCCTCACACAGCTTGTCTGGTCTCTTTTGACTGG--------------- 3990
+NW_005843381.1:Alligator_sinensis            CTGGACCCC------------------------------------------------------------- 3990
+NW_018151423.1:Pogona_vitticeps              GCCAGCCCT------------------TATGATCCTTCTTGTCACACAAGATTTGAAGGCACAGGATAAC 3990
+NC_030683.2:Xenopus_tropicalis               -------------------------------------GCCATGTTGTGTG-TCAGGGAGTAAATATTTAA 3990
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------TCAAAACAATAATAAAGGA 3990
+NC_007130.7:Danio_rerio                      ---------------------------------------GGTATTGTGACTTTTGAGGATCAATAATTGC 3990
+NC_072417.1:Pan_troglodytes                  -----------------------------AGGCGTGAGCCACCGCGCCTGGCTGGGAGTTAGAGGTTT-- 3990
+NC_000073.7:Mus_musculus                     ----------------------------------------GTTGCTCTTAAAAGTGGGGTATACATT--- 3990
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----------CTAATGCATTGCA--GGCAGATAGTG--------------------------------- 4060
+NW_018344052.1:Phascolarctos_cinereus        ------------TATGCCCTCTC----------------------------------------------- 4060
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 4060
+NW_020665249.1:Terrapene_carolina_triunguis  ------------TAAACCCTTTCG--GGGAGGGACTGTCTCCTACTGTG--------------------- 4060
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 4060
+NW_018151423.1:Pogona_vitticeps              ATTTGAGGGAACTGAACTCTCCAACAGACAGGTGGCATGTCTTCCAGAAGACACATAGGCTTGGAAAAAA 4060
+NC_030683.2:Xenopus_tropicalis               GTGTGATCCTATTGAGGTTT------------TGGCAT-TAACCCAGCAGAACCGCACATTC-------- 4060
+NW_005819514.1:Latimeria_chalumnae           AAATGAACTCTTTATACT---------------------------------------------------- 4060
+NC_007130.7:Danio_rerio                      ATATACCCTCGGTATACTC--------------------------------------------------- 4060
+NC_072417.1:Pan_troglodytes                  -----------CTAATGCATTGCA--GGCAGGTAGTG--------------------------------- 4060
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 4060
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------AATACCAGACACGG---GGCAGCTGTGATCTTTATTCTCCATCACCCCCACACA 4130
+NW_018344052.1:Phascolarctos_cinereus        --------------------------------------CCTGGACCTCTG---CGTTCCTGCTCTCCGCT 4130
+NC_041732.1:Ornithorhynchus_anatinus         --------------------------------------CTATGACCACCGCTCTGTGCCCTCTCCCCCCA 4130
+NW_020665249.1:Terrapene_carolina_triunguis  ------TGTTTTGTACAATGCCTGACACAATGAGGT--CCCCGATCCCTG------TCAGGATCTGCAGC 4130
+NW_005843381.1:Alligator_sinensis            ---------------------------------GGC--CCATGATGCC---------CTGGCTCTGTGCA 4130
+NW_018151423.1:Pogona_vitticeps              ATCTCTTCCTTTGTAGGATGTAAACCCTAGTAGGAA--TGGTGATCATGTTTGCAACTGCTGGACCCATT 4130
+NC_030683.2:Xenopus_tropicalis               -----------------------------------------------------------CTGAAAACATA 4130
+NW_005819514.1:Latimeria_chalumnae           -----------------------------------------------------------------TCATT 4130
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------ACTTGTT 4130
+NC_072417.1:Pan_troglodytes                  ----------------AATACCAGACACGG---GGCAGCTGTGATCTTTATTCTCCATCA-CCCCACACA 4130
+NC_000073.7:Mus_musculus                     --------------------------------------TTCTAATTCCACACCTGCCTAGTCTCGGCTCT 4130
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCCCTGCCTGGGGC-ACACAAGGACACTCAATACATGCTTTTCCGCTGGGCGCGGTGGCTCACCCCTGTA 4200
+NW_018344052.1:Phascolarctos_cinereus        GTCCAGCATCAGTCTTCCCTCTCCCCCTCAATATCTGCCC---CAGCGGCCCCTTTAATCTGTCCCCCTT 4200
+NC_041732.1:Ornithorhynchus_anatinus         GGCTTTTCTGAG--------AGGTTACACAGTGT--------------GGCACCTCACAACGCCCCTGTG 4200
+NW_020665249.1:Terrapene_carolina_triunguis  GCCCGGCATGAC--------GGGGCCCCCGATCT---------CGGTGGG----------GGTCTGTGCA 4200
+NW_005843381.1:Alligator_sinensis            GCCCCATGCACC--------AGCCTCTCCCGT-----------------------------GTCTGTGCA 4200
+NW_018151423.1:Pogona_vitticeps              CTGCAGCGTAACAG------CTTTTTCCCCCTGGCCTTTAAT------------------TACCACTTTA 4200
+NC_030683.2:Xenopus_tropicalis               TCTCAGCACAATAT------ACCCTACTTACTCCTTTCTCCC------------------AATCTCTGTG 4200
+NW_005819514.1:Latimeria_chalumnae           GTGCAGTAAAAAAA------AGTTAAGTTTATA---ATTTTT------------------GCACATTTTA 4200
+NC_007130.7:Danio_rerio                      TTGCTGCTTAAACG------TCCCTAATTTATGTGTATTCAC------------------ATCCTCTTTA 4200
+NC_072417.1:Pan_troglodytes                  GCCCTGCCTGGGGC-ACACAAGGACACTCAATACATGCTTTTCCGCTGGGCGCGGTGGCTCACCCCTGTA 4200
+NC_000073.7:Mus_musculus                     GAACTACATAGG--------ATACAAGACAGTGCATGCTTGT---------------------------- 4200
+                                                                            *                                      
+
+NC_000019.10:Homo_sapiens                    AT-CCCAGCACTTTGGGAGGCCAAGGTGGGAGGATCACTTGAGCCC------------------AGGAGT 4270
+NW_018344052.1:Phascolarctos_cinereus        AA-TCTTTCACTCTGT----------TCTCATTCCCACTGTCTCCT------------------CCCTTT 4270
+NC_041732.1:Ornithorhynchus_anatinus         GC-CCCAG-----------------------------TTTCAGCCC------------------GGCCCT 4270
+NW_020665249.1:Terrapene_carolina_triunguis  GCGCCTGGCA---TGACGGGGC---------------------CCC------------------CGATCT 4270
+NW_005843381.1:Alligator_sinensis            GC-CCTGGTG---TGGGGGGCCAGG------------GCTCAGCCC------------------CCTGCT 4270
+NW_018151423.1:Pogona_vitticeps              CT-----------TGGTAGGCCAGG-CTTTGTCTAGATTCTAGCC-------------------CCATTT 4270
+NC_030683.2:Xenopus_tropicalis               CC-----------CTTACCCCGTAC-TATTGCTTCTTCCCTAATCTACAAGCTACCCTCCCTGCTCTTTC 4270
+NW_005819514.1:Latimeria_chalumnae           AC------------------------------------------------------------------TT 4270
+NC_007130.7:Danio_rerio                      AC-----------TGTATACCAAAG-GTTTTTTTTT----------------------------TTTTTT 4270
+NC_072417.1:Pan_troglodytes                  AT-CCCAGCACTTCGGGAGGCCAAGGTGGGAGGATCACTTGAGCCC------------------AGGAGT 4270
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 4270
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TCAAC-ACCAGCCTGGGCAACATAGTGAGACCCTGTCTCTACTAAAAATACAAAAATTAGCCAGGCATGG 4340
+NW_018344052.1:Phascolarctos_cinereus        TCCAGGATCTGCCTG---------------TCCTTTCTCCA----------------------------- 4340
+NC_041732.1:Ornithorhynchus_anatinus         TCCATGACCACCCTCGTTCCCACGCCTTGTCCCTCTCCT------------------------------- 4340
+NW_020665249.1:Terrapene_carolina_triunguis  CCGTGGG--GGTCTGTGCAGC--------------------------------------GCCCGGCATGA 4340
+NW_005843381.1:Alligator_sinensis            CCGTGGGTCAGCCTGGGTGG-------------------------------------------GACAATG 4340
+NW_018151423.1:Pogona_vitticeps              TCCTGAGCCACCTTG------------ATGCCCCTT---------------------------------- 4340
+NC_030683.2:Xenopus_tropicalis               TCCCATCTTCCCCTC------------CTCCTCTTCCTCCTCCAT--------------GTTCAGTCAAA 4340
+NW_005819514.1:Latimeria_chalumnae           TCATATGTTCTC---------------------------------------------------------- 4340
+NC_007130.7:Danio_rerio                      TTACAAGTCCCCT--------------------------------------------------------- 4340
+NC_072417.1:Pan_troglodytes                  TCAAC-ACCAGCCTGGGCAACATAGTGAGACCCTGTCTCTACTAAAAATACAAAAATTAGCCAGGCATGG 4340
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 4340
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TGCCACACACCTGTGCTCTCAGCTACTCAGGAGGCTGAGGCAGGAGGATCGCTTGAGCCCAGAAGGTCAA 4410
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 4410
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 4410
+NW_020665249.1:Terrapene_carolina_triunguis  CG-------------------------------------------------------------------- 4410
+NW_005843381.1:Alligator_sinensis            GG-------------------------------------------------------------------- 4410
+NW_018151423.1:Pogona_vitticeps              ---------------------------------------------------------------------- 4410
+NC_030683.2:Xenopus_tropicalis               GGCCAC-TACCAAT-----------------------------------------------AACTACCAT 4410
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 4410
+NC_007130.7:Danio_rerio                      -----------------------------------------------------------------AGTTG 4410
+NC_072417.1:Pan_troglodytes                  TGCCACACACCTGTGGTCTCAGCTACTCAGGAGGCCGAGGCAGGAGGATCGCTTGAGCCCAGAAGGTCAA 4410
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 4410
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GGTTGCAGTGAACCATGTTCAGGCCGCTG------CACTCCAGCCTGGGTGACAGAGCAAGACCCTGTTT 4480
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 4480
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 4480
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 4480
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 4480
+NW_018151423.1:Pogona_vitticeps              -----------------------------------TCCTGCAAACAG----------------------- 4480
+NC_030683.2:Xenopus_tropicalis               GATTGCAATATTCCAGGTT---AATACTAAGCTTATACTGGAACTCA----------------------- 4480
+NW_005819514.1:Latimeria_chalumnae           -----------------------CTTTTGAGGTT-TACTAGA---------------------------- 4480
+NC_007130.7:Danio_rerio                      GGTTGGGATGGGTTGCATT---GCTATTGGGTTT-TACCACAGCTTA----------------------- 4480
+NC_072417.1:Pan_troglodytes                  GGTTGCAGTGAACTATGTTCAGGCCGCTG------CACTCCAGCCTGGGTGACAGAGCAAGACCCTGTCT 4480
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 4480
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ATAAATACATAATGCTTTCCAAGTGATTAAACCGACTCCCCCCTCACCCTGCCCACCATGGCTCCAAAGA 4550
+NW_018344052.1:Phascolarctos_cinereus        --------------------AACTTGCTAAGTC--CTCCCCACCCTCCTCTCCCACTCAGCCCCTGTGAG 4550
+NC_041732.1:Ornithorhynchus_anatinus         -----------------------------------CTCCCCCTCCACTCTCCCTG--------------- 4550
+NW_020665249.1:Terrapene_carolina_triunguis  --------------------GGGCCCCCGATCTCAGTCAGTCTGTGCAGGGCCAGCCAGGGATACGAGGC 4550
+NW_005843381.1:Alligator_sinensis            --------------------GAGCACCAGGTCCAGCCCATT----------GCAGCTGGGAGCCCTGATC 4550
+NW_018151423.1:Pogona_vitticeps              --------------------CCAACCTAGAAGCAGTTCCACTGCACCCAGATGTATTGG----------- 4550
+NC_030683.2:Xenopus_tropicalis               --------------------GTAACTCACAGCTC--------CCCCCAAGATTTAATGGATCTCAAATGA 4550
+NW_005819514.1:Latimeria_chalumnae           --------------------------------------------AACCACATTTACTATTTTGATTTTCA 4550
+NC_007130.7:Danio_rerio                      --------------------ATATACTA-AGCCA--------ATATCCGGGTCTGCTGGGGGCACTATTA 4550
+NC_072417.1:Pan_troglodytes                  ATAAATACATAACGCTTGTCAAGTGATTAAACCGACTCCCCCCTCACCCTGCCCACCATGGCTCCAAAGA 4550
+NC_000073.7:Mus_musculus                     ---------------------AGTATCTAAACAGACTCCACAGCCTCCAGACCCAC-------------- 4550
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    AGCATTTGTGGAGCACCTTCTGTGTGCCCCTAGGT--------------ACT------------------ 4620
+NW_018344052.1:Phascolarctos_cinereus        CTGGTTCCCTGGACACTC---------------------------------------------------- 4620
+NC_041732.1:Ornithorhynchus_anatinus         -----TTGGGAGTGACCCCTCCTGTCCCTCTG-------------------------------------- 4620
+NW_020665249.1:Terrapene_carolina_triunguis  TGGGTTAGATGGACACCGGGTCTGACCCCCCATGTGGCTC-----CAGGGCC------------------ 4620
+NW_005843381.1:Alligator_sinensis            CTGGTTGGGAGGGGTCTGCATCCAGTAGGACACGGGGAGC-----TGGGATC------------------ 4620
+NW_018151423.1:Pogona_vitticeps              TCCATCACTGGGACGTCACAAGGACCCATTTTATAAACTCAAGTTTAGGGCCTGAATATGAGGCCACAGG 4620
+NC_030683.2:Xenopus_tropicalis               CCCATTCCTTAAGCACTGTGCTGAT---CATTACATACT---GTACAGTACATACATGCAAAGCTTGCAA 4620
+NW_005819514.1:Latimeria_chalumnae           TCTGGTACTTAGATATTCAATGAGG---------------------------------------CAACAA 4620
+NC_007130.7:Danio_rerio                      TCTAAACATAATTCATTGAATAGGATTAGATTAT-----------CAGGATCTCACTTTAAAATTAACAA 4620
+NC_072417.1:Pan_troglodytes                  AGCATTTGTGGAGCACCTTCTGTGTGCCCCTAGGT--------------ACT------------------ 4620
+NC_000073.7:Mus_musculus                     -----TTCAAAGAGACCC---------------------------------------------------- 4620
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -------------------------------AGATGCCTGGACGGGGTCAGAAG---------------- 4690
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 4690
+NC_041732.1:Ornithorhynchus_anatinus         -----------------------------------GCCTTCAGGCTGCCAGGCA---------------- 4690
+NW_020665249.1:Terrapene_carolina_triunguis  -------------------------------ACAATGGCCTGGGTTACACAGGA---------------- 4690
+NW_005843381.1:Alligator_sinensis            -------------------------------CTGTCTGGGCGTGGCATACTGGG---------------- 4690
+NW_018151423.1:Pogona_vitticeps              ATACGATGGGCCTGGC----CAACAGAGCATTTGACCAACTCAAAAGATTGAGA------AAGGGTTCAG 4690
+NC_030683.2:Xenopus_tropicalis               GCAAAATGGAACTGCTGCTTCTTTATACCATAAAGCAAACACAGATATAGGAAATTATCCCTGAATTCTG 4690
+NW_005819514.1:Latimeria_chalumnae           ACTCCATCAAATG-------------------------ACTGTGAGAAATAAAA---------------- 4690
+NC_007130.7:Danio_rerio                      ATTTGTTTAAATATGTTTCATTTTTAAATGAATAGTTCACCCAAAAAAATAAAA---------------- 4690
+NC_072417.1:Pan_troglodytes                  -------------------------------AGATGCCTGGACGGGGTCAGAAG---------------- 4690
+NC_000073.7:Mus_musculus                     -----------------------------------------AAAAAGACTGTAG---------------- 4690
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 4760
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 4760
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 4760
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 4760
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 4760
+NW_018151423.1:Pogona_vitticeps              TTGTACCAGCATTGAGGAAAGGGGAAATGGCCCCAAGACATAACATAAGCATCATGAACCTGCTGCAACA 4760
+NC_030683.2:Xenopus_tropicalis               TT-------------------------------------------------TTGTGAGGCTACAATTGTA 4760
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 4760
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 4760
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 4760
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 4760
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----GACCCTGACCCAC----------CTTGAACTT--------------GTTCCACACAGGATGCCAG 4830
+NW_018344052.1:Phascolarctos_cinereus        -------------------------ATGTCCATGTAT--------------CTGCTCCTCAGGCTGCCGG 4830
+NC_041732.1:Ornithorhynchus_anatinus         -----GATCCTCTCCCTC---------------------------------------------------- 4830
+NW_020665249.1:Terrapene_carolina_triunguis  -----GGTCAGACTCGAC--TCTTGACCTGCAAACTC--------------TGGCCCTCCAGGCTGCCAG 4830
+NW_005843381.1:Alligator_sinensis            -----GCCTTCACCCCACGATCTCCATGTGTGCATGT--------------ATCCCCCACAGCCTGCCAG 4830
+NW_018151423.1:Pogona_vitticeps              T----GACACACTTCTTT--ATTTGATTACTTCCTGT--------------TCTGTCCTCAAACTGCCTC 4830
+NC_030683.2:Xenopus_tropicalis               TTGTTATTGTTACTATTT--ATTACTTATCT--------------------TTCTATTCCAGTCTCTCAC 4830
+NW_005819514.1:Latimeria_chalumnae           -----GTTTTAATTCTTT---CTCTTCGCCTCAGGGTCGCAGGCGCGTT--TCCTGTTTCATCCTGATCA 4830
+NC_007130.7:Danio_rerio                      -----ATTGTCATCATTT--ACTCAACATTTACTTGTTTCAAACCAGTTCGTCTTTTTTTAATCTGTTGA 4830
+NC_072417.1:Pan_troglodytes                  -----GACCCTGACCCAC----------CTTGAACTT--------------GTTCCACACAGGATGCCAG 4830
+NC_000073.7:Mus_musculus                     -----GTCCTGACCCAGC----------CTTAAACTT--------------ACTCTACACAGGATGCC-- 4830
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCCAA-----------------------------GGTGGAGCAAGCGGTGGAGACAGAGCCGGAGCCCGA 4900
+NW_018344052.1:Phascolarctos_cinereus        GGGGAAGA-----------------------TGCCAAGACTTCTTCAGAGGAGCAAGTTACAGAACCAGA 4900
+NC_041732.1:Ornithorhynchus_anatinus         ------------------------------------------------TGGATCAGGATCTGGGGCTTGG 4900
+NW_020665249.1:Terrapene_carolina_triunguis  GCCAACCC-----------------------GCTCGTCAACCCGCTTGTCCAGGATGAGCCCAAGACTAA 4900
+NW_005843381.1:Alligator_sinensis            GCT--------------------------------------------------GAGGAGACCAAGGCCAA 4900
+NW_018151423.1:Pogona_vitticeps              TCAGCATCACTCCTAAAAATGTGCTTTTGTCCTCTGAGAATTTACT--CCGAACATACTCTGTGACCCGA 4900
+NC_030683.2:Xenopus_tropicalis               TCACCAC--------------------------------------------------------------- 4900
+NW_005819514.1:Latimeria_chalumnae           TC-------------------------------------------------------------------- 4900
+NC_007130.7:Danio_rerio                      ACACAAAG-------------------------------------------------------------- 4900
+NC_072417.1:Pan_troglodytes                  GCCAA-----------------------------GGTGGAGCAAGTGGTGGAGACAGAGCCGGAGCCCGA 4900
+NC_000073.7:Mus_musculus                     ---------------------------------------------TAGCCGAGGGAGAGCCGGAGGTGAC 4900
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCTGCGCCAGCAGACCGAGTGGCAGAGCGGCCAGCGC--------------------------------- 4970
+NW_018344052.1:Phascolarctos_cinereus        ACTCTG---------GAACTCGGAGCCAGCTCAGGCC--------------------------------- 4970
+NC_041732.1:Ornithorhynchus_anatinus         G---------------GCTGGGAACACTCAGCAGCCA--------------------------------- 4970
+NW_020665249.1:Terrapene_carolina_triunguis  G--------------------------------------------------------------------- 4970
+NW_005843381.1:Alligator_sinensis            G--------------------------------------------------------------------- 4970
+NW_018151423.1:Pogona_vitticeps              G------------GGGATGCCACAAACTGACCAGTCCACCCACCTTCAGCATGACGGGTCTCGCTTTTTG 4970
+NC_030683.2:Xenopus_tropicalis               ---------------------------TGCCTGGTTG--------------------------------- 4970
+NW_005819514.1:Latimeria_chalumnae           ---------------------------AGACCAAAT---------------------------------- 4970
+NC_007130.7:Danio_rerio                      ---------------------AAAGAAAGACTAATT---------------------------------- 4970
+NC_072417.1:Pan_troglodytes                  GCTGCACCAGCAGGCCGAGTGGCAGAGCGGCCAGCGC--------------------------------- 4970
+NC_000073.7:Mus_musculus                     A------GATCAGCTCGAGTGGCAAAGCAACCAACCC--------------------------------- 4970
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -------TGGGAACTGGCACTG------------------------------------------------ 5040
+NW_018344052.1:Phascolarctos_cinereus        -------TGGGAGATAGCCATG------------------------------------------------ 5040
+NC_041732.1:Ornithorhynchus_anatinus         -------TGGGAGGAGACGGTG------------------------------------------------ 5040
+NW_020665249.1:Terrapene_carolina_triunguis  -------TGGGAAGAGGCCGTG------------------------------------------------ 5040
+NW_005843381.1:Alligator_sinensis            -------TGGGAAGAGACTGTG------------------------------------------------ 5040
+NW_018151423.1:Pogona_vitticeps              CAAGCCAAAGGGAAAATCTATAGAGTTGCCCCATTTCTCTTCTCCGTACAGGCTCATGGGCGAACCCAGT 5040
+NC_030683.2:Xenopus_tropicalis               -------CTAGGATAATTTGTACCCTAGCAACCA------------------------------------ 5040
+NW_005819514.1:Latimeria_chalumnae           --------GGGAAGAAGCTGTG------------------------------------------------ 5040
+NC_007130.7:Danio_rerio                      --------TGAAAAAAGCTGGAAACCTGTAACCATTGACTT----------------------------- 5040
+NC_072417.1:Pan_troglodytes                  -------TGGGAACTGGCGCTG------------------------------------------------ 5040
+NC_000073.7:Mus_musculus                     -------TGGGAGCAGGCCCTG------------------------------------------------ 5040
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------------------------GGTCGCTTTTGGGATTACCTGCGCTGGGTG 5110
+NW_018344052.1:Phascolarctos_cinereus        ----------------------------------------GGCCGCTTCCGGGGCTACCTGGACCGGCTG 5110
+NC_041732.1:Ornithorhynchus_anatinus         ----------------------------------------GAGCGCTTCTGGAGCTACGTGGTCCAGGTC 5110
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------------------------AGCGTCTTCTGGAACTACCTTTCCAAGGTG 5110
+NW_005843381.1:Alligator_sinensis            ----------------------------------------GAAGTGTTTCGGGAGTACGTGAACCGGCTG 5110
+NW_018151423.1:Pogona_vitticeps              CTTCCAACAGGAGCCAAGAACCAAATGGGAAGAGACAGTCGAGACTTTCTGGGACTACGTGACTCGGATC 5110
+NC_030683.2:Xenopus_tropicalis               ----------------------------------------GATAGCTGCTGAAATTCCA----------- 5110
+NW_005819514.1:Latimeria_chalumnae           ----------------------------------------GGTACATTCTGGGATTATGTGGAGCATATC 5110
+NC_007130.7:Danio_rerio                      ------------------------------------ACATAGTATTTGTTTTCCTTCTGTGGAAGTCAAT 5110
+NC_072417.1:Pan_troglodytes                  ----------------------------------------GGTCACTTTTGGGATTACCTGCGCTGGGTG 5110
+NC_000073.7:Mus_musculus                     ----------------------------------------AACCGCTTCTGGGATTACCTGCGCTGGGTG 5110
+                                                                                           *        *              
+
+NC_000019.10:Homo_sapiens                    CAGACACT--GTCTGAGCAGGTGCAGGAGGAGCTGCTCAGCTCCCAGGTCACCCAGGAACTGAGGTGAGT 5180
+NW_018344052.1:Phascolarctos_cinereus        CAAACCCG--GGTTGAGGACCTGCAGAGTGAGGTGCAGAGTTTCCAAATAGTCAAGGACCTGAGGTGAGG 5180
+NC_041732.1:Ornithorhynchus_anatinus         CAGAACAT--GGCATACGACATGCACGACAAGGCCGTTAACTCTCAGATCAACAAGGAGATCAAGTGAG- 5180
+NW_020665249.1:Terrapene_carolina_triunguis  GGACACGC--CGCGGACAATGTGACCGCCCAGATCAAGAGCTCCCAGCTCAGCAAGGAACTGGAGTGAGT 5180
+NW_005843381.1:Alligator_sinensis            AGCCTAGC--TACCGATGACATCACGGAGCAGATCACCAGCTCCCAGATGGGCAAGGAAATGGAGTGAGT 5180
+NW_018151423.1:Pogona_vitticeps              GGGAATGC--TGCCGATGACGTCACCACTCAGATTAAGAGTTCACAGATCAGCAAGGAACTGGAGTGAGT 5180
+NC_030683.2:Xenopus_tropicalis               ----------TACTGGAGAGATGCTTAAAAAAGCCAAATT-------ATTAGAAAAAAAACAAAAAAATA 5180
+NW_005819514.1:Latimeria_chalumnae           AGCAATAA--AGCTGATGAGACCTTCCAGCAGATCAAAAGCTCTCAGCTCAGCAAGGAACTAGAGTAAGT 5180
+NC_007130.7:Danio_rerio                      AGTTACAGGTAACTTATGTTATATATAAATATAT-------------ATCGCTAATGAATCAAAGAAACA 5180
+NC_072417.1:Pan_troglodytes                  CAGACACT--GTCTGAGCAGGTGCAGGAGGAGCTGCTCAGCTCCCAGGTCACCCAGGAACTGACGTGAGT 5180
+NC_000073.7:Mus_musculus                     CAGACGCT--GTCTGACCAGGTCCAGGAAGAGCTGCAGAGCTCCCAAGTCACACAAGAACTGACGTGAGT 5180
+                                                                           *                 *     *  *         *  
+
+NC_000019.10:Homo_sapiens                    GTC--------------CCCATCCTGGCCCT---------TGACCCTC---------------------- 5250
+NW_018344052.1:Phascolarctos_cinereus        ACGATTCCCACCATGACCCCACCATGCCACT---------CAGGTCTC---------------------- 5250
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 5250
+NW_020665249.1:Terrapene_carolina_triunguis  G-------------------ACCCTGCGGCT----------CAGCGTCAGTGG----------------- 5250
+NW_005843381.1:Alligator_sinensis            GCCA-------------CCCACCCTGTTGCTGTC--TCAGGGGGCTCCTGGGA----------------- 5250
+NW_018151423.1:Pogona_vitticeps              GTCTTTGTT--------CCTTCCAAGGGGTTGGCGATGGCCAAGGGTCAGATGAGATTTGAAAGACTCTT 5250
+NC_030683.2:Xenopus_tropicalis               ATAAAA------------------AAATGTAACCATTTGCAAATTGTCATACA----------------- 5250
+NW_005819514.1:Latimeria_chalumnae           CTCACT------------------TGAAGTAAGCTAGAATAGCAACCCAGAAA----------------- 5250
+NC_007130.7:Danio_rerio                      TTGATT------------------TTGTTTTTTCTTTGCCTACTTTTAAAATG----------------- 5250
+NC_072417.1:Pan_troglodytes                  GTC--------------CCCATCCTGGCCCT---------TGACCCTC---------------------- 5250
+NC_000073.7:Mus_musculus                     G--------------------TCCAGCTCTT---------TCACCCTCGGCAG----------------- 5250
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------CTGGTGGGC---------- 5320
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 5320
+NC_041732.1:Ornithorhynchus_anatinus         ----------------------------------------------------TGGTGGGG---------- 5320
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------GTGAAGA----------------------------TGGGTGGGGC--------- 5320
+NW_005843381.1:Alligator_sinensis            ----------------ATGGGGG----------------------------TAGGTGGGG---------- 5320
+NW_018151423.1:Pogona_vitticeps              ATTCAACAAACATCTTGCAAAGATTTGGCTCACACTGCTTTTTGCCTTTTTTAGGTTGTATCAGTTTTAT 5320
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------------TTAGCACTCTCTATATCAT 5320
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------TTGGTTTGGTCGGTTCCAC 5320
+NC_007130.7:Danio_rerio                      ---------------------------------------------------TGGGTTGGGTGGGT---AA 5320
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------CTGGTGGGC---------- 5320
+NC_000073.7:Mus_musculus                     ----------------GCACCAG----------------------------CTGATCCAG---------- 5320
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----GGCTATACCTCCCCAGG--TCCAGGTTTCATTCTG------------------------------ 5390
+NW_018344052.1:Phascolarctos_cinereus        ------------------------CCCTAACCCTGCCTTG------------------------------ 5390
+NC_041732.1:Ornithorhynchus_anatinus         -----GG--------------------------------------------------------------- 5390
+NW_020665249.1:Terrapene_carolina_triunguis  ---AAGGACACAAAGCAGCAGG--GGCATGTGTCCCCCTGG--------AGAGGATG------------- 5390
+NW_005843381.1:Alligator_sinensis            -----------------------------GCAGCCCCCTG------------------------------ 5390
+NW_018151423.1:Pogona_vitticeps              AAGAATACATTGCCTTATTAGAAC-------------------------AGAATAAGACATATCAGAATT 5390
+NC_030683.2:Xenopus_tropicalis               ATTCAAAGTTAACCCTTTTAAAGGTAACAGTCCTGCTATAAAATGTTT---AATCTGTTTTTTTTTTCTT 5390
+NW_005819514.1:Latimeria_chalumnae           CATTGTACAGTCCCTTATATTGCTTTATAA-------------------GGAGGAAGGTATATTTTTTAA 5390
+NC_007130.7:Danio_rerio                      TAGTGCACCACCTTTTTTTTAAGACTACAACACTGCTCAAAACCCTTTTGCAAGAGGAACTACTTTCTTC 5390
+NC_072417.1:Pan_troglodytes                  -----GGCTATACCTCCCCAGG--TCCAGGTTTCATTCTG------------------------------ 5390
+NC_000073.7:Mus_musculus                     -----GGTTGCCTCCTATCTGGGTCCCCAGCCCCTTCTTG------------------------------ 5390
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----------------------------------------------CCCCTGTCGCTAAGTCTTGGGGG 5460
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 5460
+NC_041732.1:Ornithorhynchus_anatinus         ----------------------------------------------------------------TGGGGG 5460
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------------------------------------ATATCTCTGCTGGGGAAATGCCAG 5460
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 5460
+NW_018151423.1:Pogona_vitticeps              AATGACATTTTGCCGTACACAACCTGGAGTCTAGAATGGGTGGAGTAAAAATTTAATCAAACAACTAGAT 5460
+NC_030683.2:Xenopus_tropicalis               TGCTGTTAGTGCCCTTTAATAGCCTTTGCAGAAGGAGGGT------ATTATTTTGGTCTGACCTAATGTT 5460
+NW_005819514.1:Latimeria_chalumnae           ACCTATTTATTCCCATATCCTGCAGATCTCCAAATATAA------------------------------- 5460
+NC_007130.7:Danio_rerio                      CGCCATTTCTACACATCTGCAGCTGACGTCAGAACAGCAG------AAACCATTGCTCATTCACTAAGTT 5460
+NC_072417.1:Pan_troglodytes                  -----------------------------------------------CCCCTGTCGCTAAGTCTTGGGGG 5460
+NC_000073.7:Mus_musculus                     -----------------------------------------------TTTCCTTTCTCAATTAGTGTGTA 5460
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCCTGGGTC------------------------TCTGCTGGTTCTAGCTTCCTCTTC------------- 5530
+NW_018344052.1:Phascolarctos_cinereus        -------------------------------------TAAATCTCAGACCC------------------- 5530
+NC_041732.1:Ornithorhynchus_anatinus         GCGT------------------------------------------------------------------ 5530
+NW_020665249.1:Terrapene_carolina_triunguis  GCTTTGGC-----------------------------TAAGTGCTGGGTGC------------------- 5530
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 5530
+NW_018151423.1:Pogona_vitticeps              GTTTTGTTTTTAAAGC---------------AGTCCACCAACTGGAATTATCAACTTTGCTTAGTTCGA- 5530
+NC_030683.2:Xenopus_tropicalis               ACCTATGA-----------------------TGTTGACAAGCTGTAATTTCTTCCTCAGAACAGTCTGGT 5530
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 5530
+NC_007130.7:Danio_rerio                      ACTTTGGAGCTAGGGTTTGAACAACACAATCTCACGGCAATTCGTAACTTTTT----------------- 5530
+NC_072417.1:Pan_troglodytes                  GCCTGGGTC------------------------TCTGCTGGTTCTAGCTTCCTCTTC------------- 5530
+NC_000073.7:Mus_musculus                     GCCCAGGT------------------------------TGGCCTTGAATCCTCCTGC------------- 5530
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 5600
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 5600
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 5600
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 5600
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 5600
+NW_018151423.1:Pogona_vitticeps              -AGGGAACTGCTGTTTTAACCTTAGCTTGTCTATTTTTC------TCCTGAAACAAAGAGAATATTCGGA 5600
+NC_030683.2:Xenopus_tropicalis               CTTTGTACAGCCATTTACAGACAAACTGATGGGGAATTAGTAGCATTAAAAAGTAACAAAAATATATAGA 5600
+NW_005819514.1:Latimeria_chalumnae           ----------------------TAATTTATTAAAACTCA-------CACAAGGTAA-------------- 5600
+NC_007130.7:Danio_rerio                      -----------CATTTAGTGGCTAATTCGTATGAATTCG-------TACGATCTAATTCGTACAATTTAG 5600
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 5600
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 5600
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------------------------------CCATTTCTGACTCCTGGCTTTAGC 5670
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 5670
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 5670
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------------------------------------------------CAGGCTGT--- 5670
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 5670
+NW_018151423.1:Pogona_vitticeps              TTCAATTTATAGACCAGTACCACCAAATTATCTGCTACATCTCACCTCTCAAGCAATACCTGGATTGATT 5670
+NC_030683.2:Xenopus_tropicalis               AGTGCTC------CCAGCAACAGTAAATGCATTG----------------AATAAGCAGTTAGAAATGTA 5670
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 5670
+NC_007130.7:Danio_rerio                      TACGATT------TGCTTATCCCCCAATG--------------------------ACGGTTGGGGTTAGG 5670
+NC_072417.1:Pan_troglodytes                  ----------------------------------------------CCATTTCTGACTCCTGGCTTTAGC 5670
+NC_000073.7:Mus_musculus                     ----------------------------------------------CTTCTTTAGCCTTCTGGAT----- 5670
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TCTCTGGAATTCTCTCTCTCAGCTTTGTCTCTCTCTCTTCCCTTCTGACTCAGTCTCTCACACTCGTCCT 5740
+NW_018344052.1:Phascolarctos_cinereus        --------------------------------------------------AGGGGTCCATCCCCAGCTGT 5740
+NC_041732.1:Ornithorhynchus_anatinus         --------------------------------------------------------------CCCGTCCA 5740
+NW_020665249.1:Terrapene_carolina_triunguis  --GCTGAGAA--------------------------GCACCATGTTTGGCTGGTGCACACCACCCCTGTG 5740
+NW_005843381.1:Alligator_sinensis            -----------------------------------------------------------CTACCCCTGTG 5740
+NW_018151423.1:Pogona_vitticeps              --GATCAGATTAATTTGACAACTCTGAATA--------------------ATAGCTCTTTAGACATTTCA 5740
+NC_030683.2:Xenopus_tropicalis               --GCTGGAATCAGTTGGCCAGGGCAGGGC---------------------ATGAGTGCATAGTTCCTGTA 5740
+NW_005819514.1:Latimeria_chalumnae           --------------------------------------------------ATACCTGTTCCGCTGGGTTT 5740
+NC_007130.7:Danio_rerio                      --GGTGGGGTCAGGT------GCCACGCCTC-------------CTTTTTAAAATCGTACCATTTCGTAC 5740
+NC_072417.1:Pan_troglodytes                  TCTCTGGAAT--TCTCTCTCAGCTTTGTCTCTCCCTCTTCCCTTCTGACTCAGTCTCTCACACTCGTCCT 5740
+NC_000073.7:Mus_musculus                     --GCTGGGAG------------------------------------GAACAGACATTTATTACTTGCTTG 5740
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GGCTCTGTCTCTGTCCTTCCCTAGCTCTTTT-------------------------------------AT 5810
+NW_018344052.1:Phascolarctos_cinereus        GGCCCTAACCCAATCCCTCATCTCCACTTG---------------------------------------- 5810
+NC_041732.1:Ornithorhynchus_anatinus         GGAGCCG--------------------------------------------------------------- 5810
+NW_020665249.1:Terrapene_carolina_triunguis  GGTGTTA-------------CTGACCCTTTG-------------------------------------CC 5810
+NW_005843381.1:Alligator_sinensis            GG-------------------------------------------------------------------C 5810
+NW_018151423.1:Pogona_vitticeps              GAAGGGAGTCCTGGAAAAGGGTATTACTCAC-------------------TCAAAATTGCTCCCAGTTCC 5810
+NC_030683.2:Xenopus_tropicalis               AATGGCATTTCTGTGTATATGTGTCAGTTACAGATATGGAACACTATAAAACATTATTACATATAGACCT 5810
+NW_005819514.1:Latimeria_chalumnae           AGTTCAACTGTTTTCTGTACGAGCAAGTAA---------------------------------------- 5810
+NC_007130.7:Danio_rerio                      GACTGAACTCTTACGAATTCGTACGAATTA---------------------------------------- 5810
+NC_072417.1:Pan_troglodytes                  GGCTCTGTCTCTGTCCTTCCCTAGCTCTTTT-------------------------------------AT 5810
+NC_000073.7:Mus_musculus                     G--------TCGATTGGCTTTTGGCTTCTT---------------------------------------- 5810
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ATAGAGA-----------------CAGAGAGATGGGGTCTCACTGTGTTG-------------------- 5880
+NW_018344052.1:Phascolarctos_cinereus        ----------------------TCCAAGAAAATGGAATGTAACT-------------------------- 5880
+NC_041732.1:Ornithorhynchus_anatinus         -------------------------GGGAAGAC------------------------------------- 5880
+NW_020665249.1:Terrapene_carolina_triunguis  GTAATGGTGGGTTGGGAGCATTCCTAGAGGAGCATATGGGGGGATGCCCA-------------------- 5880
+NW_005843381.1:Alligator_sinensis            TCAGTG------------------CAGGGGGGCACAGACCAGCCTTCCCA-------------------- 5880
+NW_018151423.1:Pogona_vitticeps              TCTGTGGTGTG------GCAGAGGAAGAAGAACAGTGTGAAATATATCACCAACCCAGATTAACTTTATA 5880
+NC_030683.2:Xenopus_tropicalis               ACTATGGATT--------TAACAGCACTGGGGCAAGATGCAAAGTGAAAA-----------TACCTGGAA 5880
+NW_005819514.1:Latimeria_chalumnae           -------------------AACAGCAAAAGAAGCAAGTAAAAGCTGCTAA-------------------- 5880
+NC_007130.7:Danio_rerio                      -------------------GCCACTAAACTGGCAAAACGTAAAATACTTACGTT-----TTTTCGTGAGA 5880
+NC_072417.1:Pan_troglodytes                  ATAGAGA-----------------CAGAGAGATGGGGTCTCACTGTGTTG-------------------- 5880
+NC_000073.7:Mus_musculus                     ----------------------------GAGACAGGATCCCATTCTGTAA-------------------- 5880
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ------------------------------------------------------------------CCCA 5950
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 5950
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 5950
+NW_020665249.1:Terrapene_carolina_triunguis  ------------------------------------------------------------------GCCA 5950
+NW_005843381.1:Alligator_sinensis            ------------------------------------------------------------------GGCA 5950
+NW_018151423.1:Pogona_vitticeps              AAACATTGGATGAAATCCTGTTTGCACAGTTACACAAACA--GCGTAACTTTTAGAGGTGAATTGCGGCA 5950
+NC_030683.2:Xenopus_tropicalis               CAAAATTCTATAGGTTACTGCTACAGCATTTCCCTGTACAGGGCATAACGTTAAGTAATCA--TCCCTCA 5950
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 5950
+NC_007130.7:Danio_rerio                      TCAGGCTGGTTTGAATGATTCTCTAG----------------------------------------CTTA 5950
+NC_072417.1:Pan_troglodytes                  ------------------------------------------------------------------CCCA 5950
+NC_000073.7:Mus_musculus                     ------------------------------------------------------------------CTCA 5950
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------GGCTGGTCTTGAA 6020
+NW_018344052.1:Phascolarctos_cinereus        -------------------------------------------------------GAAGTTGGCCTCACT 6020
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------TGCTGGTCCTGGA 6020
+NW_020665249.1:Terrapene_carolina_triunguis  AGGGCCACAACATGGG--------------------GCACAGAGGGGGT---GATGTGGGGATCCTTGGG 6020
+NW_005843381.1:Alligator_sinensis            ------------------------------------GCACTGTGGAAA---------AGGGGTCCTTGGG 6020
+NW_018151423.1:Pogona_vitticeps              AGTTAAGAAATCTCTGTAGACCTTAT-----CTCTTGTCTACCAAGTCACACAACTCAGTAGGCGACAGA 6020
+NC_030683.2:Xenopus_tropicalis               ATGTATATAATCCAGGCACACCATAA----------ATGTGATAAATACCATAGTATAAATGTGATTAAA 6020
+NW_005819514.1:Latimeria_chalumnae           ------------------------------------ACACTGAAAAAGTAAATGTATAGATGATTGGAAT 6020
+NC_007130.7:Danio_rerio                      ATGTCTAAGGTGATGACAAAACAGGTGATTTTGCTCACATTTTAAGATTATAAGGCTGAACGGCATGAAA 6020
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------GGCTGGTCTTGAA 6020
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------AGCTGGCTTCGAA 6020
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    C-----------TTCTGGGCTCAAGCGATCCTCCCG---------------------------------- 6090
+NW_018344052.1:Phascolarctos_cinereus        -----------------GGCTCCTGCCCACCAGCTGTA-------------------------------- 6090
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6090
+NW_020665249.1:Terrapene_carolina_triunguis  ----------------GAGCCCTCAGTGCCCTGATGGAGAGCGGGGTTTGGATGGGTATCACCATAGC-- 6090
+NW_005843381.1:Alligator_sinensis            ----------------GGGCTTTTACCCCCC--------------------------------------- 6090
+NW_018151423.1:Pogona_vitticeps              GACTACGGAGATTTCCGAACTCATGGCAATTCACTTCC-----AATGTGATATAATTTGCATAATTGCAC 6090
+NC_030683.2:Xenopus_tropicalis               ACATTTCAGTGCAGCTCAGACCTTGCCAGCTTTGGGCA-----GCAAATATTCCAATATTATCAGGGCAT 6090
+NW_005819514.1:Latimeria_chalumnae           AACTA-------GTTTTAGACTCTTCCTACTGTAA---------AAACTATACTTTTATAAT-------- 6090
+NC_007130.7:Danio_rerio                      TACCATCAG-ATTTCCCAGTACTTCTCTGTTGCAATTG-----GGAGATATATAAATATCAG-------- 6090
+NC_072417.1:Pan_troglodytes                  C-----------TTCTGGGCTCAAGCGATCCTCCCG---------------------------------- 6090
+NC_000073.7:Mus_musculus                     -----------------GGCTC-TGCAATTCTTATG---------------------------------- 6090
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 6160
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 6160
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6160
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 6160
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6160
+NW_018151423.1:Pogona_vitticeps              A-----ACAGGATTTCAGTT------------------TTTGTTTTATTGTTGATGACAATCCTTACATT 6160
+NC_030683.2:Xenopus_tropicalis               ATAGGTGCAAGGTCACATTTACAGAGGTAAAATATCCATCTCTTATTATGCCTATGTGAATGCACATCAT 6160
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 6160
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 6160
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 6160
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6160
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    --------------------CCTCGGCCTCCCAAAGTGCTG----------------------------- 6230
+NW_018344052.1:Phascolarctos_cinereus        --------------------TCTTTGCCTCT--------------------------------------- 6230
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6230
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------CCTGCATGGGTTCATAGAATCATA----------------------------- 6230
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6230
+NW_018151423.1:Pogona_vitticeps              TTTTTGCGTCAGAGTTACAAACCC-----TACAATCGTTTGTTACATTCATATTCTGTTTTTCTTCCAGC 6230
+NC_030683.2:Xenopus_tropicalis               TTTGGGGGCAATTGCCCCTACCACAGCTACACAAATGCATAACATAGATACTGT---------------- 6230
+NW_005819514.1:Latimeria_chalumnae           -----------------------------CACATAGTATTGTGAAATGCACTTG---------------- 6230
+NC_007130.7:Danio_rerio                      -----------------------------CACAAATAAATACAGCACA-ACAAC---------------- 6230
+NC_072417.1:Pan_troglodytes                  --------------------CCTCGGCCTCCCAAAGTGCTG----------------------------- 6230
+NC_000073.7:Mus_musculus                     --------------------CCGCAGCTTCTCAACTT--------------------------------- 6230
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -GG--ATTAGAGGCATGAGCCACCTTG----------CCCGGCCTC------------------------ 6300
+NW_018344052.1:Phascolarctos_cinereus        -----AACAGAGGTTCA--------------------TCTGTCTCCCTT--------------------- 6300
+NC_041732.1:Ornithorhynchus_anatinus         ----------GGGCGCAGGTGGCATTG----------ACCGCCCC------------------------- 6300
+NW_020665249.1:Terrapene_carolina_triunguis  -GAATATCAGGGTTGGAAGGGACCTCAG--GAGGTCATCTAGTCC------------------------- 6300
+NW_005843381.1:Alligator_sinensis            -------------------------------------CCCAGCTC------------------------- 6300
+NW_018151423.1:Pogona_vitticeps              GGGAAAAAAGCAAGGTACATGACTTTCACCCCGACTCTTTGATCCTTGCCACAGCCCTCTGAGGCTAGGC 6300
+NC_030683.2:Xenopus_tropicalis               -GAATGGATAGCAGAGGTATAATTACAA-----ATTACAAGCCTCACTGCAGAATCTCCTTAG------- 6300
+NW_005819514.1:Latimeria_chalumnae           -AAATACAATGGAAACAATTAATTTTGA-----ACTTGAAAGCTTTTTT--------------------- 6300
+NC_007130.7:Danio_rerio                      -ATACAAAAAAGAGAGATCAACCTATAA-----AGTCATTTACCTTTTTTACAA---------------- 6300
+NC_072417.1:Pan_troglodytes                  -GG--ATTAGAGGCATGAGCCACCTTG----------CCCGGCCTC------------------------ 6300
+NC_000073.7:Mus_musculus                     ------CTGGGAACACAAGCGAGTACC----------ATCACCTC------------------------- 6300
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 6370
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 6370
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6370
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 6370
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6370
+NW_018151423.1:Pogona_vitticeps              CAAGCCATGCCCAAGCTTCATGTTCCTGCCCCGGGGCTAGCTGGGAATTTTCTTTCTGAGCAAAAGGTAT 6370
+NC_030683.2:Xenopus_tropicalis               ------------------------------------------AGGTCCCATTACTCTGATAAGATGACCT 6370
+NW_005819514.1:Latimeria_chalumnae           -----------------------------------------------------------TCTGACGGGTT 6370
+NC_007130.7:Danio_rerio                      --------------------------------------------------------TGATTTGATCAGCT 6370
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 6370
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6370
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------CTAGCTCCTTCTTCG---------------- 6440
+NW_018344052.1:Phascolarctos_cinereus        --------------------------------------TCCCATTCTCCTTCTG---------------- 6440
+NC_041732.1:Ornithorhynchus_anatinus         -------------------------------------------CTCCTCCTCCT---------------- 6440
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------------------------------AACCCCCTGCTCAAAGCAGGACCAATCCC 6440
+NW_005843381.1:Alligator_sinensis            -----------------------------------------TGCTCCCTGCTGG---------------- 6440
+NW_018151423.1:Pogona_vitticeps              ATA----GGTGGCGCTCGGCCTAGCTAGGCCTCAAACTTAGGCCTTTCTCCCAGGTGAGCCACACTTAGT 6440
+NC_030683.2:Xenopus_tropicalis               CTATCCCAAACATATCCGG-------AAACTACATACCTTCTATTGCTCCTTGGGCCTCCCATGCTTCTG 6440
+NW_005819514.1:Latimeria_chalumnae           CTA--------------------------------ACTTTTGACTTTTTTTT------------------ 6440
+NC_007130.7:Danio_rerio                      GTA--------------------------------GTTTGAAATTTCTCCTTGGGCATATTATGCGGTCA 6440
+NC_072417.1:Pan_troglodytes                  ---------------------------------------CTAGCTCCTTCTTCG---------------- 6440
+NC_000073.7:Mus_musculus                     -------------------------------------------TTGCTCTGTGG---------------- 6440
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------TCTCTGCCTC--------------- 6510
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------TTTCTGCCT---------------- 6510
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------TTCCTCCC----------------- 6510
+NW_020665249.1:Terrapene_carolina_triunguis  TAGACA-------------------------------------GATTTTTACC----------------- 6510
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6510
+NW_018151423.1:Pogona_vitticeps              TTGGTA-AGGCAGGCAGAACTCTAAGAATGAAAACAGAATGGTACCTGTAGTCCAGAAAATAAGTATATA 6510
+NC_030683.2:Xenopus_tropicalis               CAGTTGCATGGTCTTCTCATCCTAATTTTAAA----------CTCCCTCTGCCCCAAATATACACATTAA 6510
+NW_005819514.1:Latimeria_chalumnae           --------------------------------------------TTTTTTACC----------------- 6510
+NC_007130.7:Danio_rerio                      CTGTCA----------TCATCTTGTGGATGAA----------CATCGTCGACC----------------- 6510
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------TCTCTGCC----------------- 6510
+NC_000073.7:Mus_musculus                     ---------------------------------------------TTTCTGGC----------------- 6510
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ------------------------TGCCCTCTGC------------------------------------ 6580
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 6580
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6580
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 6580
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6580
+NW_018151423.1:Pogona_vitticeps              AAAA---------------------------------AGAGGCCATCCCTAACTTTTATTTGTGTGAAAA 6580
+NC_030683.2:Xenopus_tropicalis               GGGAATTTATGTTTACACATTCCTTGGCCTATGTTTTACCAGTAATTCATTATTTTCAAGTGTGTACAAA 6580
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 6580
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 6580
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 6580
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6580
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ATCTGCTCTCTGCATCT-----------------------------------------------GTCTCT 6650
+NW_018344052.1:Phascolarctos_cinereus        -TTGGTTCCCTGTTTC------------------------------------------------------ 6650
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6650
+NW_020665249.1:Terrapene_carolina_triunguis  -CCAGTTCCCTAAAT------------------------------------------------------- 6650
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6650
+NW_018151423.1:Pogona_vitticeps              TT---CTCCTTACATCTTAGGAGGAGGGTGGAAAGAGGTAAAGTATTCCAAGGTGAAAGAGTTCATCTTG 6650
+NC_030683.2:Xenopus_tropicalis               ATTGACTGCTGTCATTTTA-------------------------TTTATTAAAGAGAAGCACCCATGTCA 6650
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 6650
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 6650
+NC_072417.1:Pan_troglodytes                  -TCTGCTCTCTGCATCT-----------------------------------------------GTCTCT 6650
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6650
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GTCTCCTTCTCTCGGCCTCTGCCCCGTTCCTTCTCT---------------------------------- 6720
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 6720
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6720
+NW_020665249.1:Terrapene_carolina_triunguis  -------------GGCCCCCTCAAGGATTGAACTCA---------------------------------- 6720
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 6720
+NW_018151423.1:Pogona_vitticeps              GTGTTACAGTGGTGCCTCGCTTAGCGATGTTAATCCGTGCAGCAAAAATTGCTGCTAACCGAAAACATCG 6720
+NC_030683.2:Xenopus_tropicalis               CCGTTAGTGTATTGGTCAAGCCAGAGGAGTTGCTCC----AAGACAAGCCACTCTTAATGGACTCCA--- 6720
+NW_005819514.1:Latimeria_chalumnae           -------------------------GACGTTGCTTAG---AAGAGAGACAAAGTTTAAAAGATAAGA--- 6720
+NC_007130.7:Danio_rerio                      -------------------------GTCTTTGCTCA----AAGACAGGCTAATGGCCGCCGACAAAA--- 6720
+NC_072417.1:Pan_troglodytes                  GTCTCCTTCTCTCGGCCTCTGCCCCGTTCCTTCTCT---------------------------------- 6720
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6720
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -----CCCTCTT--GGGTCTCTCTGGCTCATCCCCATCTCGCCCG------------------------- 6790
+NW_018344052.1:Phascolarctos_cinereus        -----------------TATCTCTTCTCTATCCCCACCTTTCTGGGT----------------------- 6790
+NC_041732.1:Ornithorhynchus_anatinus         --------------------------------CTCAGCTCGCTCT------------------------- 6790
+NW_020665249.1:Terrapene_carolina_triunguis  -----CAACCCT--GGGTTTAGCAGGCCAATGCTCAAACCACTGA------------------------- 6790
+NW_005843381.1:Alligator_sinensis            ----------------------------GGTCCTGAGGCCTGTGA------------------------- 6790
+NW_018151423.1:Pogona_vitticeps              CTAAGCAATCTTAAAAAGCCCATAGAAACGCTTTAAAACCAGTTTATGCGTTCCTATGGGCTTGAAAACT 6790
+NC_030683.2:Xenopus_tropicalis               ---------------------GTGTTACCACCTCCAGTGT----------------TAATTCTAACTGAT 6790
+NW_005819514.1:Latimeria_chalumnae           ---------------------ATGAAAGTGCTTGAAG--------------------------------- 6790
+NC_007130.7:Danio_rerio                      ---------------------TTATAAGTATTTTAAAA------------------------TAGGCACT 6790
+NC_072417.1:Pan_troglodytes                  -----CCCTCTT--GGGTCTCTCTGGCTCATCCCCATCTCGCCCGC------------------------ 6790
+NC_000073.7:Mus_musculus                     ------------------CCTTCTGTCCTGCCTTCATCTCCTTCC------------------------- 6790
+                                                                                *                                  
+
+NC_000019.10:Homo_sapiens                    -------------CCCCATCCCAGCCCTTCTCCCCGCCT------------CCCACTGTG---------- 6860
+NW_018344052.1:Phascolarctos_cinereus        GCCCACCACCACCCCGTATGTCTGTCTCCTTCCCAGTTT------------AATGCAGTGGACAGA---- 6860
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6860
+NW_020665249.1:Terrapene_carolina_triunguis  --------------GCTATCCCTCCCCCCATCACAG----------------ATACCATGGCCGGGG--- 6860
+NW_005843381.1:Alligator_sinensis            --------------CACCCCCCCGCCCCCAGCCCTGCTC------------AGTGCTGAGGCCTGGC--- 6860
+NW_018151423.1:Pogona_vitticeps              AACCTTAAGCGAAAATTGCGGTGGCCATTTTCAGTGCCTCTGAAGCGAGGCAACACAGCAGGCGGCCATT 6860
+NC_030683.2:Xenopus_tropicalis               AGATGTAAATGCAAAATATTTCTTGTCTGTTCAT------------------------------------ 6860
+NW_005819514.1:Latimeria_chalumnae           TTCTTTGAAAGTCAAGTGTA-------------------------------------------------- 6860
+NC_007130.7:Danio_rerio                      ATCCTTATAAATAAACTGCATAGTTTCAATTCA------------------------------------- 6860
+NC_072417.1:Pan_troglodytes                  -------------CCCCATCCCAGCCCTTCTCCCCGCCT------------CCCACTGTG---------- 6860
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6860
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 6930
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------GGTGGATTTGGAATCAGAGCCCTGGGCTG-- 6930
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 6930
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------------------------TGGGGGGGGGGTGCAAGCCAAGACG---------- 6930
+NW_005843381.1:Alligator_sinensis            -----------------------------------TGCTGGGGTGCTGGGGGCTGTGACC---------- 6930
+NW_018151423.1:Pogona_vitticeps              TTGGAACCGCCGATCAGCTGTTAAAAAATCATCGCTTTGCAATGATTGGTAAGCGAAACAGGGTACTGAT 6930
+NC_030683.2:Xenopus_tropicalis               -----------------------------------GTTACAACAAAGGGTAGATAAA------------- 6930
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 6930
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 6930
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 6930
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 6930
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    --------CGACACCCTCCCGCCC---------------------------------------------- 7000
+NW_018344052.1:Phascolarctos_cinereus        ----GATTCCTGCCTCTGCCTCTTAG------------------CTATGTGACTACGGG----------- 7000
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 7000
+NW_020665249.1:Terrapene_carolina_triunguis  -------CCCCGGCTCTGACTCCCC--------------------------------------------- 7000
+NW_005843381.1:Alligator_sinensis            -------TGGCCTTGCTGACCGCT---------------------------------------------- 7000
+NW_018151423.1:Pogona_vitticeps              CATCGCAAAGCGATTTTTCTCCATAGGGAACA--------------------TCACAAAGCGATCGCAAA 7000
+NC_030683.2:Xenopus_tropicalis               ----CCTTAGTACTTTAGTACCTTAGACCATAAACTTAGACTACCATTGTGTCTATGAAGTTGTTTCTAC 7000
+NW_005819514.1:Latimeria_chalumnae           -----------------------------------------------------TGTGGA----------- 7000
+NC_007130.7:Danio_rerio                      --------AACACTTACATTCCTTA---------------------------CTAAAAA----------- 7000
+NC_072417.1:Pan_troglodytes                  --------CGACACCCTGCCGCCC---------------------------------------------- 7000
+NC_000073.7:Mus_musculus                     --------------TGTGTTTCCT---------------------------------------------- 7000
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 7070
+NW_018344052.1:Phascolarctos_cinereus        --------------------------------TGAGTGCCC---------------------------TC 7070
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 7070
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 7070
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 7070
+NW_018151423.1:Pogona_vitticeps              AACATCGTCAGTATGCGGTTTTGTTGCTAAATGGAGCGCCCATTAAGCGAGGCACCACTGTACTTGGTTC 7070
+NC_030683.2:Xenopus_tropicalis               AGCTGCATTAATA------TTTATTTATAAA-------------------------------------TA 7070
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------A 7070
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------A 7070
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 7070
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 7070
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 7140
+NW_018344052.1:Phascolarctos_cinereus        ACCTCCCTGAAGGACT---------------------TACTTCCTTCATCTGGAGATAGGATCACCTCCA 7140
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 7140
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 7140
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 7140
+NW_018151423.1:Pogona_vitticeps              ACAGTCTCAAGAGATTTGAGGCAGGAGGCAAGTTTTAAGGCTCCTGACTCATGAGGGGGATGTAACACTG 7140
+NC_030683.2:Xenopus_tropicalis               ACACTCTATAAATATAAAAGATAAAA-------------------------------TGATAAATCTCTT 7140
+NW_005819514.1:Latimeria_chalumnae           ATACTGTAA----ATA------------------------------------------------------ 7140
+NC_007130.7:Danio_rerio                      ATCCCTTAAAAGTACA------------------------------------------------------ 7140
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 7140
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 7140
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------TCTCGGCCGCAGGGCGCTGATGGACGAGACCATGA------AGGAGTT 7210
+NW_018344052.1:Phascolarctos_cinereus        GGCGCCACTCCAACTTTAAATCTGCTCCCTGCAGGGGTCTTATGACAGACACTCTGA------CAGAGCT 7210
+NC_041732.1:Ornithorhynchus_anatinus         ------------------------------------------TGGAAGATACGGCAA------CCGAGTT 7210
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------GGTCCCTCCCCAGCGGGCTGATCACCGACACCATGG------CTGAAGT 7210
+NW_005843381.1:Alligator_sinensis            ----------------------GCCTCCCCACAGCATGCTGATCAAGGACATGGTGG------CGGAGCT 7210
+NW_018151423.1:Pogona_vitticeps              ACCACTATTTC--TTGCCTCTTTATCCCCCATAGTGTCCTTATCACAGACACCATGG------CTGAGGT 7210
+NC_030683.2:Xenopus_tropicalis               ACAGTTATT--------TTCCCTTTGCTTTTCAGTGGCCTTATCAAAGACACAATGG------AAGAACT 7210
+NW_005819514.1:Latimeria_chalumnae           ------------------TCATTTGTCTTTGCAGTGGTCTGATTACTGACACAATGG------CTGAACT 7210
+NC_007130.7:Danio_rerio                      ------------------TTATGTTGTCCAACAGCAGCCATATTTTTCACACTGTAGAGTGTCCTCTGCT 7210
+NC_072417.1:Pan_troglodytes                  ----------------------TCTCGGCCGCAGGGCGCTGATGGACGAGACCATGA------AGGAGTT 7210
+NC_000073.7:Mus_musculus                     ----------------------CTGGGCCTGCAGGGCACTGATGGAGGACACTATGA------CGGAAGT 7210
+                                                                                       *     * *                  *
+
+NC_000019.10:Homo_sapiens                    GAAGGCC-TACAAATCGGAACTGGAGGAACA---------ACTGACCCCGGTGGCGGAGGAGACGCGGGC 7280
+NW_018344052.1:Phascolarctos_cinereus        GAATGCT-TACAAGGCTGAGTTGGACCAGGA---------GCTGACCCCCGTGACTGAAGAGACCCGGAA 7280
+NC_041732.1:Ornithorhynchus_anatinus         CAACGCC-T------------TGAAGGAGCA---------GCTGGAGCCGGCAGTGGAAGACACCCGGGC 7280
+NW_020665249.1:Terrapene_carolina_triunguis  GGAGGTG-TACAGAGAAGAGCTGCAGACCCG---------GTTCGGCCCCTACGCCCAGGAGGCCCAGCA 7280
+NW_005843381.1:Alligator_sinensis            GCAGGCG-TACAGAAAGGACGTGGAAGAACG---------GCTGGGCCCGCACGCGGTGGTGATGCGGGA 7280
+NW_018151423.1:Pogona_vitticeps              GGAAGTC-TACACTGAAGACTTGCGTTCCAA---------GCTGGGCCCTTATGCCCAGGAAGTGCAGCA 7280
+NC_030683.2:Xenopus_tropicalis               GAGCATT-TATGCAGAAGACATGAAAAGTAA---------GGTGAGCCCCATGGCCCAGGATGCACAGCA 7280
+NW_005819514.1:Latimeria_chalumnae           CAACGTT-TATGCTGGTGGCATTAAGAATCA---------GTTGCAGCCTTACACTCAGGAGATCCAGGA 7280
+NC_007130.7:Danio_rerio                      TGCTGCTGTATGTGGGCGGAGTAATACACAAGGGCGAAGGGTTGAGAGGCTGGACTAATGACAGGCTGGA 7280
+NC_072417.1:Pan_troglodytes                  GAAGGCC-TACAAATCGGAACTGGAGGAACA---------ACTGACCCCGGTGGCGGAGGAGACGCGGGC 7280
+NC_000073.7:Mus_musculus                     AAAGGCT-TACAAAAAGGAGCTGGAGGAACA---------GCTGGGTCCAGTGGCGGAGGAGACACGGGC 7280
+                                                     *            *                    *                *     * *  
+
+NC_000019.10:Homo_sapiens                    ACGGCTGTCC------AAGGAGCTGCAGGCGGCGCAGGCCCGGCTGGGCGCGGACATGGAGGACGT---- 7350
+NW_018344052.1:Phascolarctos_cinereus        TAAGCTGACC------AAGGAGCTCACAGCAGCCCAGGCCCGCCTCAGGGCTGACATGGAAGATGT---- 7350
+NC_041732.1:Ornithorhynchus_anatinus         CCGCGTCCAC------AAGGAGCTGACGGCCGTGGTGGACCGGCTCCAGGGAGACCTGCAGGAGGC---- 7350
+NW_020665249.1:Terrapene_carolina_triunguis  GCGCCTGGGC------AGCGAGGTAGCGGCGCTGACGGGGAAGCTGCGGGCCGACATGGAGGAGGC---- 7350
+NW_005843381.1:Alligator_sinensis            GCGGCTGCAT------ACAGATGTGACGGTGCTGGGCGAGCGGCTGCGTGTTGACATGGAGGAAGC---- 7350
+NW_018151423.1:Pogona_vitticeps              ACGTCTGACG------ACCGAAGTGTCAACTCTGTCGGAGAAACTACGGGCCGACATGGAAGAAGC---- 7350
+NC_030683.2:Xenopus_tropicalis               GCGCTTTACT------GAGGAGGTATCTGCCCTGGCTGATAAGCTCAAGTCTGACATGGAGGATAC---- 7350
+NW_005819514.1:Latimeria_chalumnae           CAAGTTCAAC------AGGGACTTTGTACTCTTGTCCGGCAACCTGAAGCAGGACATGGAAAGCAT---- 7350
+NC_007130.7:Danio_rerio                      CGAGTGCTGTTATTTGCAGAATATTGCATAGCTATCAGCCAATCAGATTCAAGAACCAGACAGAACTGTT 7350
+NC_072417.1:Pan_troglodytes                  CCGGCTGTCC------AAGGAGCTGCAGGCGGCGCAGGCCCGGCTGGGCGCGGACATGGAGGACGT---- 7350
+NC_000073.7:Mus_musculus                     CAGGCTGGGC------AAAGAGGTGCAGGCGGCACAGGCCCGACTCGGAGCCGACATGGAGGATCT---- 7350
+                                                                 *  *             *     *        **     *          
+
+NC_000019.10:Homo_sapiens                    -----------------GTGCGGCCGCCTGGTGCA--------------------GTACCGCGGC----- 7420
+NW_018344052.1:Phascolarctos_cinereus        -----------------GGGGTCCCGCCTTGCCCA--------------------GTACCACCGA----- 7420
+NC_041732.1:Ornithorhynchus_anatinus         -----------------CAAGGAGCGGGTGACCCA--------------------GTACGAGACG----- 7420
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------CAAGGGCCGGGTGGTGCA--------------------GTACACGGGC----- 7420
+NW_005843381.1:Alligator_sinensis            -----------------CAAGACCCGGGTGCAGCA--------------------GTACCTGGGT----- 7420
+NW_018151423.1:Pogona_vitticeps              -----------------CAAGGGCAAAGTTGTCCA--------------------ATACACGAAC----- 7420
+NC_030683.2:Xenopus_tropicalis               -----------------AAAGAACAAAGCCATTCA--------------------GTACTCAGGA----- 7420
+NW_005819514.1:Latimeria_chalumnae           -----------------CAAGGGCAGAATGATACA--------------------ATACACAGAA----- 7420
+NC_007130.7:Danio_rerio                      GTATAAATATATATTTATAAGGATATACTTATAAGTAGGTCCACACGGAATGTGCGCACACAGAATTCCG 7420
+NC_072417.1:Pan_troglodytes                  -----------------GCGCGGCCGCCTGGTGCA--------------------GTACCGCGGC----- 7420
+NC_000073.7:Mus_musculus                     -----------------ACGCAACCGACTCGGGCA--------------------GTACCGCAAC----- 7420
+                                                                                                      **           
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 7490
+NW_018344052.1:Phascolarctos_cinereus        ---------------------------------------------------------------------- 7490
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 7490
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------------------------------------------------------- 7490
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 7490
+NW_018151423.1:Pogona_vitticeps              ---------------------------------------------------------------------- 7490
+NC_030683.2:Xenopus_tropicalis               ---------------------------------------------------------------------- 7490
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 7490
+NC_007130.7:Danio_rerio                      CAGATTTTCAGCCCATCATTAATTCTGTTTATTTACTTGTTTAAATGTGTGTAATATCTATATTTTTCAG 7490
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 7490
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 7490
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ------------------GAGGTGCAGGCCATGCTCGGCCAGAGCACCGAGGAGCTGCGGGTGC------ 7560
+NW_018344052.1:Phascolarctos_cinereus        ------------------GAGTTCCATACGGTGGTCAACCATAACATAGATGAGGTCAGAAACC------ 7560
+NC_041732.1:Ornithorhynchus_anatinus         ------------------GAGATCCAGGCCATGGTGGGTCAGAACGTGGAGGAGCTCCGCAGCC------ 7560
+NW_020665249.1:Terrapene_carolina_triunguis  ------------------GACGTGCGCTTGATGTTCAGCCAGAACCTGGAGGAGGTGCGGGCCC------ 7560
+NW_005843381.1:Alligator_sinensis            ------------------GAGGCTCGCCAAGTGGCGGGCCAGAACCTGGAAGATGTGCGCAGCC------ 7560
+NW_018151423.1:Pogona_vitticeps              ------------------GACGCCCGCCTCATGATCGACCACAATGTGGACGCGGTGCGGTCTC------ 7560
+NC_030683.2:Xenopus_tropicalis               ------------------GACCTGCGCATGATGTTTGATCAGAACATTGAGGATGTCCAAGGCA------ 7560
+NW_005819514.1:Latimeria_chalumnae           ------------------GACGTTAACCTAATGATGCAGCAGAACGCAGAAGATGTTCGCCAGA------ 7560
+NC_007130.7:Danio_rerio                      TTTTTAAATTAAAATAATTACATTAATTTTATTGACTAATATA----AAAAAATGTTCATCTGATTTATG 7560
+NC_072417.1:Pan_troglodytes                  ------------------GAGGTGCAGGCCATGCTCGGCCAGAGCACCGAGGAGCTGCGGGCGC------ 7560
+NC_000073.7:Mus_musculus                     ------------------GAGGTGCACACCATGCTGGGCCAGAGCACAGAGGAGATACGGGCGC------ 7560
+                                                                *           *        * *      *     *              
+
+NC_000019.10:Homo_sapiens                    ---GCCTCGCCTCCCACCTGCGCA---------------------------------------------- 7630
+NW_018344052.1:Phascolarctos_cinereus        ---GGATATCCGCCTACCTGAGGA---------------------------------------------- 7630
+NC_041732.1:Ornithorhynchus_anatinus         ---GCACCGCCTCCCAGCTCCGCA---------------------------------------------- 7630
+NW_020665249.1:Terrapene_carolina_triunguis  ---GAGTTGGCATGTACCTGCGCA---------------------------------------------- 7630
+NW_005843381.1:Alligator_sinensis            ---GCGTGGGCACCTACTTGCGCA---------------------------------------------- 7630
+NW_018151423.1:Pogona_vitticeps              ---AGCTGAACCTCTTCATGCGCA---------------------------------------------- 7630
+NC_030683.2:Xenopus_tropicalis               ---AGGTGAACATGTACATGAAGA---------------------------------------------- 7630
+NW_005819514.1:Latimeria_chalumnae           ---GGGTCAACATATACACCAAGA---------------------------------------------- 7630
+NC_007130.7:Danio_rerio                      TACAATGCAGTTTGTAAAGTAATATTTTCTGTCTTTTAGTAGATTTATTGTATAGAAGACTTGCTTTGTT 7630
+NC_072417.1:Pan_troglodytes                  ---GCCTCGCCTCCCACCTGCGCA---------------------------------------------- 7630
+NC_000073.7:Mus_musculus                     ---GGCTCTCCACACACCTGCGCA---------------------------------------------- 7630
+                                                                    *                                              
+
+NC_000019.10:Homo_sapiens                    AGCTGCGTAAGCGGCTCCTCCGCGATGCCG-----------------ATGACCTGCAGAAGCGCCTGGCA 7700
+NW_018344052.1:Phascolarctos_cinereus        AGATGAAGAAGCGCATTGGACGTGACTACG-----------------AGGAGCTCCAGACCCGCATGGAC 7700
+NC_041732.1:Ornithorhynchus_anatinus         AGCTCCGCAAACGCATCACCAAGGACGCCG-----------------AGGAGCTCCGACGCCGCATCACC 7700
+NW_020665249.1:Terrapene_carolina_triunguis  AGCTGCGCAAGCGCCTGGGCAAAGACACTG-----------------AGGAGCTGCGCCGCAAGATGGCC 7700
+NW_005843381.1:Alligator_sinensis            AGCTGCGCAAGCGTCTGGCCAAGGACACAG-----------------AGGAGCTGCGCCGCAAGCTGGAG 7700
+NW_018151423.1:Pogona_vitticeps              AGCTGAGGAAACGTCTCACCAAGGACACGG-----------------AGGACTTGCGCCGCAAGATGGCC 7700
+NC_030683.2:Xenopus_tropicalis               AACTGAAGAAACGGCTGAGTAAAGACAGTG-----------------AGGATTTAAAAAAGAAGCTCAGC 7700
+NW_005819514.1:Latimeria_chalumnae           AGCTGAAGAAGAGGCTCGTGAAGGACTTTG-----------------AGGAACTGAGAAGGAAGATGACT 7700
+NC_007130.7:Danio_rerio                      AACCAAATAAAGTGAATTTAATTGGATTTGCATTTTAAACATTAAATAAAAGTTAAAAAGATATATATAT 7700
+NC_072417.1:Pan_troglodytes                  AGCTGCGCAAGCGGCTGCTCCGCGATGCCG-----------------ATGACCTGCAGAAGCGCCTGGCA 7700
+NC_000073.7:Mus_musculus                     AGATGCGCAAGCGCTTGATGCGGGATGCCG-----------------AGGATCTGCAGAAGCGCCTAGCT 7700
+                                             *       **             *     *                 *  *  *           *    
+
+NC_000019.10:Homo_sapiens                    GTGTACC--------AGGCCGGGGCCCGCGAGGGCGCCGAGCGCGGCCTCAGCGCCATCCGCGAGCGCCT 7770
+NW_018344052.1:Phascolarctos_cinereus        ACGTACC--------AGGCTGGCGCCAAGGAAGGCGTGGAGAGAGGGCTCGGCTCCCTG---AAGCACCT 7770
+NC_041732.1:Ornithorhynchus_anatinus         GTCTACG--------GCACCGGGGCCCGGGAGGGGATGGAGCGGGGGGTCGGAGTCTTCCGGGAGCGACT 7770
+NW_020665249.1:Terrapene_carolina_triunguis  GCCTATG--------CCGGCGAGGTGCAGGCCCACACTGACCAGCAGGTGGATGCTGTGCGCCAGGGCCT 7770
+NW_005843381.1:Alligator_sinensis            GCCTACA--------GTGCGGAAG------------CCACCCGGCACCTGGAGACCGTGCGCGAGGACCT 7770
+NW_018151423.1:Pogona_vitticeps              ACCTACG--------CGGAGGAAGTGCGGGCCAGCACGGGTGAAAAAGTCGACGCCGTCCGCCAGAGCCT 7770
+NC_030683.2:Xenopus_tropicalis               CAATATG--------GAGAAGATTTCCGTAAGAGTACTGAAGACAAAGTGGAAAATCTCCGTAAAGCCGT 7770
+NW_005819514.1:Latimeria_chalumnae           ATCT-----------------------------------------ATGCAGAAGAACTCCATA------- 7770
+NC_007130.7:Danio_rerio                      TTTTTTATTTGACATATTAAGGTTTAATTTGATACTCCCAAAATAATTCCGCAGAACTCCACAGATTTTT 7770
+NC_072417.1:Pan_troglodytes                  GTGTACC--------AGGCCGGGGCCCGCGAGGGCGCCGAGCGCGGCGTCAGCGCCATCCGCGAGCGCCT 7770
+NC_000073.7:Mus_musculus                     GTGTACA--------AGGCAGGGGCACGCGAGGGCGCCGAGCGCGGTGTGAGTGCCATCCGTGAGCGCCT 7770
+                                                *                                                     *            
+
+NC_000019.10:Homo_sapiens                    GGGGCCCCTGGTGGAAC------------AGGGCCGCGTGCGGGCCGCCACTGTGGGCTCCCTGGCCGGC 7840
+NW_018344052.1:Phascolarctos_cinereus        GGCCCCCCTGCTGGAGCGAGTCCAAGAGCAGAACAAGAAAAGGATGGCCAGCCTGGGCACCCTGGCAGGG 7840
+NC_041732.1:Ornithorhynchus_anatinus         GGAGCCCATCGGTCAGCGGATCCAAGCCAAGGGCCAGGAGCGGGTTCAGGTGATGGGAGAACTGGTCAGT 7840
+NW_020665249.1:Terrapene_carolina_triunguis  GCAGCCACTAATCGACAGCATCCGTGACAAGGGACAGCAGCGTCTGGAAGCCCTGAG------------- 7840
+NW_005843381.1:Alligator_sinensis            GGAGCCGCTG------------CGCGAGAAGGGGCAGCAGCGCCTGGCGGCCCTGCA------------- 7840
+NW_018151423.1:Pogona_vitticeps              GGAGCCCTACCTCTCCAAAATCCGCGAGAAGGGAGAGCAGAGGTTCCAGGCCCTCCA------------- 7840
+NC_030683.2:Xenopus_tropicalis               GGAGCCTTATTTGTCCAACGTGAAAGATAAAGGGCAGCAGAGGCTGATGAACCTGAA------------- 7840
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 7840
+NC_007130.7:Danio_rerio                      --------------------------------------------------ACCAAAA------------- 7840
+NC_072417.1:Pan_troglodytes                  GGGGCCCCTGGTGGAAC------------AGGGCCGCGTGCGGGCCGCCACTGTGGGCTCCCTGGCCGGC 7840
+NC_000073.7:Mus_musculus                     GGGGCCTCTGGTGGAGC------------AAGGTCGCCAGCGCACTGCCAACCTAGGCGCTGGGGCCGCC 7840
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    CAGCCGCTACAGGA---------GCGGGCCCAGGCCTGGGGCGAGCGGCTG------------------- 7910
+NW_018344052.1:Phascolarctos_cinereus        GAGCATCTGCAGAG-------------------------------------------------------- 7910
+NC_041732.1:Ornithorhynchus_anatinus         CAGCAGGTCAAAGATCTGGGCTCGAAGGTGCAGGGCTACGGGGAGCAGGTGAAGGAGAAGATTCAGGAGC 7910
+NW_020665249.1:Terrapene_carolina_triunguis  -----------------------------CCAGGCCATGGGTGAGCAGAGC------------------- 7910
+NW_005843381.1:Alligator_sinensis            -----------------------------GCAGGCATTGCGTGACCAGGGC------------------- 7910
+NW_018151423.1:Pogona_vitticeps              -----------------------------CCAGGCCGTGGGAGAGCAAGGG------------------- 7910
+NC_030683.2:Xenopus_tropicalis               -----------------------------GGATGCCATAGATGAGCAAGGG------------------- 7910
+NW_005819514.1:Latimeria_chalumnae           -----------------------------------CCAAGACCAGCGACAA------------------- 7910
+NC_007130.7:Danio_rerio                      -----------------------------TTCTCCTCAGAAATAGCAAAAA------------------- 7910
+NC_072417.1:Pan_troglodytes                  CAGCCGCTGCAGGA---------GCGGGCCCAGGCCTGGGGCGAGCGGCTG------------------- 7910
+NC_000073.7:Mus_musculus                     CAGCCTCTGCGCGA---------TCGCGCCCAGGCTTTTGGTGACCGCATC------------------- 7910
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    --------------CGCGCGCGGATGGAGGAGATGGGCAGCCGGACCCGCGACCGCCTGGACGAGGTGAA 7980
+NW_018344052.1:Phascolarctos_cinereus        ----------------------------------------------------CCACCTGGACCAGGTGCG 7980
+NC_041732.1:Ornithorhynchus_anatinus         TGCAGGGCCAGGTCAGGGGGCGGCTGATGAAGGCGGGCGAGGACACCCGGGACAAACTGGACGACCTGAA 7980
+NW_020665249.1:Terrapene_carolina_triunguis  --------------CAGAAGGTGCGCGAGAGCCTGGGCACCCGGGCCCAGGAGCTCCATGGGCACCTGCA 7980
+NW_005843381.1:Alligator_sinensis            --------------CAGCGCTTGCGTGAGCAGCTGGAGGTGCGCGCCC---------------------- 7980
+NW_018151423.1:Pogona_vitticeps              --------------AAGATGGTTCACGAGCAGCTCAGCAGCCGGGTGCAGGAACTCCAGGAACAACTCCG 7980
+NC_030683.2:Xenopus_tropicalis               --------------AAACAACTCAGAGACCGGTTTGTCTCTGTTGCCAAAGACGCCCAAGCTAAAATGAA 7980
+NW_005819514.1:Latimeria_chalumnae           --------------------TGTGGACACTGTCC---------------GCAAAACCA------------ 7980
+NC_007130.7:Danio_rerio                      --------------AACGCCTGCAGATTCCGTCTGGCCCTACTTAATAAGCATAATCAAACTATA--TAT 7980
+NC_072417.1:Pan_troglodytes                  --------------CGCGCGCGGATGGAGGAGATGGGCAGCCGGACCCGCGACCGCCTGGACGAGGTGAA 7980
+NC_000073.7:Mus_musculus                     --------------CGAGGGCGGCTGGAGGAAGTGGGCAACCAGGCCCGTGACCGCCTAGAGGAGGTGCG 7980
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GGAGCAGGTGGCGGAGGTGCGCGCCAAGCTGGAGGAGCAGGCCCAGCAGATACGCCTGCAGGCCGAGGCC 8050
+NW_018344052.1:Phascolarctos_cinereus        CAGCCGAATGGAGGAGGTCAAGACCAAGGTGGACGAGCAGTCGGCCCAGCTGCAGGCTCAACTTCAGGGC 8050
+NC_041732.1:Ornithorhynchus_anatinus         GGAGAAGCTGGAGGAGATGAAGGAGAAGGTGGAGCAGCAAGCCAACGAGGTGCGTGAGCAGCTGGAGAAG 8050
+NW_020665249.1:Terrapene_carolina_triunguis  GGAGAAGGCTGAGGAGGTGCAGAGCTCCCTAGACCAGGCTGCTGAGCAGGTCCGCCAG------------ 8050
+NW_005843381.1:Alligator_sinensis            -----------AGGATATGCGTGGCTCCCTGGACCGCGCAGCCACGCAGCTGCAAGAG------------ 8050
+NW_018151423.1:Pogona_vitticeps              TGAAAAAGCCGAGGAAGTCAAAGGCTCCTTCGACCAATTTGCCGAAAAGATGAATCAG------------ 8050
+NC_030683.2:Xenopus_tropicalis               GAAGACAGCCTCTGATGTGAAAAGCAGTGTGGATAAACTAGGGGAACAGTTCCGTAAA------------ 8050
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 8050
+NC_007130.7:Danio_rerio                      TTAAACATATTTTGATGCAAA---------------------------------CTAA------------ 8050
+NC_072417.1:Pan_troglodytes                  GGAGCAGGTGGCGGAGGTGCGCGCCAAGCTGGAGGAGCAGGCCCAGCAGATACGCCTGCAGGCCGAGGCC 8050
+NC_000073.7:Mus_musculus                     TGAGCACATGGAGGAGGTGCGCTCCAAGATGGAGGAACAGACCCAGCAAATACGCCTGCAGGCGGAGATC 8050
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TTCCAGGCCCGCCTCAAGAGCTGGTTCGAGCCCCTGGTGGAAGACATGCAGCGCCAGTGGGCCGGGCTGG 8120
+NW_018344052.1:Phascolarctos_cinereus        TTTCACGACCGCCTGAAGGCCTGGTTCCAGCCCCTGACCACCGACCTGCAACGCCAGTGGACGTTGCTGG 8120
+NC_041732.1:Ornithorhynchus_anatinus         ATACAGGAGCAGTTGAGGAGCTGGTTCCAGCCTCTCGTCCAAGACGTCCAGACCCAGTGGAGCAACCTGC 8120
+NW_020665249.1:Terrapene_carolina_triunguis  ---------------------TGGTTTGCACCCTTCCTGCAGGATGTCCGTGCCCAGTTACAGGTCCTGG 8120
+NW_005843381.1:Alligator_sinensis            ---------------------TGGCTCGAACCCTTCCTTGCGGACATCCGCACCCAGATGCAGGGGCTGC 8120
+NW_018151423.1:Pogona_vitticeps              ---------------------TGGTTCGCTCCGTATCTGCAGGACATCTCCTCCCAGTTCCAGGCCCTGG 8120
+NC_030683.2:Xenopus_tropicalis               ---------------------TGGTTCAACCCCAATGTAGAGAGCCTGCGCAATCAGCTTCAAGCCTTGG 8120
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 8120
+NC_007130.7:Danio_rerio                      ---------------------TATTTTATCCCTCATTT-------------------------------- 8120
+NC_072417.1:Pan_troglodytes                  TTCCAGGCCCGCCTCAAGAGCTGGTTCGAGCCCCTGGTGGAAGACATGCAGCGCCAGTGGGCCGGGCTGG 8120
+NC_000073.7:Mus_musculus                     TTCCAGGCCCGCCTCAAGGGCTGGTTCGAGCCAATAGTGGAAGACATGCATCGCCAGTGGGCAAACCTGA 8120
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    T-----------GGAGAAGGTGCAGGCTGCC---GTGGGCACCAGCGCCG-------------------- 8190
+NW_018344052.1:Phascolarctos_cinereus        T-----------GGACAAGGTTCAGGAAGCC---ATCAATCCCAATGGGAAGCTAGGA---------GAC 8190
+NC_041732.1:Ornithorhynchus_anatinus         T-----------GGAGAAGGTGCAGGGCATC---A-AGGAACCGGTGCC--------------------- 8190
+NW_020665249.1:Terrapene_carolina_triunguis  T-----------GGAGAAGCTGCAAGGG--------AAACTCCAGCTGTAAC------------------ 8190
+NW_005843381.1:Alligator_sinensis            T-----------GGACAAGCTGCAGGCC--------AAGGAGCAGCAGTAG------------------- 8190
+NW_018151423.1:Pogona_vitticeps              C------------GGAGAAGTTCAACAATCC---GCAGGCATAAAACCTGGCCGACACTCC--------- 8190
+NC_030683.2:Xenopus_tropicalis               CTAAGAGCCTGCAGACCAAGGCCAACAAATAAATGAAAGAACCAGTGTTTTTCCTTGCTTCTCACTTGCA 8190
+NW_005819514.1:Latimeria_chalumnae           ----------------------------------------TTGAGCCCTATGCCACAA------------ 8190
+NC_007130.7:Danio_rerio                      -----GATTTATAGAAAAATGTCAACATACCTTGAGGAGGTTCAGTCTCGTGCTTCAC------------ 8190
+NC_072417.1:Pan_troglodytes                  T-----------GGAGAAGGTGCAGGCTGCC---ATGGGCACCAGCGCCG-------------------- 8190
+NC_000073.7:Mus_musculus                     T-----------GGAGAAGATACAGGCCTCT---GTGGCTACCAACCCCAT------------------- 8190
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 8260
+NW_018344052.1:Phascolarctos_cinereus        GCACCCGATACTCCCCTCA------------------------------------GTGACAACTGAAAGC 8260
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 8260
+NW_020665249.1:Terrapene_carolina_triunguis  AGCCCCTGCTCACCCCACA------------------------------------CTGTGGCCCCCTGAC 8260
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------GCGCTTCCCCAGC 8260
+NW_018151423.1:Pogona_vitticeps              --------------------------------CAGCCAAAACAAATAATAATAATCCTTGGTTTCTTCAC 8260
+NC_030683.2:Xenopus_tropicalis               GCTGCTACTTTTGACCATAAGATTGCGCCCTGAGGTGGAGCAGGACATTAAGGATCCAACATGCCTAAAC 8260
+NW_005819514.1:Latimeria_chalumnae           --------------------------------ACATCAGGGAGAAGACTGAAG--------------AAC 8260
+NC_007130.7:Danio_rerio                      --------------------------------AGAGCGTGGAAGATGTGAAGG--------------ATC 8260
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8260
+NC_000073.7:Mus_musculus                     ------------------------------------------------------------------CATC 8260
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -CCCCTGTGCCCAGCGACAATCACTGAAC-------------------------------GCCGAAGCCT 8330
+NW_018344052.1:Phascolarctos_cinereus        TCCCTAGAGCCC--------TCCATGGGT------------------TCCCCGTAGTTC-ACCCTGTCTC 8330
+NC_041732.1:Ornithorhynchus_anatinus         -----------------CGAAGAATGAGC--------------------------------CGGAGCCCC 8330
+NW_020665249.1:Terrapene_carolina_triunguis  AGCCCAGAGCCCTGG--CAATCCAGGGGCCTGCATTCCCAG----GTCTCCCACAGTACAGCCCTGCCCA 8330
+NW_005843381.1:Alligator_sinensis            CCCCCAGGGCCT------------------------------------------------GCTGCCCCCA 8330
+NW_018151423.1:Pogona_vitticeps              GACCTGAGCCTCCTTG-----------------------------------------------------G 8330
+NC_030683.2:Xenopus_tropicalis               ATCTTGCCTTTCCCTGTTTGTATCTGAGGTACATCACCCAGTGATTATACTGCTCACCTAGGCAAGCTCA 8330
+NW_005819514.1:Latimeria_chalumnae           GTCTAGTGTCCCTTCATCAGACTCTGAACCAGCAAGCCCAAAA-----------CGCCCAGGAGAGGC-- 8330
+NC_007130.7:Danio_rerio                      GTCTGGAGCCTTACTTCACGTCGATGCACGAGCGCGCTCAA----------------------------- 8330
+NC_072417.1:Pan_troglodytes                  -CCCCTGTGCCCAGCGACAATCACTGA------------------------------------------- 8330
+NC_000073.7:Mus_musculus                     ACCCCAGTGGCCCAGGAGAATCAATGAGT----------------------------------------- 8330
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    GCAGC----------------------------------------------------------------- 8400
+NW_018344052.1:Phascolarctos_cinereus        CTGCC----------------------------------------------------------------- 8400
+NC_041732.1:Ornithorhynchus_anatinus         CCGGC----------------------------------------------------------------- 8400
+NW_020665249.1:Terrapene_carolina_triunguis  CTGACACCAAGCTAGCCAC--------------------------------------------------- 8400
+NW_005843381.1:Alligator_sinensis            CCGGC----------------------------------------------------------------- 8400
+NW_018151423.1:Pogona_vitticeps              TTGAGCAGGCATTGACCATC-------------------------------------------------- 8400
+NC_030683.2:Xenopus_tropicalis               TTAATCAGATCTCTGACATTAATGACAAGCACAAATTAGAGGTGAACGATGTAAAGCCAAAGGGAACTTC 8400
+NW_005819514.1:Latimeria_chalumnae           TTAAGCAGAAGACTGA----------------AGAGTTCCGTGGCCAGCTGGAAGACAAAGCCGA----- 8400
+NC_007130.7:Danio_rerio                      -----CAGAAGCTGGT----------------GAATCTGAGAGAAGCGCTGAGAAGCCAGGCTGA----- 8400
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8400
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 8400
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 8470
+NW_018344052.1:Phascolarctos_cinereus        -----------------------TGG-------------------------------------------- 8470
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 8470
+NW_020665249.1:Terrapene_carolina_triunguis  ------GGAGGTCTGT-GACTCCTGGAGCGAA---------------------------CAGGTATGAGT 8470
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 8470
+NW_018151423.1:Pogona_vitticeps              ------GTAGTCACGTACTAACCT---------------------------------------CACATGG 8470
+NC_030683.2:Xenopus_tropicalis               AGTATTAAAGGCACAT-TTAACCTAAGGGCAAGCCTTAAATTATAGCACTAAACTATCCCCAGCATATTC 8470
+NW_005819514.1:Latimeria_chalumnae           ------GGAGATCCGC-TTGACCTTGGAAGAA-------------------------------------- 8470
+NC_007130.7:Danio_rerio                      ------GGAAAT------------------AA-------------------------------------- 8470
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8470
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 8470
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------------------------CATGCGACCCC------------------------------- 8540
+NW_018344052.1:Phascolarctos_cinereus        ----------------------------GAGGCCTCCTG--------------------------TCCTC 8540
+NC_041732.1:Ornithorhynchus_anatinus         ----------------------------CAGTTCCCCCG------------------------------- 8540
+NW_020665249.1:Terrapene_carolina_triunguis  CACTTCACCTGCTAAGCCCG-----CTCCAGACCTCCCGCAGG-----------GGCCCAGATCTTCCTT 8540
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 8540
+NW_018151423.1:Pogona_vitticeps              TCCTGCGCCACCCTCACCTC-------------------------------------------------- 8540
+NC_030683.2:Xenopus_tropicalis               TCCTGCACTAAACATGCCTTGTGTCCTACAGATCTCCAGCTGACTGCCCTGCCTGAACAAGAACCTACAT 8540
+NW_005819514.1:Latimeria_chalumnae           ---------------------------------------------------------------------- 8540
+NC_007130.7:Danio_rerio                      ---------------------------------------------------------------------- 8540
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8540
+NC_000073.7:Mus_musculus                     ---------------------------------------------------------------------- 8540
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ------------------------------A----------------------CGCCACCCCGTGCCTCC 8610
+NW_018344052.1:Phascolarctos_cinereus        ATCC--------------------ACCAGTG----------------------GACCCTCCCCTGTCCTC 8610
+NC_041732.1:Ornithorhynchus_anatinus         ------------------------------A----------------------CTCCCTTCCGGGCCTCG 8610
+NW_020665249.1:Terrapene_carolina_triunguis  GTCCCTGTGCATGAGCCCCAGTGTATAGATA----------------------TTGCCACTCTGATCCTG 8610
+NW_005843381.1:Alligator_sinensis            ---------------------------------------------------------------------- 8610
+NW_018151423.1:Pogona_vitticeps              -------------------------------------------------------CCTCCACTTCT---- 8610
+NC_030683.2:Xenopus_tropicalis               ACCT---TAGGCAAGTTAAGATTCACAGAAAAGCTAAGACAGAAAAGTATATGAGCCTCTACATGTTATA 8610
+NW_005819514.1:Latimeria_chalumnae           --------AAAGCAGATGAGATTCGCAAGTGGTTTA-------------------CTCCCTTTTTTGATG 8610
+NC_007130.7:Danio_rerio                      --------AGGAGAGACTGGACTCACGAATG--------------------------------------- 8610
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8610
+NC_000073.7:Mus_musculus                     -----------------------------------------------------ATCCTTCTCCTGTCCTG 8610
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TGCCTCCGC-------------------------------------------------------GCAGCC 8680
+NW_018344052.1:Phascolarctos_cinereus        ----------------------------------------------------------------CCCTCA 8680
+NC_041732.1:Ornithorhynchus_anatinus         AACCCCCAC-------------------------------------------------------CCCCTC 8680
+NW_020665249.1:Terrapene_carolina_triunguis  CGCTCACACTTGGG--------ACTGGTGGAAATGATGCCCATGAATCTGGCCCTGAACTGCTTTTGTGC 8680
+NW_005843381.1:Alligator_sinensis            ----------------------------------------------------------------CTCTGC 8680
+NW_018151423.1:Pogona_vitticeps              --CCTTGGCTAGAGTGCCGC------------------------------------CATTTTGACTTCCT 8680
+NC_030683.2:Xenopus_tropicalis               TTTTCCATTTGGAACACAGGCCCCAAGGGCAAGCAGTAAACTAGGCCATGCAAG-GAATCACTTGTACCA 8680
+NW_005819514.1:Latimeria_chalumnae           AATTACGTCAACAGTTCAGTGCATTAATTGAGAGAGTCCAGAAAAGCACAGAA---GCTTAATTTTTTTT 8680
+NC_007130.7:Danio_rerio                      --------CAGGAGCTCAGAGATCAAGTTGAGAAGACCAAAGAGAATGTGCAC---AACACTCTTCAGCA 8680
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8680
+NC_000073.7:Mus_musculus                     CAACAACAT-------------------------------------------------------CCATAT 8680
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    TGCAGCGGGAGAC---------------------------CCTGTCCCCGCCCCAGCCGTCCTCCTG--- 8750
+NW_018344052.1:Phascolarctos_cinereus        ACCTCCAGCAGAT------GAGGAT------------------------GCTCCAGTCCCCCCCCTCACC 8750
+NC_041732.1:Ornithorhynchus_anatinus         TGCTCTCGAAGAT---------------------------AATAAACACA-CTTAGGTGGCTTTCTG--- 8750
+NW_020665249.1:Terrapene_carolina_triunguis  ACGCCCTGGAGACATGAGAGAGGATA-------------ACCTCCGCCCATCCCATTCTCCCCTCTCTAA 8750
+NW_005843381.1:Alligator_sinensis            ACTCGCTGGGGAC---------------------------CCCTCCCCAGCCCCGTGCCCCCC------- 8750
+NW_018151423.1:Pogona_vitticeps              AACCTCTGCACATTT-------------------------CGCCACCACCTTTTAGGTCTGGCATTCTAA 8750
+NC_030683.2:Xenopus_tropicalis               AACAGCTGGGGTCTTAAACAAGAGGGTTCATGGATGTCTGTATCTCAACCTACTAAATATCCATATTGTA 8750
+NW_005819514.1:Latimeria_chalumnae           AACTTCAGTAAAGGTGCAATTGTCTTTTTAAGTA-----------CAATTTTCTGCATTGCTGAGTATTA 8750
+NC_007130.7:Danio_rerio                      AAAGGCAGAGGATGTACAAAAGTGGTTTGAG-------------------CCCTACGTCTCTCA------ 8750
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8750
+NC_000073.7:Mus_musculus                     CCAGCCAGGTGGC---------------------------CCTGT------CTCAAGCACCTCTCTGG-- 8750
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ---------------------------------------------------------------------- 8820
+NW_018344052.1:Phascolarctos_cinereus        TC---------------------CGCAGGGCAGGCC--AGTGCGCTCCAGGGCTCTGGCCCTCAGCCCCT 8820
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 8820
+NW_020665249.1:Terrapene_carolina_triunguis  C------------------------CACAGCTGAAC--GTGATGCCCCTA---------TCCCATCCCTG 8820
+NW_005843381.1:Alligator_sinensis            ------------------------------------------------------------GCAGTCCCCA 8820
+NW_018151423.1:Pogona_vitticeps              TGGTTGC-------------------------------------CCTCTGAAGCTCTGATATTTTTATAT 8820
+NC_030683.2:Xenopus_tropicalis               TCACC------AGCTCTTGAAAATGTAGGGCACCATTATGGGCATTGCTGGTGTCTTTATGTTTCTTAAT 8820
+NW_005819514.1:Latimeria_chalumnae           TGACAACCTATAGTGCAGTGAGATATAGAGTCAATCTGAGTATATTAATAGCACAAAGGTATATTGACAA 8820
+NC_007130.7:Danio_rerio                      -----------CATCCAGAAGCAAATGGAGCCAGTCTGGGAGAGCCTTTAATGCCAGTGAATAACCTCAT 8820
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8820
+NC_000073.7:Mus_musculus                     ------------------------------------------------------------------CCCT 8820
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    -GGGTGGACCCTA--------------------------------------------------GTTTAAT 8890
+NW_018344052.1:Phascolarctos_cinereus        CTACTACCCTTGGGAGATGGGGTCAGGTGGGGGGGCTACATGTAGTCTAAGCTCAGGCCAACAATAAAGT 8890
+NC_041732.1:Ornithorhynchus_anatinus         -TAGCA---------------------------------------------------------------- 8890
+NW_020665249.1:Terrapene_carolina_triunguis  CTGTTAGATCTCCTGTGT------------------------TCACCAGTGCTTTCACCTGAAACTAAAT 8890
+NW_005843381.1:Alligator_sinensis            CTGTCACGCTCTC------------------------------------------------------AAT 8890
+NW_018151423.1:Pogona_vitticeps              ACAGTATA----------------------------------------TAACTGTTACCCTGCCCTGCCC 8890
+NC_030683.2:Xenopus_tropicalis               ACACTCCCCTTTT---------------------------TTAAACCTAAAATAACGTTGTGCCTTCACT 8890
+NW_005819514.1:Latimeria_chalumnae           TTGACACTCCC-------------------------------------------AGACTTCTCTCTAACC 8890
+NC_007130.7:Danio_rerio                      TCAAGACT-----------------------------------------------------TTTTCCACT 8890
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8890
+NC_000073.7:Mus_musculus                     CTGGTG-GCCCTT--------------------------------------------------GCTTAAT 8890
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    AAAGATTCACCAAG-------------------------------------------------------- 8960
+NW_018344052.1:Phascolarctos_cinereus        GAAAGCTTGCT----------------------------------------------------------- 8960
+NC_041732.1:Ornithorhynchus_anatinus         ---------------------------------------------------------------------- 8960
+NW_020665249.1:Terrapene_carolina_triunguis  AAATTCCTGCTTTGGGCACAAGGTA--------------------------------------------- 8960
+NW_005843381.1:Alligator_sinensis            AAAGGCCTGCTTCGGGCA---------------------------------------------------- 8960
+NW_018151423.1:Pogona_vitticeps              ACACACCGATTTT----------------------TAACATGCCC---AAGACACTTGTGGCATTGCTTT 8960
+NC_030683.2:Xenopus_tropicalis               AGATTTCTGCTGTATGTGCTGCCTTACCTACTTTATAAAGTGCCT-----CTCTGCTGTAAAATA--TAT 8960
+NW_005819514.1:Latimeria_chalumnae           AAAGCTTAGTTTTATTTGTAACCCCATTTGATGGGTAAAATGCTT---AAACCAACTGTCATACCTTTGT 8960
+NC_007130.7:Danio_rerio                      TAACTTGAATTTCAGAAATAAAGCAATTGGAAATGTAAAGGTGATGGGAAATTGACCAGCAGAAC--TAC 8960
+NC_072417.1:Pan_troglodytes                  ---------------------------------------------------------------------- 8960
+NC_000073.7:Mus_musculus                     AAAGATTCTCCGAGCACATTCTGAG------------------------------------------TCT 8960
+                                                                                                                   
+
+NC_000019.10:Homo_sapiens                    ----------TTTCACGCA-------------------------------------------- 9023
+NW_018344052.1:Phascolarctos_cinereus        -TGTGTGCAA----------------------------------------------------- 9023
+NC_041732.1:Ornithorhynchus_anatinus         --------------------------------------------------------------- 9023
+NW_020665249.1:Terrapene_carolina_triunguis  --------------------------------------------------------------- 9023
+NW_005843381.1:Alligator_sinensis            --------------------------------------------------------------- 9023
+NW_018151423.1:Pogona_vitticeps              TGCCGTGTTTTCTCGGCTTT-----ATCTGTAACAATAAAATATACTTTGGATATTTTGTGAA 9023
+NC_030683.2:Xenopus_tropicalis               GTCTATTTCAATGCAATTTTTATCCAAATAAAAAAAAATAAAATACATCTAATTACTGTGGA- 9023
+NW_005819514.1:Latimeria_chalumnae           ATCTAAGCTCCTACAATTAAAATAAGTCTGCATCCACTAA----------------------- 9023
+NC_007130.7:Danio_rerio                      ATGTATGCGGCTACAGATGTAGCCAATGTAAGATCAATAAAGAAGCATGT-ACCACTG----- 9023
+NC_072417.1:Pan_troglodytes                  --------------------------------------------------------------- 9023
+NC_000073.7:Mus_musculus                     CTGTGAGTGATTCCAA----------------------------------------------- 9023
+                                                                                                            
+
