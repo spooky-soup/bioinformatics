@@ -1,0 +1,15 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+fastqc1path:
+  type: text.TextDataSet
+  filepath: "/home/spooky/3year/bioinformatics/HW3/kedro-environment/helloworld/data/01_raw/fastqc_in/in1.txt"
+ 
+fastqc2path:
+  type: text.TextDataSet
+  filepath: "/home/spooky/3year/bioinformatics/HW3/kedro-environment/helloworld/data/01_raw/fastqc_in/in2.txt"
+
+refseq_fasta_path:
+  type: text.TextDataSet
+  filepath: "/home/spooky/3year/bioinformatics/HW3/kedro-environment/helloworld/data/01_raw/bwa_in/refseq_fasta_path.txt"
