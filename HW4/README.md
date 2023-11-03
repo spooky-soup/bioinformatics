@@ -4,7 +4,9 @@
 -----------------------------------
 **Программное обеспечение PyMOL** - программа для визуализации структуры белков,
 позволяющая интегрировать разные типы отображения и окраски структур.
-![Графический интерфейс PyMOL](https://drive.google.com/drive/u/1/folders/1ehbawSLRnDeJkP9MCsgh4lziU3Q_GX0S)
+
+![Графический интерфейс PyMOL](https://github.com/spooky-soup/bioinformatics/blob/main/HW4/PyMOL_GUI.png)
+
 Основной интерфейс находится справа, где располагается список всех открытых
 молекул (в данном случае - [1si4 - гемоглобин человека](https://www.rcsb.org/structure/1SI4))
 Каждая открытая молекула содержит пункты Action (открыть/закрыть/удалить и т.д.),
@@ -28,4 +30,4 @@
 правом меню, у которого можно отдельно настроить параметры отображения и цвета.
 
 Полученное изображение:
-![Гемоглобин человека](https://drive.google.com/drive/u/1/folders/1ehbawSLRnDeJkP9MCsgh4lziU3Q_GX0S)
+![Гемоглобин человека](https://github.com/spooky-soup/bioinformatics/blob/main/HW4/1si4_final_chem.png)
